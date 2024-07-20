@@ -449,10 +449,17 @@ export const TableDemo: React.FC<TableProps> = ({data, ordersWithDemands}) => {
                         className="w-full p-2 resize-none"
                         placeholder="Comment"
                         onChange={(e) => {
-                          setComments({
-                            ...comments,
-                            [order.id]: e.target.value,
-                          });
+                          if (!order.description) {
+                            setComments({
+                              ...comments,
+                              [order.id]: e.target.value,
+                            });
+                          } else {
+                            setComments({
+                              ...comments,
+                              [order.id]: e.target.value,
+                            });
+                          }
                         }}
                       ></textarea>
                     </TableCell>
