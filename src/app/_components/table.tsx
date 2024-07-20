@@ -495,7 +495,7 @@ const Dialog = ({
       <AlertDialogContent>
         <AlertDialogHeader>
           <AlertDialogTitle>
-            Ma'lumotlar yuborishni tasdiqlaysizmi?
+            Ma&apos;lumotlar yuborishni tasdiqlaysizmi?
           </AlertDialogTitle>
         </AlertDialogHeader>
         <AlertDialogFooter>
