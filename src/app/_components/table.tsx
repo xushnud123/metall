@@ -319,8 +319,6 @@ export const TableDemo: React.FC<TableProps> = ({data, ordersWithDemands}) => {
 
       return merged;
     });
-
-    console.log(selectedProducts);
   };
 
   // useEffect(() => {

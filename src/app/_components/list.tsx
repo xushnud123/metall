@@ -11,8 +11,6 @@ const List = () => {
   const {data: ordersWithDemand, isLoading: ordersWithDemandLoading} =
     useGetOrdersWithDemand();
 
-  console.log(ordersWithDemand);
-
   if (isLoading || ordersWithDemand) return "Loading...";
 
   return (
