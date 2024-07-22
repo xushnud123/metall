@@ -1,2 +1,2 @@
-export const CUSTOM_ENTITY_ID = "97ccdf5d-4356-11ef-0a80-1582000d371a";
-export const CUSTOM_ENTITY_ID_2 = "26365481-4358-11ef-0a80-04b6000d8163";
+export const CUSTOM_ENTITY_ID = "b6a46306-3c58-11ef-0a80-0f5500280326";
+export const CUSTOM_ENTITY_ID_2 = "1dffdc94-3d11-11ef-0a80-04950037fce2";

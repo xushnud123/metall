@@ -13,7 +13,7 @@ export async function GET() {
           expand: "positions.assortment,organization,agent,attributes",
           limit: 100,
           filter:
-            "state=https://api.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/states/abedc55c-40fe-11ef-0a80-018e0020d812",
+            "state=https://api.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/states/b87638a3-3c4d-11ef-0a80-0e9b00276b85",
         },
       }
     );
