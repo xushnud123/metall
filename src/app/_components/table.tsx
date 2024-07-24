@@ -213,11 +213,11 @@ export const TableDemo: React.FC<TableProps> = ({data, ordersWithDemands}) => {
     if (entityObj && Object.keys(entityObj).length > 0) {
       attributes.push({
         meta: {
-          href: "https://api.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/attributes/c85dd91c-4366-11ef-0a80-0bdf0011533b",
+          href: "https://api.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/attributes/bf6c8db4-4807-11ef-0a80-037f00392b45",
           type: "attributemetadata",
           mediaType: "application/json",
         },
-        id: "c85dd91c-4366-11ef-0a80-0bdf0011533b",
+        id: "bf6c8db4-4807-11ef-0a80-037f00392b45",
         name: "Кто отгрузил",
         type: "customentity",
         value: {
@@ -231,12 +231,12 @@ export const TableDemo: React.FC<TableProps> = ({data, ordersWithDemands}) => {
     if (entityObj2 && Object.keys(entityObj2).length > 0) {
       attributes.push({
         meta: {
-          href: "https://api.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/attributes/09e8f85b-467f-11ef-0a80-0c0c001e0805",
+          href: "https://api.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/attributes/8335b1d3-4866-11ef-0a80-1158000185d0",
           type: "attributemetadata",
           mediaType: "application/json",
         },
-        id: "09e8f85b-467f-11ef-0a80-0c0c001e0805",
-        name: "Brigada",
+        id: "8335b1d3-4866-11ef-0a80-1158000185d0",
+        name: "Бригада",
         type: "customentity",
         value: {
           meta: entityObj2.meta,
