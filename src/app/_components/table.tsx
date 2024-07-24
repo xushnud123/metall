@@ -8,9 +8,9 @@ import {
   AlertDialogTitle,
 } from "@/components/ui/alert-dialog";
 
-import {Badge} from "@/components/ui/badge";
-import {Button} from "@/components/ui/button";
-import {Checkbox} from "@/components/ui/checkbox";
+import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
+import { Checkbox } from "@/components/ui/checkbox";
 import {
   Select,
   SelectContent,
@@ -27,24 +27,27 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
-import {useGetCustomEntity} from "@/hooks/use-get-custom-entity";
-import {useGetCustomEntity2} from "@/hooks/use-get-custom-entity-2";
-import {AlertDialogCancel} from "@radix-ui/react-alert-dialog";
+import { useGetCustomEntity } from "@/hooks/use-get-custom-entity";
+import { useGetCustomEntity2 } from "@/hooks/use-get-custom-entity-2";
+import { AlertDialogCancel } from "@radix-ui/react-alert-dialog";
 import axios from "axios";
-import React, {useEffect} from "react";
+import React, { useEffect } from "react";
 
 interface TableProps {
   data: Order[];
-  ordersWithDemands: {[key: string]: Array<string>};
+  ordersWithDemands: { [key: string]: Array<string> };
 }
 
 type Comments = {
   [key: string]: string;
 };
 
-export const TableDemo: React.FC<TableProps> = ({data, ordersWithDemands}) => {
-  const {data: customEntityData, isLoading} = useGetCustomEntity();
-  const {data: customEntityData2, isLoading: isLoading2} =
+export const TableDemo: React.FC<TableProps> = ({
+  data,
+  ordersWithDemands,
+}) => {
+  const { data: customEntityData, isLoading } = useGetCustomEntity();
+  const { data: customEntityData2, isLoading: isLoading2 } =
     useGetCustomEntity2();
 
   const [loading, setLoading] = React.useState(false);
@@ -201,9 +204,9 @@ export const TableDemo: React.FC<TableProps> = ({data, ordersWithDemands}) => {
       applicable: currentOrder.applicable,
       vatEnabled: currentOrder.vatEnabled,
       vatIncluded: currentOrder.vatIncluded,
-      agent: {meta: currentOrder.agent_meta},
+      agent: { meta: currentOrder.agent_meta },
       // agentAccount: currentOrder.agentAccount_meta,
-      state: {meta: currentOrder.state_meta},
+      state: { meta: currentOrder.state_meta },
       description: comments[currentOrder.id],
     };
 
@@ -256,8 +259,8 @@ export const TableDemo: React.FC<TableProps> = ({data, ordersWithDemands}) => {
 
     const payload = {
       orderId: currentOrder.id,
-      organization: {meta: currentOrder.organization_meta},
-      agent: {meta: currentOrder.agent_meta},
+      organization: { meta: currentOrder.organization_meta },
+      agent: { meta: currentOrder.agent_meta },
       store: currentOrder.store,
       customerOrder: {
         meta: {
@@ -306,9 +309,9 @@ export const TableDemo: React.FC<TableProps> = ({data, ordersWithDemands}) => {
     localStorage.setItem("selectedProducts", JSON.stringify(selectedProducts));
   }, [selectedProducts]);
 
-  const mergeDemands = (demands: {[key: string]: string[]}) => {
+  const mergeDemands = (demands: { [key: string]: string[] }) => {
     setSelectedProducts((prevSelectedProducts) => {
-      const merged = {...prevSelectedProducts};
+      const merged = { ...prevSelectedProducts };
 
       Object.entries(demands).forEach(([key, value]) => {
         if (!merged[key]) {
@@ -380,10 +383,15 @@ export const TableDemo: React.FC<TableProps> = ({data, ordersWithDemands}) => {
 
                   value={
                     entityId2 ||
-                    customEntityData2?.rows?.filter(
-                      (entity: any) =>
-                        entity?.name === order?.attributes?.[1]?.value?.name
-                    )[0]?.id
+                    customEntityData2?.rows
+                      ?.sort(
+                        (a: { name: number }, b: { name: number }) =>
+                          a.name - b.name
+                      )
+                      .filter(
+                        (entity: any) =>
+                          entity?.name === order?.attributes?.[1]?.value?.name
+                      )[0]?.id
                   }
                   onValueChange={(e) => setEntityId2(e)}
                 >
@@ -409,7 +417,7 @@ export const TableDemo: React.FC<TableProps> = ({data, ordersWithDemands}) => {
               <Table className="rounded-xl border-zinc-100">
                 <TableHeader>
                   <TableRow className="border border-t">
-                    <TableHead className="w-[150px]">Tovar Nomi</TableHead>
+                    <TableHead className="w-1/2">Tovar Nomi</TableHead>
                     <TableHead>Soni</TableHead>
                     <TableHead>Yuklandi</TableHead>
                   </TableRow>
