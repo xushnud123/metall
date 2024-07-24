@@ -50,7 +50,6 @@ export const TableDemo: React.FC<TableProps> = ({
   const { data: customEntityData2, isLoading: isLoading2 } =
     useGetCustomEntity2();
 
-  const [loading, setLoading] = React.useState(false);
   const [open, setOpen] = React.useState(false);
   const [currentOrderId, setCurrentOrderId] = React.useState("");
 
@@ -103,97 +102,12 @@ export const TableDemo: React.FC<TableProps> = ({
       (order) => order.id === currentOrderId
     )?.[0];
 
-    // {
-    //   "name": "000039",
-    //   "externalCode": "championCode",
-    //   "code": "codeOfChampion",
-    //   "moment": "2013-04-19 13:50:24",
-    //   "applicable": true,
-    //   "vatEnabled": true,
-    //   "vatIncluded": true,
-    //   "agent": {
-    //     "meta": {
-    //         "href": "https://api.moysklad.ru/api/remap/1.2/entity/counterparty/71d48933-fd85-11e5-9464-e4de00000005",
-    //         "type": "counterparty",
-    //         "mediaType": "application/json"
-    //     }
-    //   },
-    //   "agentAccount": {
-    //     "meta": {
-    //                 "href": "https://api.moysklad.ru/api/remap/1.2/entity/counterparty/71d48933-fd85-11e5-9464-e4de00000005/accounts/71d4cfdb-fd85-11e5-9464-e4de00000006",
-    //                 "type": "account",
-    //                 "mediaType": "application/json"
-    //             }
-    //   },
-    //   "state": {
-    //     "meta": {
-    //       "href": "https://api.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/states/fb56c504-2e58-11e6-8a84-bae500000069",
-    //       "type": "state",
-    //       "mediaType": "application/json"
-    //     }
-    //   },
-    //   "attributes": [
-    //     {
-    //       "meta": {
-    //         "href": "https://api.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/attributes/0cd74e1e-2e59-11e6-8a84-bae50000008a",
-    //         "type": "attributemetadata",
-    //         "mediaType": "application/json"
-    //       },
-    //       "value": "Обновленный Атрибут заказа",
-    //     }
-    //   ]
-    // }
-
     const entityObj = customEntityData.rows.filter(
       (en: any) => en.id === entityId
     )[0];
     const entityObj2 = customEntityData2.rows.filter(
       (en: any) => en.id === entityId2
     )[0];
-
-    // const putPayload = {
-    //   id: currentOrder.id,
-    //   name: currentOrder.code,
-    //   externalCode: currentOrder.externalCode,
-    //   moment: currentOrder.moment,
-    //   code: currentOrder.mainCode,
-    //   applicable: currentOrder.applicable,
-    //   vatEnabled: currentOrder.vatEnabled,
-    //   vatIncluded: currentOrder.vatIncluded,
-    //   agent: { meta: currentOrder.agent_meta },
-    //   // agentAccount: currentOrder.agentAccount_meta,
-    //   state: { meta: currentOrder.state_meta },
-    //   attributes: [
-    //     {
-    //       meta: {
-    //         href: "https://api.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/attributes/c85dd91c-4366-11ef-0a80-0bdf0011533b",
-    //         type: "attributemetadata",
-    //         mediaType: "application/json",
-    //       },
-    //       id: "c85dd91c-4366-11ef-0a80-0bdf0011533b",
-    //       name: "Кто отгрузил",
-    //       type: "customentity",
-    //       value: {
-    //         meta: entityObj.meta,
-    //         name: entityObj.name,
-    //       },
-    //     },
-    //     {
-    //       meta: {
-    //         href: "https://api.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/attributes/09e8f85b-467f-11ef-0a80-0c0c001e0805",
-    //         type: "attributemetadata",
-    //         mediaType: "application/json",
-    //       },
-    //       id: "09e8f85b-467f-11ef-0a80-0c0c001e0805",
-    //       name: "Brigada",
-    //       type: "customentity",
-    //       value: {
-    //         meta: entityObj2.meta,
-    //         name: entityObj2.name,
-    //       },
-    //     },
-    //   ],
-    // };
 
     const putPayload: any = {
       id: currentOrder.id,
@@ -262,6 +176,7 @@ export const TableDemo: React.FC<TableProps> = ({
       organization: { meta: currentOrder.organization_meta },
       agent: { meta: currentOrder.agent_meta },
       store: currentOrder.store,
+      rate: currentOrder.rate,
       customerOrder: {
         meta: {
           href: currentOrder.meta.href,
@@ -323,13 +238,6 @@ export const TableDemo: React.FC<TableProps> = ({
       return merged;
     });
   };
-
-  // useEffect(() => {
-  //   if (customEntityData && customEntityData2) {
-  //     setEntityId(customEntityData.rows?.[0].id);
-  //     setEntityId2(customEntityData2.rows?.[0].id);
-  //   }
-  // }, [customEntityData, customEntityData2]);
 
   return (
     <div>

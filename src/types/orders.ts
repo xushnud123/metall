@@ -45,4 +45,10 @@ type Order = {
   agentAccount_meta: Meta;
   state_meta: Meta;
   attributes: any;
+  rate?: {
+    currency: {
+      meta: Meta;
+    };
+    value: number;
+  };
 };

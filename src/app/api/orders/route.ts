@@ -1,16 +1,16 @@
-import {http} from "@/lib/http";
-import {get} from "lodash";
-import {NextRequest, NextResponse} from "next/server";
-import {CustomerOrder} from "./type";
+import { http } from "@/lib/http";
+import { get } from "lodash";
+import { NextRequest, NextResponse } from "next/server";
+import { CustomerOrder } from "./type";
 
 // To handle a GET request to /api
 export async function GET() {
   try {
-    const {data} = await http.get<{rows: CustomerOrder[]}>(
+    const { data } = await http.get<{ rows: CustomerOrder[] }>(
       "/remap/1.2/entity/customerorder",
       {
         params: {
-          expand: "positions.assortment,organization,agent,attributes",
+          expand: "positions.assortment,organization,agent,attributes,rate",
           limit: 100,
           filter:
             "state=https://api.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/states/b8763991-3c4d-11ef-0a80-0e9b00276b86",
@@ -39,6 +39,7 @@ export async function GET() {
       attributes: get(order, "attributes") || "HELLLOWWW",
       description: get(order, "description"),
       phone: get(order, "agent.phone"),
+      rate: get(order, "rate"),
       // customer_order: get(order, 'cus')
       products: get(order, "positions.rows", []).map((position) => ({
         id: get(position, "id"),
@@ -54,15 +55,15 @@ export async function GET() {
       })),
     }));
 
-    return NextResponse.json({data: response}, {status: 200});
+    return NextResponse.json({ data: response }, { status: 200 });
   } catch (err) {
     console.log("ERROR: ", err);
-    return NextResponse.json({error: JSON.stringify(err)}, {status: 401});
+    return NextResponse.json({ error: JSON.stringify(err) }, { status: 401 });
   }
 }
 
 export const POST = async (req: NextRequest, res: NextResponse) => {
-  const {orderId, ...rest} = await req.json();
+  const { orderId, ...rest } = await req.json();
 
   try {
     const isDemandExistData = await http.get(
@@ -76,7 +77,7 @@ export const POST = async (req: NextRequest, res: NextResponse) => {
     console.log("NEW REQ: ", rest);
 
     if (demandId) {
-      const {data} = await http.put(`/remap/1.2/entity/demand/${demandId}`, {
+      const { data } = await http.put(`/remap/1.2/entity/demand/${demandId}`, {
         ...rest,
       });
 
@@ -88,7 +89,7 @@ export const POST = async (req: NextRequest, res: NextResponse) => {
       });
     } else {
       try {
-        const {data} = await http.post(`/remap/1.2/entity/demand`, {
+        const { data } = await http.post(`/remap/1.2/entity/demand`, {
           ...rest,
         });
         console.log("DATA: ", data);
@@ -127,7 +128,7 @@ export const PUT = async (req: NextRequest) => {
   console.log("reqst: ", reqst);
 
   try {
-    const {data} = await http.put(
+    const { data } = await http.put(
       `/remap/1.2/entity/customerorder/${reqst?.id}`,
       reqst
     );
@@ -139,6 +140,9 @@ export const PUT = async (req: NextRequest) => {
   } catch (err: any) {
     console.log("ERROR: ", err.data);
 
-    return NextResponse.json({error: JSON.stringify(err.data)}, {status: 401});
+    return NextResponse.json(
+      { error: JSON.stringify(err.data) },
+      { status: 401 }
+    );
   }
 };
