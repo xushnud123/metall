@@ -231,11 +231,11 @@ export const TableDemo: React.FC<TableProps> = ({data, ordersWithDemands}) => {
     if (entityObj2 && Object.keys(entityObj2).length > 0) {
       attributes.push({
         meta: {
-          href: "https://api.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/attributes/8335b1d3-4866-11ef-0a80-1158000185d0",
+          href: "https://api.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/attributes/cc481563-4807-11ef-0a80-0bea00359633",
           type: "attributemetadata",
           mediaType: "application/json",
         },
-        id: "8335b1d3-4866-11ef-0a80-1158000185d0",
+        id: "cc481563-4807-11ef-0a80-0bea00359633",
         name: "Бригада",
         type: "customentity",
         value: {
