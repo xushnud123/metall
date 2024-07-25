@@ -259,7 +259,7 @@ const ListItem = ({
               }`}
             >
               <SelectValue
-                placeholder={isLoading ? "Loading..." : `Select Loader 1`}
+                placeholder={isLoading ? "Loading..." : `Кто отгрузил`}
               />
             </SelectTrigger>
             <SelectContent>
@@ -277,7 +277,7 @@ const ListItem = ({
               }`}
             >
               <SelectValue
-                placeholder={isLoading2 ? "Loading..." : `Select Loader 2`}
+                placeholder={isLoading2 ? "Loading..." : `Бригада`}
               />
             </SelectTrigger>
             <SelectContent>
