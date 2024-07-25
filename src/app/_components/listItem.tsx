@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Checkbox } from "@/components/ui/checkbox";
@@ -64,6 +64,20 @@ const ListItem = ({
 
   const [entityId, setEntityId] = React.useState("");
   const [entityId2, setEntityId2] = React.useState("");
+
+  useEffect(() => {
+    const selectedEntity = customEntityData?.rows?.filter(
+      (entity: any) => entity?.name === order?.attributes?.[0]?.value?.name
+    )[0]?.id;
+    const selectedEntity2 = customEntityData2?.rows
+      ?.sort((a: { name: number }, b: { name: number }) => a.name - b.name)
+      .filter(
+        (entity: any) => entity?.name === order?.attributes?.[1]?.value?.name
+      )[0]?.id;
+
+    setEntityId(selectedEntity);
+    setEntityId2(selectedEntity2);
+  }, [customEntityData, order, customEntityData2]);
   const [comments, setComments] = React.useState<Comments>({});
 
   const handleOpenModal = (orderId: string) => {
@@ -238,16 +252,7 @@ const ListItem = ({
           <p className="text-xs ml-auto">{order.phone}</p>
         </div>
         <div className="w-full px-5 flex gap-5">
-          <Select
-            value={
-              entityId ||
-              customEntityData?.rows?.filter(
-                (entity: any) =>
-                  entity?.name === order?.attributes?.[0]?.value?.name
-              )[0]?.id
-            }
-            onValueChange={(e) => setEntityId(e)}
-          >
+          <Select value={entityId} onValueChange={(e) => setEntityId(e)}>
             <SelectTrigger
               className={`w-full ${
                 errors.entityId ? "border-2 border-red-600" : ""
@@ -265,20 +270,7 @@ const ListItem = ({
               ))}
             </SelectContent>
           </Select>
-          <Select
-            value={
-              entityId2 ||
-              customEntityData2?.rows
-                ?.sort(
-                  (a: { name: number }, b: { name: number }) => a.name - b.name
-                )
-                .filter(
-                  (entity: any) =>
-                    entity?.name === order?.attributes?.[1]?.value?.name
-                )[0]?.id
-            }
-            onValueChange={(e) => setEntityId2(e)}
-          >
+          <Select value={entityId2} onValueChange={(e) => setEntityId2(e)}>
             <SelectTrigger
               className={`w-full ${
                 errors.entityId2 ? "border-2 border-red-600" : ""
