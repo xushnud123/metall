@@ -18,8 +18,6 @@ export async function GET() {
       }
     );
 
-    console.log("data12311: ", data.rows[0]);
-
     const response = data.rows.map((order) => ({
       externalCode: get(order, "externalCode"),
       moment: get(order, "moment"),
@@ -54,6 +52,8 @@ export async function GET() {
         discount: get(position, "discount"),
       })),
     }));
+
+    console.log(data.rows[0]);
 
     return NextResponse.json({ data: response }, { status: 200 });
   } catch (err) {

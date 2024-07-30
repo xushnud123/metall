@@ -31,6 +31,7 @@ import {
 } from "@/components/ui/table";
 import { useGetCustomEntity } from "@/hooks/use-get-custom-entity";
 import { useGetCustomEntity2 } from "@/hooks/use-get-custom-entity-2";
+import { CHECK_NUMBER_ID } from "@/lib/env";
 
 interface ListItemProps {
   order: Order;
@@ -64,6 +65,10 @@ const ListItem = ({
 
   const [entityId, setEntityId] = React.useState("");
   const [entityId2, setEntityId2] = React.useState("");
+
+  const checkNumber = order.attributes.filter(
+    (item: Attributes) => item.id === CHECK_NUMBER_ID
+  )[0]?.value;
 
   useEffect(() => {
     const selectedEntity = customEntityData?.rows?.filter(
@@ -241,11 +246,18 @@ const ListItem = ({
     }
   };
 
+  console.log(checkNumber);
+
   return (
     <div className="my-5 rounded-md border p-y">
       <Dialog open={open} setOpen={setOpen} onConfirm={onConfirm} />
 
-      <div className="flex flex-col w-full gap-2 mb-5">
+      <div className="flex flex-col w-full mb-5">
+        {checkNumber && (
+          <h2 className="px-5 py-2 text-center text-lg bg-slate-300">
+            {checkNumber}
+          </h2>
+        )}
         <div className="flex items-center gap-2 p-5">
           <Badge variant="secondary">{order.code}</Badge>
           <h4 className="text-sm">{order.agent_name}</h4>

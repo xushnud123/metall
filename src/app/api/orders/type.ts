@@ -223,6 +223,7 @@ export type CustomerOrder = {
   externalCode: string;
   moment: string;
   applicable: boolean;
+  value: number;
   rate: {
     currency: Currency;
   };

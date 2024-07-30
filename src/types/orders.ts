@@ -19,6 +19,18 @@ type Product = {
   discount: number;
 };
 
+type Attributes = {
+  download: {
+    href: string;
+    mediaType: string;
+  };
+  id: string;
+  meta: Meta;
+  name: string;
+  type: string;
+  value: number | string;
+};
+
 type Order = {
   id: string;
   agent_name: string;
