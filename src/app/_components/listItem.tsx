@@ -31,7 +31,7 @@ import {
 } from "@/components/ui/table";
 import { useGetCustomEntity } from "@/hooks/use-get-custom-entity";
 import { useGetCustomEntity2 } from "@/hooks/use-get-custom-entity-2";
-import { CHECK_NUMBER_ID } from "@/lib/env";
+import { CHECK_NUMBER_ID, COMMENT_PRO_ID } from "@/lib/env";
 
 interface ListItemProps {
   order: Order;
@@ -54,6 +54,7 @@ const ListItem = ({
 }: ListItemProps) => {
   const [open, setOpen] = React.useState(false);
   const [currentOrderId, setCurrentOrderId] = React.useState("");
+
   const [errors, setErrors] = React.useState({
     entityId: false,
     entityId2: false,
@@ -68,6 +69,9 @@ const ListItem = ({
 
   const checkNumber = order.attributes.filter(
     (item: Attributes) => item.id === CHECK_NUMBER_ID
+  )[0]?.value;
+  const commentPro = order.attributes.filter(
+    (item: Attributes) => item.id === COMMENT_PRO_ID
   )[0]?.value;
 
   useEffect(() => {
@@ -246,8 +250,6 @@ const ListItem = ({
     }
   };
 
-  console.log(checkNumber);
-
   return (
     <div className="my-5 rounded-md border p-y">
       <Dialog open={open} setOpen={setOpen} onConfirm={onConfirm} />
@@ -316,7 +318,9 @@ const ListItem = ({
             {order.products.map((product) => (
               <TableRow key={product.id}>
                 <TableCell className="font-medium">{product.name}</TableCell>
-                <TableCell>{product.quantity}</TableCell>
+                <TableCell className="text-center">
+                  {product.quantity}
+                </TableCell>
                 <TableCell>
                   <Checkbox
                     className="block ml-5"
@@ -328,6 +332,15 @@ const ListItem = ({
             ))}
           </TableBody>
           <TableFooter>
+            {commentPro && (
+              <TableRow>
+                <TableCell className="text-xs" colSpan={3}>
+                  {commentPro.split("\n").map((item: string) => (
+                    <p key={item}>{item}</p>
+                  ))}
+                </TableCell>
+              </TableRow>
+            )}
             <TableRow>
               <TableCell colSpan={2}>
                 <textarea
