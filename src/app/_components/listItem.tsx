@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { Dispatch, SetStateAction, useEffect, useState } from "react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Checkbox } from "@/components/ui/checkbox";
@@ -52,10 +52,10 @@ const ListItem = ({
   selectedProducts,
   setSelectedProducts,
 }: ListItemProps) => {
-  const [open, setOpen] = React.useState(false);
-  const [currentOrderId, setCurrentOrderId] = React.useState("");
+  const [open, setOpen] = useState(false);
+  const [currentOrderId, setCurrentOrderId] = useState("");
 
-  const [errors, setErrors] = React.useState({
+  const [errors, setErrors] = useState({
     entityId: false,
     entityId2: false,
   });
@@ -64,8 +64,8 @@ const ListItem = ({
   const { data: customEntityData2, isLoading: isLoading2 } =
     useGetCustomEntity2();
 
-  const [entityId, setEntityId] = React.useState("");
-  const [entityId2, setEntityId2] = React.useState("");
+  const [entityId, setEntityId] = useState("");
+  const [entityId2, setEntityId2] = useState("");
 
   const checkNumber = order.attributes.filter(
     (item: Attributes) => item.id === CHECK_NUMBER_ID
@@ -87,7 +87,7 @@ const ListItem = ({
     setEntityId(selectedEntity);
     setEntityId2(selectedEntity2);
   }, [customEntityData, order, customEntityData2]);
-  const [comments, setComments] = React.useState<Comments>({});
+  const [comments, setComments] = useState<Comments>({});
 
   const handleOpenModal = (orderId: string) => {
     const newErrors = {
@@ -318,8 +318,8 @@ const ListItem = ({
             {order.products.map((product) => (
               <TableRow key={product.id}>
                 <TableCell className="font-medium">{product.name}</TableCell>
-                <TableCell className="text-center">
-                  {product.quantity}
+                <TableCell>
+                  <span className="ml-4">{product.quantity}</span>
                 </TableCell>
                 <TableCell>
                   <Checkbox
@@ -389,7 +389,7 @@ const Dialog = ({
   onConfirm,
 }: {
   open: boolean;
-  setOpen: React.Dispatch<React.SetStateAction<boolean>>;
+  setOpen: Dispatch<SetStateAction<boolean>>;
   onConfirm: () => void;
 }) => {
   return (
