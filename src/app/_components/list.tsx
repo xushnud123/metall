@@ -19,16 +19,6 @@ const List = () => {
 
   return (
     <div className="container">
-      <Button
-        size="sm"
-        className="my-2 mt-4 ml-auto"
-        onClick={async () => await refetch()}
-      >
-        <p className="mr-2">Yangilash </p>
-        <RefreshCwIcon
-          className={isRefetching ? `animate-spin w-4 h-4` : "w-4 h-4"}
-        />
-      </Button>
       <div className="mt-5">
         {data?.length ? (
           <TableDemo

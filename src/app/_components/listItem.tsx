@@ -354,7 +354,7 @@ const ListItem = ({
       <div>
         <Table className="rounded-xl border-zinc-100">
           <TableHeader>
-            <TableRow className="border border-t">
+            <TableRow className="border-t  font-bold">
               <TableHead className="w-1/2">Tovar Nomi</TableHead>
               <TableHead>Soni</TableHead>
               <TableHead>Yuklandi</TableHead>
@@ -380,7 +380,7 @@ const ListItem = ({
           <TableFooter>
             {commentPro && (
               <TableRow>
-                <TableCell className="text-xs" colSpan={3}>
+                <TableCell className="text-xs pt-5" colSpan={3}>
                   {commentPro.split("\n").map((item: string) => (
                     <p key={item}>{item}</p>
                   ))}
@@ -420,6 +420,7 @@ const ListItem = ({
                 <Button
                   size="sm"
                   className="w-full"
+                  style={{ background: "#FF4B68", color: "white" }}
                   onClick={() => handleOpenModal(order.id)}
                 >
                   Yuborish
