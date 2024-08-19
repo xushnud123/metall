@@ -1,5 +1,6 @@
 import React, { Dispatch, SetStateAction, useEffect, useState } from "react";
-import { Badge } from "@/components/ui/badge";
+import { format } from "date-fns";
+
 import { Button } from "@/components/ui/button";
 import { Checkbox } from "@/components/ui/checkbox";
 import axios from "axios";
@@ -91,15 +92,16 @@ const ListItem = ({
 
   const handleOpenModal = (orderId: string) => {
     const newErrors = {
-      entityId: !entityId,
-      entityId2: !entityId2,
+      entityId: !entityId || entityId === "0",
+      entityId2: !entityId2 || entityId2 === "0",
     };
     setErrors(newErrors);
 
-    if (!entityId || !entityId2) {
+    if (!entityId || !entityId2 || entityId === "0" || entityId2 === "0") {
       setTimeout(() => {
         setErrors({ entityId: false, entityId2: false });
       }, 3000);
+      return;
     }
 
     if (entityId && entityId2) {
@@ -250,23 +252,48 @@ const ListItem = ({
     }
   };
 
+  const date = new Date(order.moment);
+
+  const formattedDate = format(date, "dd.MM.yyyy");
+
   return (
-    <div className="my-5 rounded-md border p-y">
+    <div className="my-5 rounded-md border border-primary p-y">
       <Dialog open={open} setOpen={setOpen} onConfirm={onConfirm} />
 
       <div className="flex flex-col w-full mb-5">
         {checkNumber && (
-          <h2 className="px-5 py-2 text-center text-lg bg-slate-300">
+          <h2 className="px-5 py-2 text-center text-2xl bg-primary text-white">
             {checkNumber}
           </h2>
         )}
-        <div className="flex items-center gap-2 p-5">
-          <Badge variant="secondary">{order.code}</Badge>
-          <h4 className="text-sm">{order.agent_name}</h4>
-          <p className="text-xs ml-auto">{order.phone}</p>
+        <div className="p-5">
+          <div className="flex items-center justify-between mb-1">
+            <h4 className="text-xs capitalize">{order.agent_name}</h4>
+            <p className="text-xs ml-auto">{order.phone}</p>
+          </div>
+          <div className="flex items-center justify-between">
+            <p className="text-xs">{order.code}</p>
+            <p className="text-xs">{formattedDate}</p>
+          </div>
         </div>
         <div className="w-full px-5 flex gap-5">
-          <Select value={entityId} onValueChange={(e) => setEntityId(e)}>
+          <select
+            onChange={(e) => setEntityId(e.target.value)}
+            className={`bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 ${
+              errors.entityId ? "!border-1 !border-red-600" : ""
+            }`}
+          >
+            <option selected value="0">
+              {isLoading ? "Loading..." : `Кто отгрузил`}
+            </option>
+            {customEntityData?.rows?.map((entity: any) => (
+              <option className="text-sm" key={entity.id} value={entity.id}>
+                {entity.name}
+              </option>
+            ))}
+          </select>
+
+          {/* <Select value={entityId} onValueChange={(e) => setEntityId(e)}>
             <SelectTrigger
               className={`w-full ${
                 errors.entityId ? "border-2 border-red-600" : ""
@@ -277,14 +304,32 @@ const ListItem = ({
               />
             </SelectTrigger>
             <SelectContent>
+              <SelectItem value="0">Кто отгрузил</SelectItem>
               {customEntityData?.rows?.map((entity: any) => (
                 <SelectItem key={entity.id} value={entity.id}>
                   {entity.name}
                 </SelectItem>
               ))}
             </SelectContent>
-          </Select>
-          <Select value={entityId2} onValueChange={(e) => setEntityId2(e)}>
+          </Select> */}
+
+          <select
+            onChange={(e) => setEntityId2(e.target.value)}
+            className={`bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 ${
+              errors.entityId ? "!border-1 !border-red-600" : ""
+            }`}
+          >
+            <option selected value="0">
+              {isLoading ? "Loading..." : `Бригада`}
+            </option>
+            {customEntityData2?.rows?.map((entity: any) => (
+              <option className="text-xl" key={entity.id} value={entity.id}>
+                {entity.name}
+              </option>
+            ))}
+          </select>
+
+          {/* <Select value={entityId2} onValueChange={(e) => setEntityId2(e)}>
             <SelectTrigger
               className={`w-full ${
                 errors.entityId2 ? "border-2 border-red-600" : ""
@@ -295,13 +340,14 @@ const ListItem = ({
               />
             </SelectTrigger>
             <SelectContent>
+              <SelectItem value="0">Бригада</SelectItem>
               {customEntityData2?.rows?.map((entity: any) => (
                 <SelectItem key={entity.id} value={entity.id}>
                   {entity.name}
                 </SelectItem>
               ))}
             </SelectContent>
-          </Select>
+          </Select> */}
         </div>
       </div>
 
@@ -319,11 +365,11 @@ const ListItem = ({
               <TableRow key={product.id}>
                 <TableCell className="font-medium">{product.name}</TableCell>
                 <TableCell>
-                  <span className="ml-4">{product.quantity}</span>
+                  <span>{product.quantity}</span>
                 </TableCell>
                 <TableCell>
                   <Checkbox
-                    className="block ml-5"
+                    className="block mx-auto"
                     checked={selectedProducts?.[order.id]?.includes(product.id)}
                     onClick={() => handleSelect(order.id, product.id)}
                   />
@@ -342,7 +388,7 @@ const ListItem = ({
               </TableRow>
             )}
             <TableRow>
-              <TableCell colSpan={2}>
+              <TableCell colSpan={3}>
                 <textarea
                   value={
                     comments[order.id] !== undefined
@@ -351,7 +397,7 @@ const ListItem = ({
                       ? order.description
                       : ""
                   }
-                  className="w-full p-2 resize-none"
+                  className="w-full p-2 resize-none bg-secondary rounded"
                   placeholder="Comment"
                   onChange={(e) => {
                     if (!order.description) {
@@ -368,8 +414,14 @@ const ListItem = ({
                   }}
                 ></textarea>
               </TableCell>
-              <TableCell className="text-right">
-                <Button size="sm" onClick={() => handleOpenModal(order.id)}>
+            </TableRow>
+            <TableRow>
+              <TableCell colSpan={3} className="text-right">
+                <Button
+                  size="sm"
+                  className="w-full"
+                  onClick={() => handleOpenModal(order.id)}
+                >
                   Yuborish
                 </Button>
               </TableCell>
