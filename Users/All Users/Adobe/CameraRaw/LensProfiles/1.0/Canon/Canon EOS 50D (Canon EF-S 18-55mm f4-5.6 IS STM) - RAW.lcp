@@ -1,0 +1,3321 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c128 79.159124, 2016/03/18-14:01:55        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.34"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.77147"
+       stCamera:FocalLengthY="0.77147"
+       stCamera:ImageXCenter="0.490322"
+       stCamera:ImageYCenter="0.496444"
+       stCamera:ResidualMeanError="0.000203"
+       stCamera:ResidualStandardDeviation="0.000134"
+       stCamera:RadialDistortParam1="-0.19234"
+       stCamera:RadialDistortParam2="0.132217"
+       stCamera:RadialDistortParam3="-0.008323"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="1.47"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.815416"
+       stCamera:FocalLengthY="0.815416"
+       stCamera:ImageXCenter="0.492838"
+       stCamera:ImageYCenter="0.518553"
+       stCamera:ResidualMeanError="0.000143"
+       stCamera:ResidualStandardDeviation="0.000105"
+       stCamera:RadialDistortParam1="-0.182548"
+       stCamera:RadialDistortParam2="0.168231"
+       stCamera:RadialDistortParam3="-0.012215"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="2.36"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.806378"
+       stCamera:FocalLengthY="0.806378"
+       stCamera:ImageXCenter="0.493228"
+       stCamera:ImageYCenter="0.513307"
+       stCamera:ResidualMeanError="0.000122"
+       stCamera:ResidualStandardDeviation="0.000115"
+       stCamera:RadialDistortParam1="-0.181503"
+       stCamera:RadialDistortParam2="0.162044"
+       stCamera:RadialDistortParam3="-0.013118"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.995881"
+       stCamera:FocalLengthY="0.995881"
+       stCamera:ImageXCenter="0.490755"
+       stCamera:ImageYCenter="0.519972"
+       stCamera:ResidualMeanError="0.000278"
+       stCamera:ResidualStandardDeviation="0.000263"
+       stCamera:RadialDistortParam1="-0.122717"
+       stCamera:RadialDistortParam2="0.080841"
+       stCamera:RadialDistortParam3="0.154398"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.86"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.063491"
+       stCamera:FocalLengthY="1.063491"
+       stCamera:ImageXCenter="0.494443"
+       stCamera:ImageYCenter="0.518184"
+       stCamera:ResidualMeanError="0.000158"
+       stCamera:ResidualStandardDeviation="0.000142"
+       stCamera:RadialDistortParam1="-0.09795"
+       stCamera:RadialDistortParam2="0.175976"
+       stCamera:RadialDistortParam3="0.122606"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2.09"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.047129"
+       stCamera:FocalLengthY="1.047129"
+       stCamera:ImageXCenter="0.494027"
+       stCamera:ImageYCenter="0.514032"
+       stCamera:ResidualMeanError="0.00012"
+       stCamera:ResidualStandardDeviation="0.000072"
+       stCamera:RadialDistortParam1="-0.10489"
+       stCamera:RadialDistortParam2="0.201883"
+       stCamera:RadialDistortParam3="0.022438"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.403509"
+       stCamera:FocalLengthY="1.403509"
+       stCamera:ImageXCenter="0.500428"
+       stCamera:ImageYCenter="0.524403"
+       stCamera:ResidualMeanError="0.000267"
+       stCamera:ResidualStandardDeviation="0.000249"
+       stCamera:RadialDistortParam1="-0.011051"
+       stCamera:RadialDistortParam2="-0.064437"
+       stCamera:RadialDistortParam3="1.4002"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2.72"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.535362"
+       stCamera:FocalLengthY="1.535362"
+       stCamera:ImageXCenter="0.495133"
+       stCamera:ImageYCenter="0.51649"
+       stCamera:ResidualMeanError="0.000158"
+       stCamera:ResidualStandardDeviation="0.000149"
+       stCamera:RadialDistortParam1="0.06607"
+       stCamera:RadialDistortParam2="0.203331"
+       stCamera:RadialDistortParam3="1.382174"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3.22"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.504757"
+       stCamera:FocalLengthY="1.504757"
+       stCamera:ImageXCenter="0.495439"
+       stCamera:ImageYCenter="0.514307"
+       stCamera:ResidualMeanError="0.000104"
+       stCamera:ResidualStandardDeviation="0.000081"
+       stCamera:RadialDistortParam1="0.051879"
+       stCamera:RadialDistortParam2="0.303852"
+       stCamera:RadialDistortParam3="0.578484"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.746915"
+       stCamera:FocalLengthY="1.746915"
+       stCamera:ImageXCenter="0.5"
+       stCamera:ImageYCenter="0.499843"
+       stCamera:ResidualMeanError="0.000274"
+       stCamera:ResidualStandardDeviation="0.000216"
+       stCamera:RadialDistortParam1="0.117646"
+       stCamera:RadialDistortParam2="-0.292668"
+       stCamera:RadialDistortParam3="4.431932"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3.22"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.269968"
+       stCamera:FocalLengthY="2.269968"
+       stCamera:ImageXCenter="0.5"
+       stCamera:ImageYCenter="0.499843"
+       stCamera:ResidualMeanError="0.000158"
+       stCamera:ResidualStandardDeviation="0.000095"
+       stCamera:RadialDistortParam1="0.305509"
+       stCamera:RadialDistortParam2="0.922611"
+       stCamera:RadialDistortParam3="4.464321"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.452849"
+       stCamera:FocalLengthY="2.452849"
+       stCamera:ImageXCenter="0.5"
+       stCamera:ImageYCenter="0.499843"
+       stCamera:ResidualMeanError="0.000122"
+       stCamera:ResidualStandardDeviation="0.000098"
+       stCamera:RadialDistortParam1="0.419844"
+       stCamera:RadialDistortParam2="0.486293"
+       stCamera:RadialDistortParam3="11.632136"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.789764"
+        stCamera:FocalLengthY="0.789764"
+        stCamera:ImageXCenter="0.491369"
+        stCamera:ImageYCenter="0.505648"
+        stCamera:RadialDistortParam1="-0.181688"
+        stCamera:RadialDistortParam2="0.147066"
+        stCamera:RadialDistortParam3="-0.00991">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.789764"
+        stCamera:FocalLengthY="0.789764"
+        stCamera:VignetteModelParam1="-1.132466"
+        stCamera:VignetteModelParam2="1.073101"
+        stCamera:VignetteModelParam3="-1.970737"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.789764"
+        stCamera:FocalLengthY="0.789764"
+        stCamera:ImageXCenter="0.491369"
+        stCamera:ImageYCenter="0.505648"
+        stCamera:RadialDistortParam1="-0.181688"
+        stCamera:RadialDistortParam2="0.147066"
+        stCamera:RadialDistortParam3="-0.00991">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.789764"
+        stCamera:FocalLengthY="0.789764"
+        stCamera:VignetteModelParam1="-0.317544"
+        stCamera:VignetteModelParam2="-0.803294"
+        stCamera:VignetteModelParam3="-0.060275"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.789764"
+        stCamera:FocalLengthY="0.789764"
+        stCamera:ImageXCenter="0.491369"
+        stCamera:ImageYCenter="0.505648"
+        stCamera:RadialDistortParam1="-0.181688"
+        stCamera:RadialDistortParam2="0.147066"
+        stCamera:RadialDistortParam3="-0.00991">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.789764"
+        stCamera:FocalLengthY="0.789764"
+        stCamera:VignetteModelParam1="-0.426927"
+        stCamera:VignetteModelParam2="0.058014"
+        stCamera:VignetteModelParam3="-0.383972"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.789764"
+        stCamera:FocalLengthY="0.789764"
+        stCamera:ImageXCenter="0.491369"
+        stCamera:ImageYCenter="0.505648"
+        stCamera:RadialDistortParam1="-0.181688"
+        stCamera:RadialDistortParam2="0.147066"
+        stCamera:RadialDistortParam3="-0.00991">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.789764"
+        stCamera:FocalLengthY="0.789764"
+        stCamera:VignetteModelParam1="-0.373089"
+        stCamera:VignetteModelParam2="-0.316028"
+        stCamera:VignetteModelParam3="0.257671"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.789764"
+        stCamera:FocalLengthY="0.789764"
+        stCamera:ImageXCenter="0.491369"
+        stCamera:ImageYCenter="0.505648"
+        stCamera:RadialDistortParam1="-0.181688"
+        stCamera:RadialDistortParam2="0.147066"
+        stCamera:RadialDistortParam3="-0.00991">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.789764"
+        stCamera:FocalLengthY="0.789764"
+        stCamera:VignetteModelParam1="-0.362829"
+        stCamera:VignetteModelParam2="-0.346081"
+        stCamera:VignetteModelParam3="0.290264"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.789764"
+        stCamera:FocalLengthY="0.789764"
+        stCamera:ImageXCenter="0.491369"
+        stCamera:ImageYCenter="0.505648"
+        stCamera:RadialDistortParam1="-0.181688"
+        stCamera:RadialDistortParam2="0.147066"
+        stCamera:RadialDistortParam3="-0.00991">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.789764"
+        stCamera:FocalLengthY="0.789764"
+        stCamera:VignetteModelParam1="-0.386901"
+        stCamera:VignetteModelParam2="-0.267633"
+        stCamera:VignetteModelParam3="0.227911"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="2.09"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.808306"
+        stCamera:FocalLengthY="0.808306"
+        stCamera:ImageXCenter="0.493145"
+        stCamera:ImageYCenter="0.514426"
+        stCamera:RadialDistortParam1="-0.182031"
+        stCamera:RadialDistortParam2="0.163467"
+        stCamera:RadialDistortParam3="-0.013111">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.808306"
+        stCamera:FocalLengthY="0.808306"
+        stCamera:VignetteModelParam1="-1.095923"
+        stCamera:VignetteModelParam2="0.886751"
+        stCamera:VignetteModelParam3="-1.904831"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="2.09"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.808306"
+        stCamera:FocalLengthY="0.808306"
+        stCamera:ImageXCenter="0.493145"
+        stCamera:ImageYCenter="0.514426"
+        stCamera:RadialDistortParam1="-0.182031"
+        stCamera:RadialDistortParam2="0.163467"
+        stCamera:RadialDistortParam3="-0.013111">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.808306"
+        stCamera:FocalLengthY="0.808306"
+        stCamera:VignetteModelParam1="-0.32628"
+        stCamera:VignetteModelParam2="-0.804836"
+        stCamera:VignetteModelParam3="-0.087971"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="2.09"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.808306"
+        stCamera:FocalLengthY="0.808306"
+        stCamera:ImageXCenter="0.493145"
+        stCamera:ImageYCenter="0.514426"
+        stCamera:RadialDistortParam1="-0.182031"
+        stCamera:RadialDistortParam2="0.163467"
+        stCamera:RadialDistortParam3="-0.013111">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.808306"
+        stCamera:FocalLengthY="0.808306"
+        stCamera:VignetteModelParam1="-0.415732"
+        stCamera:VignetteModelParam2="-0.16027"
+        stCamera:VignetteModelParam3="-0.047253"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="2.09"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.808306"
+        stCamera:FocalLengthY="0.808306"
+        stCamera:ImageXCenter="0.493145"
+        stCamera:ImageYCenter="0.514426"
+        stCamera:RadialDistortParam1="-0.182031"
+        stCamera:RadialDistortParam2="0.163467"
+        stCamera:RadialDistortParam3="-0.013111">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.808306"
+        stCamera:FocalLengthY="0.808306"
+        stCamera:VignetteModelParam1="-0.375879"
+        stCamera:VignetteModelParam2="-0.395032"
+        stCamera:VignetteModelParam3="0.338678"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="2.09"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.808306"
+        stCamera:FocalLengthY="0.808306"
+        stCamera:ImageXCenter="0.493145"
+        stCamera:ImageYCenter="0.514426"
+        stCamera:RadialDistortParam1="-0.182031"
+        stCamera:RadialDistortParam2="0.163467"
+        stCamera:RadialDistortParam3="-0.013111">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.808306"
+        stCamera:FocalLengthY="0.808306"
+        stCamera:VignetteModelParam1="-0.390096"
+        stCamera:VignetteModelParam2="-0.340089"
+        stCamera:VignetteModelParam3="0.300315"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="2.09"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.808306"
+        stCamera:FocalLengthY="0.808306"
+        stCamera:ImageXCenter="0.493145"
+        stCamera:ImageYCenter="0.514426"
+        stCamera:RadialDistortParam1="-0.182031"
+        stCamera:RadialDistortParam2="0.163467"
+        stCamera:RadialDistortParam3="-0.013111">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.808306"
+        stCamera:FocalLengthY="0.808306"
+        stCamera:VignetteModelParam1="-0.43041"
+        stCamera:VignetteModelParam2="-0.207846"
+        stCamera:VignetteModelParam3="0.191748"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.806378"
+        stCamera:FocalLengthY="0.806378"
+        stCamera:ImageXCenter="0.493228"
+        stCamera:ImageYCenter="0.513307"
+        stCamera:RadialDistortParam1="-0.181503"
+        stCamera:RadialDistortParam2="0.162044"
+        stCamera:RadialDistortParam3="-0.013118">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.806378"
+        stCamera:FocalLengthY="0.806378"
+        stCamera:VignetteModelParam1="-1.095681"
+        stCamera:VignetteModelParam2="0.91086"
+        stCamera:VignetteModelParam3="-1.900218"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.806378"
+        stCamera:FocalLengthY="0.806378"
+        stCamera:ImageXCenter="0.493228"
+        stCamera:ImageYCenter="0.513307"
+        stCamera:RadialDistortParam1="-0.181503"
+        stCamera:RadialDistortParam2="0.162044"
+        stCamera:RadialDistortParam3="-0.013118">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.806378"
+        stCamera:FocalLengthY="0.806378"
+        stCamera:VignetteModelParam1="-0.384743"
+        stCamera:VignetteModelParam2="-0.575731"
+        stCamera:VignetteModelParam3="-0.285883"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.806378"
+        stCamera:FocalLengthY="0.806378"
+        stCamera:ImageXCenter="0.493228"
+        stCamera:ImageYCenter="0.513307"
+        stCamera:RadialDistortParam1="-0.181503"
+        stCamera:RadialDistortParam2="0.162044"
+        stCamera:RadialDistortParam3="-0.013118">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.806378"
+        stCamera:FocalLengthY="0.806378"
+        stCamera:VignetteModelParam1="-0.459736"
+        stCamera:VignetteModelParam2="-0.010972"
+        stCamera:VignetteModelParam3="-0.152706"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.806378"
+        stCamera:FocalLengthY="0.806378"
+        stCamera:ImageXCenter="0.493228"
+        stCamera:ImageYCenter="0.513307"
+        stCamera:RadialDistortParam1="-0.181503"
+        stCamera:RadialDistortParam2="0.162044"
+        stCamera:RadialDistortParam3="-0.013118">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.806378"
+        stCamera:FocalLengthY="0.806378"
+        stCamera:VignetteModelParam1="-0.429468"
+        stCamera:VignetteModelParam2="-0.192157"
+        stCamera:VignetteModelParam3="0.154043"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.806378"
+        stCamera:FocalLengthY="0.806378"
+        stCamera:ImageXCenter="0.493228"
+        stCamera:ImageYCenter="0.513307"
+        stCamera:RadialDistortParam1="-0.181503"
+        stCamera:RadialDistortParam2="0.162044"
+        stCamera:RadialDistortParam3="-0.013118">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.806378"
+        stCamera:FocalLengthY="0.806378"
+        stCamera:VignetteModelParam1="-0.424934"
+        stCamera:VignetteModelParam2="-0.202212"
+        stCamera:VignetteModelParam3="0.16655"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.806378"
+        stCamera:FocalLengthY="0.806378"
+        stCamera:ImageXCenter="0.493228"
+        stCamera:ImageYCenter="0.513307"
+        stCamera:RadialDistortParam1="-0.181503"
+        stCamera:RadialDistortParam2="0.162044"
+        stCamera:RadialDistortParam3="-0.013118">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.806378"
+        stCamera:FocalLengthY="0.806378"
+        stCamera:VignetteModelParam1="-0.478298"
+        stCamera:VignetteModelParam2="-0.025975"
+        stCamera:VignetteModelParam3="0.018984"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.005451"
+        stCamera:FocalLengthY="1.005451"
+        stCamera:ImageXCenter="0.491277"
+        stCamera:ImageYCenter="0.519719"
+        stCamera:RadialDistortParam1="-0.110563"
+        stCamera:RadialDistortParam2="0.105894"
+        stCamera:RadialDistortParam3="0.134124">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.005451"
+        stCamera:FocalLengthY="1.005451"
+        stCamera:VignetteModelParam1="-1.754878"
+        stCamera:VignetteModelParam2="1.498397"
+        stCamera:VignetteModelParam3="-0.479771"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.005451"
+        stCamera:FocalLengthY="1.005451"
+        stCamera:ImageXCenter="0.491277"
+        stCamera:ImageYCenter="0.519719"
+        stCamera:RadialDistortParam1="-0.110563"
+        stCamera:RadialDistortParam2="0.105894"
+        stCamera:RadialDistortParam3="0.134124">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.005451"
+        stCamera:FocalLengthY="1.005451"
+        stCamera:VignetteModelParam1="-0.2746"
+        stCamera:VignetteModelParam2="-4.537733"
+        stCamera:VignetteModelParam3="6.855059"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.005451"
+        stCamera:FocalLengthY="1.005451"
+        stCamera:ImageXCenter="0.491277"
+        stCamera:ImageYCenter="0.519719"
+        stCamera:RadialDistortParam1="-0.110563"
+        stCamera:RadialDistortParam2="0.105894"
+        stCamera:RadialDistortParam3="0.134124">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.005451"
+        stCamera:FocalLengthY="1.005451"
+        stCamera:VignetteModelParam1="-0.541042"
+        stCamera:VignetteModelParam2="-0.156124"
+        stCamera:VignetteModelParam3="-0.867912"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.005451"
+        stCamera:FocalLengthY="1.005451"
+        stCamera:ImageXCenter="0.491277"
+        stCamera:ImageYCenter="0.519719"
+        stCamera:RadialDistortParam1="-0.110563"
+        stCamera:RadialDistortParam2="0.105894"
+        stCamera:RadialDistortParam3="0.134124">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.005451"
+        stCamera:FocalLengthY="1.005451"
+        stCamera:VignetteModelParam1="-0.523684"
+        stCamera:VignetteModelParam2="-0.571757"
+        stCamera:VignetteModelParam3="0.665359"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.005451"
+        stCamera:FocalLengthY="1.005451"
+        stCamera:ImageXCenter="0.491277"
+        stCamera:ImageYCenter="0.519719"
+        stCamera:RadialDistortParam1="-0.110563"
+        stCamera:RadialDistortParam2="0.105894"
+        stCamera:RadialDistortParam3="0.134124">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.005451"
+        stCamera:FocalLengthY="1.005451"
+        stCamera:VignetteModelParam1="-0.510804"
+        stCamera:VignetteModelParam2="-0.599176"
+        stCamera:VignetteModelParam3="0.649133"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.005451"
+        stCamera:FocalLengthY="1.005451"
+        stCamera:ImageXCenter="0.491277"
+        stCamera:ImageYCenter="0.519719"
+        stCamera:RadialDistortParam1="-0.110563"
+        stCamera:RadialDistortParam2="0.105894"
+        stCamera:RadialDistortParam3="0.134124">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.005451"
+        stCamera:FocalLengthY="1.005451"
+        stCamera:VignetteModelParam1="-0.595057"
+        stCamera:VignetteModelParam2="-0.114663"
+        stCamera:VignetteModelParam3="-0.176391"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:ImageXCenter="0.494027"
+        stCamera:ImageYCenter="0.514032"
+        stCamera:RadialDistortParam1="-0.10489"
+        stCamera:RadialDistortParam2="0.201883"
+        stCamera:RadialDistortParam3="0.022438">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:VignetteModelParam1="-1.619355"
+        stCamera:VignetteModelParam2="0.315563"
+        stCamera:VignetteModelParam3="1.512717"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:ImageXCenter="0.494027"
+        stCamera:ImageYCenter="0.514032"
+        stCamera:RadialDistortParam1="-0.10489"
+        stCamera:RadialDistortParam2="0.201883"
+        stCamera:RadialDistortParam3="0.022438">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:VignetteModelParam1="-0.371628"
+        stCamera:VignetteModelParam2="-3.878189"
+        stCamera:VignetteModelParam3="5.438246"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:ImageXCenter="0.494027"
+        stCamera:ImageYCenter="0.514032"
+        stCamera:RadialDistortParam1="-0.10489"
+        stCamera:RadialDistortParam2="0.201883"
+        stCamera:RadialDistortParam3="0.022438">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:VignetteModelParam1="-0.636351"
+        stCamera:VignetteModelParam2="-0.261293"
+        stCamera:VignetteModelParam3="0.013586"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:ImageXCenter="0.494027"
+        stCamera:ImageYCenter="0.514032"
+        stCamera:RadialDistortParam1="-0.10489"
+        stCamera:RadialDistortParam2="0.201883"
+        stCamera:RadialDistortParam3="0.022438">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:VignetteModelParam1="-0.622252"
+        stCamera:VignetteModelParam2="-0.34862"
+        stCamera:VignetteModelParam3="0.322775"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:ImageXCenter="0.494027"
+        stCamera:ImageYCenter="0.514032"
+        stCamera:RadialDistortParam1="-0.10489"
+        stCamera:RadialDistortParam2="0.201883"
+        stCamera:RadialDistortParam3="0.022438">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:VignetteModelParam1="-0.628879"
+        stCamera:VignetteModelParam2="-0.286324"
+        stCamera:VignetteModelParam3="0.222808"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:ImageXCenter="0.494027"
+        stCamera:ImageYCenter="0.514032"
+        stCamera:RadialDistortParam1="-0.10489"
+        stCamera:RadialDistortParam2="0.201883"
+        stCamera:RadialDistortParam3="0.022438">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:VignetteModelParam1="-0.647143"
+        stCamera:VignetteModelParam2="-0.182518"
+        stCamera:VignetteModelParam3="0.084008"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:ImageXCenter="0.494027"
+        stCamera:ImageYCenter="0.514032"
+        stCamera:RadialDistortParam1="-0.10489"
+        stCamera:RadialDistortParam2="0.201883"
+        stCamera:RadialDistortParam3="0.022438">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:VignetteModelParam1="-1.698166"
+        stCamera:VignetteModelParam2="0.803878"
+        stCamera:VignetteModelParam3="0.678017"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:ImageXCenter="0.494027"
+        stCamera:ImageYCenter="0.514032"
+        stCamera:RadialDistortParam1="-0.10489"
+        stCamera:RadialDistortParam2="0.201883"
+        stCamera:RadialDistortParam3="0.022438">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:VignetteModelParam1="-0.357729"
+        stCamera:VignetteModelParam2="-4.227017"
+        stCamera:VignetteModelParam3="6.290797"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:ImageXCenter="0.494027"
+        stCamera:ImageYCenter="0.514032"
+        stCamera:RadialDistortParam1="-0.10489"
+        stCamera:RadialDistortParam2="0.201883"
+        stCamera:RadialDistortParam3="0.022438">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:VignetteModelParam1="-0.621429"
+        stCamera:VignetteModelParam2="-0.280871"
+        stCamera:VignetteModelParam3="-0.2396"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:ImageXCenter="0.494027"
+        stCamera:ImageYCenter="0.514032"
+        stCamera:RadialDistortParam1="-0.10489"
+        stCamera:RadialDistortParam2="0.201883"
+        stCamera:RadialDistortParam3="0.022438">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:VignetteModelParam1="-0.642567"
+        stCamera:VignetteModelParam2="-0.231528"
+        stCamera:VignetteModelParam3="-0.052709"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:ImageXCenter="0.494027"
+        stCamera:ImageYCenter="0.514032"
+        stCamera:RadialDistortParam1="-0.10489"
+        stCamera:RadialDistortParam2="0.201883"
+        stCamera:RadialDistortParam3="0.022438">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:VignetteModelParam1="-0.636071"
+        stCamera:VignetteModelParam2="-0.243067"
+        stCamera:VignetteModelParam3="0.032507"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:ImageXCenter="0.494027"
+        stCamera:ImageYCenter="0.514032"
+        stCamera:RadialDistortParam1="-0.10489"
+        stCamera:RadialDistortParam2="0.201883"
+        stCamera:RadialDistortParam3="0.022438">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.047129"
+        stCamera:FocalLengthY="1.047129"
+        stCamera:VignetteModelParam1="-0.601967"
+        stCamera:VignetteModelParam2="-0.455393"
+        stCamera:VignetteModelParam3="0.441351"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.403509"
+        stCamera:FocalLengthY="1.403509"
+        stCamera:ImageXCenter="0.500428"
+        stCamera:ImageYCenter="0.524403"
+        stCamera:RadialDistortParam1="-0.011051"
+        stCamera:RadialDistortParam2="-0.064437"
+        stCamera:RadialDistortParam3="1.4002">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.403509"
+        stCamera:FocalLengthY="1.403509"
+        stCamera:VignetteModelParam1="-3.598165"
+        stCamera:VignetteModelParam2="12.895037"
+        stCamera:VignetteModelParam3="-33.963586"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.403509"
+        stCamera:FocalLengthY="1.403509"
+        stCamera:ImageXCenter="0.500428"
+        stCamera:ImageYCenter="0.524403"
+        stCamera:RadialDistortParam1="-0.011051"
+        stCamera:RadialDistortParam2="-0.064437"
+        stCamera:RadialDistortParam3="1.4002">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.403509"
+        stCamera:FocalLengthY="1.403509"
+        stCamera:VignetteModelParam1="-0.960723"
+        stCamera:VignetteModelParam2="-16.110049"
+        stCamera:VignetteModelParam3="54.831971"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.403509"
+        stCamera:FocalLengthY="1.403509"
+        stCamera:ImageXCenter="0.500428"
+        stCamera:ImageYCenter="0.524403"
+        stCamera:RadialDistortParam1="-0.011051"
+        stCamera:RadialDistortParam2="-0.064437"
+        stCamera:RadialDistortParam3="1.4002">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.403509"
+        stCamera:FocalLengthY="1.403509"
+        stCamera:VignetteModelParam1="-1.045764"
+        stCamera:VignetteModelParam2="3.080265"
+        stCamera:VignetteModelParam3="-27.965476"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.403509"
+        stCamera:FocalLengthY="1.403509"
+        stCamera:ImageXCenter="0.500428"
+        stCamera:ImageYCenter="0.524403"
+        stCamera:RadialDistortParam1="-0.011051"
+        stCamera:RadialDistortParam2="-0.064437"
+        stCamera:RadialDistortParam3="1.4002">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.403509"
+        stCamera:FocalLengthY="1.403509"
+        stCamera:VignetteModelParam1="-0.895177"
+        stCamera:VignetteModelParam2="-1.277604"
+        stCamera:VignetteModelParam3="1.427657"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.403509"
+        stCamera:FocalLengthY="1.403509"
+        stCamera:ImageXCenter="0.500428"
+        stCamera:ImageYCenter="0.524403"
+        stCamera:RadialDistortParam1="-0.011051"
+        stCamera:RadialDistortParam2="-0.064437"
+        stCamera:RadialDistortParam3="1.4002">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.403509"
+        stCamera:FocalLengthY="1.403509"
+        stCamera:VignetteModelParam1="-0.760832"
+        stCamera:VignetteModelParam2="-2.550473"
+        stCamera:VignetteModelParam3="4.8686"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.403509"
+        stCamera:FocalLengthY="1.403509"
+        stCamera:ImageXCenter="0.500428"
+        stCamera:ImageYCenter="0.524403"
+        stCamera:RadialDistortParam1="-0.011051"
+        stCamera:RadialDistortParam2="-0.064437"
+        stCamera:RadialDistortParam3="1.4002">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.403509"
+        stCamera:FocalLengthY="1.403509"
+        stCamera:VignetteModelParam1="-0.688892"
+        stCamera:VignetteModelParam2="-3.402638"
+        stCamera:VignetteModelParam3="7.924294"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="9.715962">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.403509"
+        stCamera:FocalLengthY="1.403509"
+        stCamera:ImageXCenter="0.500428"
+        stCamera:ImageYCenter="0.524403"
+        stCamera:RadialDistortParam1="-0.011051"
+        stCamera:RadialDistortParam2="-0.064437"
+        stCamera:RadialDistortParam3="1.4002">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.403509"
+        stCamera:FocalLengthY="1.403509"
+        stCamera:VignetteModelParam1="-0.896044"
+        stCamera:VignetteModelParam2="-0.733749"
+        stCamera:VignetteModelParam3="-0.906563"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3.22"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:ImageXCenter="0.495439"
+        stCamera:ImageYCenter="0.514307"
+        stCamera:RadialDistortParam1="0.051879"
+        stCamera:RadialDistortParam2="0.303852"
+        stCamera:RadialDistortParam3="0.578484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:VignetteModelParam1="-3.41252"
+        stCamera:VignetteModelParam2="8.038604"
+        stCamera:VignetteModelParam3="-17.560923"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3.22"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:ImageXCenter="0.495439"
+        stCamera:ImageYCenter="0.514307"
+        stCamera:RadialDistortParam1="0.051879"
+        stCamera:RadialDistortParam2="0.303852"
+        stCamera:RadialDistortParam3="0.578484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:VignetteModelParam1="-0.733999"
+        stCamera:VignetteModelParam2="-23.578398"
+        stCamera:VignetteModelParam3="89.511479"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3.22"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:ImageXCenter="0.495439"
+        stCamera:ImageYCenter="0.514307"
+        stCamera:RadialDistortParam1="0.051879"
+        stCamera:RadialDistortParam2="0.303852"
+        stCamera:RadialDistortParam3="0.578484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:VignetteModelParam1="-1.094907"
+        stCamera:VignetteModelParam2="1.745607"
+        stCamera:VignetteModelParam3="-25.349745"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3.22"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:ImageXCenter="0.495439"
+        stCamera:ImageYCenter="0.514307"
+        stCamera:RadialDistortParam1="0.051879"
+        stCamera:RadialDistortParam2="0.303852"
+        stCamera:RadialDistortParam3="0.578484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:VignetteModelParam1="-0.964691"
+        stCamera:VignetteModelParam2="-2.397988"
+        stCamera:VignetteModelParam3="3.909838"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3.22"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:ImageXCenter="0.495439"
+        stCamera:ImageYCenter="0.514307"
+        stCamera:RadialDistortParam1="0.051879"
+        stCamera:RadialDistortParam2="0.303852"
+        stCamera:RadialDistortParam3="0.578484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:VignetteModelParam1="-0.961009"
+        stCamera:VignetteModelParam2="-2.349092"
+        stCamera:VignetteModelParam3="4.343063"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3.22"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:ImageXCenter="0.495439"
+        stCamera:ImageYCenter="0.514307"
+        stCamera:RadialDistortParam1="0.051879"
+        stCamera:RadialDistortParam2="0.303852"
+        stCamera:RadialDistortParam3="0.578484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:VignetteModelParam1="-1.100389"
+        stCamera:VignetteModelParam2="-0.6952"
+        stCamera:VignetteModelParam3="-0.827704"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3.22"
+       stCamera:ApertureValue="9.715962">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:ImageXCenter="0.495439"
+        stCamera:ImageYCenter="0.514307"
+        stCamera:RadialDistortParam1="0.051879"
+        stCamera:RadialDistortParam2="0.303852"
+        stCamera:RadialDistortParam3="0.578484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:VignetteModelParam1="-0.949172"
+        stCamera:VignetteModelParam2="-2.732251"
+        stCamera:VignetteModelParam3="6.095907"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="7.27"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:ImageXCenter="0.495439"
+        stCamera:ImageYCenter="0.514307"
+        stCamera:RadialDistortParam1="0.051879"
+        stCamera:RadialDistortParam2="0.303852"
+        stCamera:RadialDistortParam3="0.578484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:VignetteModelParam1="-3.27909"
+        stCamera:VignetteModelParam2="6.046543"
+        stCamera:VignetteModelParam3="-9.432935"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="7.27"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:ImageXCenter="0.495439"
+        stCamera:ImageYCenter="0.514307"
+        stCamera:RadialDistortParam1="0.051879"
+        stCamera:RadialDistortParam2="0.303852"
+        stCamera:RadialDistortParam3="0.578484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:VignetteModelParam1="-0.612876"
+        stCamera:VignetteModelParam2="-24.912664"
+        stCamera:VignetteModelParam3="94.216536"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="7.27"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:ImageXCenter="0.495439"
+        stCamera:ImageYCenter="0.514307"
+        stCamera:RadialDistortParam1="0.051879"
+        stCamera:RadialDistortParam2="0.303852"
+        stCamera:RadialDistortParam3="0.578484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:VignetteModelParam1="-1.212631"
+        stCamera:VignetteModelParam2="3.229448"
+        stCamera:VignetteModelParam3="-29.93929"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="7.27"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:ImageXCenter="0.495439"
+        stCamera:ImageYCenter="0.514307"
+        stCamera:RadialDistortParam1="0.051879"
+        stCamera:RadialDistortParam2="0.303852"
+        stCamera:RadialDistortParam3="0.578484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:VignetteModelParam1="-0.975963"
+        stCamera:VignetteModelParam2="-2.142106"
+        stCamera:VignetteModelParam3="2.971262"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="7.27"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:ImageXCenter="0.495439"
+        stCamera:ImageYCenter="0.514307"
+        stCamera:RadialDistortParam1="0.051879"
+        stCamera:RadialDistortParam2="0.303852"
+        stCamera:RadialDistortParam3="0.578484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:VignetteModelParam1="-0.907043"
+        stCamera:VignetteModelParam2="-3.086394"
+        stCamera:VignetteModelParam3="6.726489"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="7.27"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:ImageXCenter="0.495439"
+        stCamera:ImageYCenter="0.514307"
+        stCamera:RadialDistortParam1="0.051879"
+        stCamera:RadialDistortParam2="0.303852"
+        stCamera:RadialDistortParam3="0.578484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:VignetteModelParam1="-0.940621"
+        stCamera:VignetteModelParam2="-2.840743"
+        stCamera:VignetteModelParam3="7.597528"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="7.27"
+       stCamera:ApertureValue="9.715962">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:ImageXCenter="0.495439"
+        stCamera:ImageYCenter="0.514307"
+        stCamera:RadialDistortParam1="0.051879"
+        stCamera:RadialDistortParam2="0.303852"
+        stCamera:RadialDistortParam3="0.578484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.504757"
+        stCamera:FocalLengthY="1.504757"
+        stCamera:VignetteModelParam1="-1.039162"
+        stCamera:VignetteModelParam2="-1.689326"
+        stCamera:VignetteModelParam3="3.928725"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="0.56"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.746915"
+        stCamera:FocalLengthY="1.746915"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.117646"
+        stCamera:RadialDistortParam2="-0.292668"
+        stCamera:RadialDistortParam3="4.431932">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.746915"
+        stCamera:FocalLengthY="1.746915"
+        stCamera:VignetteModelParam1="-4.297948"
+        stCamera:VignetteModelParam2="21.10746"
+        stCamera:VignetteModelParam3="-90.542282"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="0.56"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.746915"
+        stCamera:FocalLengthY="1.746915"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.117646"
+        stCamera:RadialDistortParam2="-0.292668"
+        stCamera:RadialDistortParam3="4.431932">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.746915"
+        stCamera:FocalLengthY="1.746915"
+        stCamera:VignetteModelParam1="-1.261418"
+        stCamera:VignetteModelParam2="2.471765"
+        stCamera:VignetteModelParam3="-70.372506"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="0.56"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.746915"
+        stCamera:FocalLengthY="1.746915"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.117646"
+        stCamera:RadialDistortParam2="-0.292668"
+        stCamera:RadialDistortParam3="4.431932">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.746915"
+        stCamera:FocalLengthY="1.746915"
+        stCamera:VignetteModelParam1="-1.012928"
+        stCamera:VignetteModelParam2="-3.062758"
+        stCamera:VignetteModelParam3="-0.193983"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="0.56"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.746915"
+        stCamera:FocalLengthY="1.746915"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.117646"
+        stCamera:RadialDistortParam2="-0.292668"
+        stCamera:RadialDistortParam3="4.431932">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.746915"
+        stCamera:FocalLengthY="1.746915"
+        stCamera:VignetteModelParam1="-1.10298"
+        stCamera:VignetteModelParam2="-1.494278"
+        stCamera:VignetteModelParam3="-5.836869"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="0.56"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.746915"
+        stCamera:FocalLengthY="1.746915"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.117646"
+        stCamera:RadialDistortParam2="-0.292668"
+        stCamera:RadialDistortParam3="4.431932">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.746915"
+        stCamera:FocalLengthY="1.746915"
+        stCamera:VignetteModelParam1="-1.143369"
+        stCamera:VignetteModelParam2="-0.637078"
+        stCamera:VignetteModelParam3="-9.851165"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="0.56"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.746915"
+        stCamera:FocalLengthY="1.746915"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.117646"
+        stCamera:RadialDistortParam2="-0.292668"
+        stCamera:RadialDistortParam3="4.431932">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.746915"
+        stCamera:FocalLengthY="1.746915"
+        stCamera:VignetteModelParam1="-1.163048"
+        stCamera:VignetteModelParam2="-0.37337"
+        stCamera:VignetteModelParam3="-10.86639"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3.94"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.360628"
+        stCamera:FocalLengthY="2.360628"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.372362"
+        stCamera:RadialDistortParam2="0.60403"
+        stCamera:RadialDistortParam3="8.227617">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.360628"
+        stCamera:FocalLengthY="2.360628"
+        stCamera:VignetteModelParam1="-6.330104"
+        stCamera:VignetteModelParam2="30.898667"
+        stCamera:VignetteModelParam3="-204.240271"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3.94"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.360628"
+        stCamera:FocalLengthY="2.360628"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.372362"
+        stCamera:RadialDistortParam2="0.60403"
+        stCamera:RadialDistortParam3="8.227617">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.360628"
+        stCamera:FocalLengthY="2.360628"
+        stCamera:VignetteModelParam1="-2.60769"
+        stCamera:VignetteModelParam2="25.074905"
+        stCamera:VignetteModelParam3="-516.058639"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3.94"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.360628"
+        stCamera:FocalLengthY="2.360628"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.372362"
+        stCamera:RadialDistortParam2="0.60403"
+        stCamera:RadialDistortParam3="8.227617">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.360628"
+        stCamera:FocalLengthY="2.360628"
+        stCamera:VignetteModelParam1="-2.01961"
+        stCamera:VignetteModelParam2="-6.755758"
+        stCamera:VignetteModelParam3="-16.702652"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3.94"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.360628"
+        stCamera:FocalLengthY="2.360628"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.372362"
+        stCamera:RadialDistortParam2="0.60403"
+        stCamera:RadialDistortParam3="8.227617">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.360628"
+        stCamera:FocalLengthY="2.360628"
+        stCamera:VignetteModelParam1="-2.035229"
+        stCamera:VignetteModelParam2="-5.437941"
+        stCamera:VignetteModelParam3="-28.823189"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3.94"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.360628"
+        stCamera:FocalLengthY="2.360628"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.372362"
+        stCamera:RadialDistortParam2="0.60403"
+        stCamera:RadialDistortParam3="8.227617">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.360628"
+        stCamera:FocalLengthY="2.360628"
+        stCamera:VignetteModelParam1="-2.266162"
+        stCamera:VignetteModelParam2="0.984565"
+        stCamera:VignetteModelParam3="-70.167708"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3.94"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.360628"
+        stCamera:FocalLengthY="2.360628"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.372362"
+        stCamera:RadialDistortParam2="0.60403"
+        stCamera:RadialDistortParam3="8.227617">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.360628"
+        stCamera:FocalLengthY="2.360628"
+        stCamera:VignetteModelParam1="-2.386363"
+        stCamera:VignetteModelParam2="4.440391"
+        stCamera:VignetteModelParam3="-94.138696"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.452849"
+        stCamera:FocalLengthY="2.452849"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.419844"
+        stCamera:RadialDistortParam2="0.486293"
+        stCamera:RadialDistortParam3="11.632136">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.452849"
+        stCamera:FocalLengthY="2.452849"
+        stCamera:VignetteModelParam1="-6.543602"
+        stCamera:VignetteModelParam2="24.651181"
+        stCamera:VignetteModelParam3="-130.610038"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.452849"
+        stCamera:FocalLengthY="2.452849"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.419844"
+        stCamera:RadialDistortParam2="0.486293"
+        stCamera:RadialDistortParam3="11.632136">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.452849"
+        stCamera:FocalLengthY="2.452849"
+        stCamera:VignetteModelParam1="-2.630046"
+        stCamera:VignetteModelParam2="23.069068"
+        stCamera:VignetteModelParam3="-602.483156"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.452849"
+        stCamera:FocalLengthY="2.452849"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.419844"
+        stCamera:RadialDistortParam2="0.486293"
+        stCamera:RadialDistortParam3="11.632136">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.452849"
+        stCamera:FocalLengthY="2.452849"
+        stCamera:VignetteModelParam1="-2.249776"
+        stCamera:VignetteModelParam2="-6.880101"
+        stCamera:VignetteModelParam3="-14.509279"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.452849"
+        stCamera:FocalLengthY="2.452849"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.419844"
+        stCamera:RadialDistortParam2="0.486293"
+        stCamera:RadialDistortParam3="11.632136">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.452849"
+        stCamera:FocalLengthY="2.452849"
+        stCamera:VignetteModelParam1="-2.054733"
+        stCamera:VignetteModelParam2="-12.315663"
+        stCamera:VignetteModelParam3="33.438348"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.452849"
+        stCamera:FocalLengthY="2.452849"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.419844"
+        stCamera:RadialDistortParam2="0.486293"
+        stCamera:RadialDistortParam3="11.632136">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.452849"
+        stCamera:FocalLengthY="2.452849"
+        stCamera:VignetteModelParam1="-2.382418"
+        stCamera:VignetteModelParam2="-2.314445"
+        stCamera:VignetteModelParam3="-39.885808"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4158"
+       stCamera:Lens="EF-S18-55mm f/4-5.6 IS STM"
+       stCamera:LensInfo="18/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 18-55mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-55mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="5.1"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.452849"
+        stCamera:FocalLengthY="2.452849"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499843"
+        stCamera:RadialDistortParam1="0.419844"
+        stCamera:RadialDistortParam2="0.486293"
+        stCamera:RadialDistortParam3="11.632136">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.452849"
+        stCamera:FocalLengthY="2.452849"
+        stCamera:VignetteModelParam1="-2.374598"
+        stCamera:VignetteModelParam2="-1.929553"
+        stCamera:VignetteModelParam3="-48.865892"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

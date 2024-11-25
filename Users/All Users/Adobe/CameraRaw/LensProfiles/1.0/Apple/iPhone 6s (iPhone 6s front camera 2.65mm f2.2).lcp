@@ -1,0 +1,41 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Apple"
+       stCamera:Model="iPhone 6s"
+       stCamera:CameraRawProfile="False"
+       stCamera:Lens="iPhone 6s front camera 2.65mm f/2.2"
+       stCamera:CameraPrettyName="iPhone 6s"
+       stCamera:LensPrettyName="iPhone 6s front camera 2.65mm f/2.2"
+       stCamera:ProfileName="Adobe (iPhone 6s front camera 2.65mm f/2.2)"
+       stCamera:SensorFormatFactor="7.2"
+       stCamera:ImageWidth="2576"
+       stCamera:ImageLength="1932"
+       stCamera:FocalLength="2.65"
+       stCamera:FocusDistance="0.358719"
+       stCamera:ApertureValue="2.275007">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.205512"
+       stCamera:FocalLengthY="0.205512"
+       stCamera:ImageXCenter="0.48024"
+       stCamera:ImageYCenter="0.504479"
+       stCamera:ResidualMeanError="0.000611"
+       stCamera:ResidualStandardDeviation="0.000773"
+       stCamera:RadialDistortParam1="0.004128"
+       stCamera:RadialDistortParam2="-0.000661"
+       stCamera:RadialDistortParam3="0.000038"/>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

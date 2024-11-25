@@ -1,0 +1,1475 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.2"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.764995"
+        stCamera:FocalLengthY="0.764995"
+        stCamera:ImageXCenter="0.499215"
+        stCamera:ImageYCenter="0.496683"
+        stCamera:ResidualMeanError="0.000306"
+        stCamera:ResidualStandardDeviation="0.000597"
+        stCamera:RadialDistortParam1="-0.107018"
+        stCamera:RadialDistortParam2="0.106988"
+        stCamera:RadialDistortParam3="-0.047331">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.764978"
+        stCamera:FocalLengthY="0.764978"
+        stCamera:ImageXCenter="0.499227"
+        stCamera:ImageYCenter="0.496683"
+        stCamera:ResidualMeanError="0.000304"
+        stCamera:ResidualStandardDeviation="0.000594"
+        stCamera:ScaleFactor="1.000241"
+        stCamera:RadialDistortParam1="-0.000302"
+        stCamera:RadialDistortParam2="-0.000821"
+        stCamera:RadialDistortParam3="0.000861"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.764978"
+        stCamera:FocalLengthY="0.764978"
+        stCamera:ImageXCenter="0.499227"
+        stCamera:ImageYCenter="0.496683"
+        stCamera:ResidualMeanError="0.000304"
+        stCamera:ResidualStandardDeviation="0.000594"
+        stCamera:RadialDistortParam1="-0.106984"
+        stCamera:RadialDistortParam2="0.106753"
+        stCamera:RadialDistortParam3="-0.047206"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.764978"
+        stCamera:FocalLengthY="0.764978"
+        stCamera:ImageXCenter="0.499227"
+        stCamera:ImageYCenter="0.496683"
+        stCamera:ResidualMeanError="0.000305"
+        stCamera:ResidualStandardDeviation="0.000595"
+        stCamera:ScaleFactor="1.000101"
+        stCamera:RadialDistortParam1="0.000173"
+        stCamera:RadialDistortParam2="0.002281"
+        stCamera:RadialDistortParam3="-0.002095"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.52"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.696259"
+        stCamera:FocalLengthY="0.696259"
+        stCamera:ImageXCenter="0.501854"
+        stCamera:ImageYCenter="0.495448"
+        stCamera:ResidualMeanError="0.0005"
+        stCamera:ResidualStandardDeviation="0.000835"
+        stCamera:RadialDistortParam1="-0.116871"
+        stCamera:RadialDistortParam2="0.129242"
+        stCamera:RadialDistortParam3="-0.046008">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.696235"
+        stCamera:FocalLengthY="0.696235"
+        stCamera:ImageXCenter="0.501855"
+        stCamera:ImageYCenter="0.49545"
+        stCamera:ResidualMeanError="0.000497"
+        stCamera:ResidualStandardDeviation="0.000837"
+        stCamera:ScaleFactor="1.00042"
+        stCamera:RadialDistortParam1="-0.000337"
+        stCamera:RadialDistortParam2="-0.000578"
+        stCamera:RadialDistortParam3="0.000421"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.696235"
+        stCamera:FocalLengthY="0.696235"
+        stCamera:ImageXCenter="0.501855"
+        stCamera:ImageYCenter="0.49545"
+        stCamera:ResidualMeanError="0.000497"
+        stCamera:ResidualStandardDeviation="0.000837"
+        stCamera:RadialDistortParam1="-0.116963"
+        stCamera:RadialDistortParam2="0.129319"
+        stCamera:RadialDistortParam3="-0.04608"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.696235"
+        stCamera:FocalLengthY="0.696235"
+        stCamera:ImageXCenter="0.501855"
+        stCamera:ImageYCenter="0.49545"
+        stCamera:ResidualMeanError="0.000498"
+        stCamera:ResidualStandardDeviation="0.000838"
+        stCamera:ScaleFactor="0.999818"
+        stCamera:RadialDistortParam1="0.000517"
+        stCamera:RadialDistortParam2="0.000816"
+        stCamera:RadialDistortParam3="-0.00057"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2.84"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.679793"
+        stCamera:FocalLengthY="0.679793"
+        stCamera:ImageXCenter="0.500412"
+        stCamera:ImageYCenter="0.494908"
+        stCamera:ResidualMeanError="0.00045"
+        stCamera:ResidualStandardDeviation="0.000822"
+        stCamera:RadialDistortParam1="-0.105704"
+        stCamera:RadialDistortParam2="0.104294"
+        stCamera:RadialDistortParam3="-0.031825">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.67978"
+        stCamera:FocalLengthY="0.67978"
+        stCamera:ImageXCenter="0.500417"
+        stCamera:ImageYCenter="0.49492"
+        stCamera:ResidualMeanError="0.000442"
+        stCamera:ResidualStandardDeviation="0.000821"
+        stCamera:ScaleFactor="1.000488"
+        stCamera:RadialDistortParam1="-0.000553"
+        stCamera:RadialDistortParam2="0.000143"
+        stCamera:RadialDistortParam3="-0.0002"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.67978"
+        stCamera:FocalLengthY="0.67978"
+        stCamera:ImageXCenter="0.500417"
+        stCamera:ImageYCenter="0.49492"
+        stCamera:ResidualMeanError="0.000442"
+        stCamera:ResidualStandardDeviation="0.000822"
+        stCamera:RadialDistortParam1="-0.105724"
+        stCamera:RadialDistortParam2="0.104197"
+        stCamera:RadialDistortParam3="-0.031748"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.67978"
+        stCamera:FocalLengthY="0.67978"
+        stCamera:ImageXCenter="0.500417"
+        stCamera:ImageYCenter="0.49492"
+        stCamera:ResidualMeanError="0.000442"
+        stCamera:ResidualStandardDeviation="0.000823"
+        stCamera:ScaleFactor="0.999738"
+        stCamera:RadialDistortParam1="0.000653"
+        stCamera:RadialDistortParam2="0.000431"
+        stCamera:RadialDistortParam3="-0.0003"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.764978"
+        stCamera:FocalLengthY="0.764978"
+        stCamera:ImageXCenter="0.499227"
+        stCamera:ImageYCenter="0.496683"
+        stCamera:RadialDistortParam1="-0.106984"
+        stCamera:RadialDistortParam2="0.106753"
+        stCamera:RadialDistortParam3="-0.047206">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.764978"
+         stCamera:FocalLengthY="0.764978"
+         stCamera:VignetteModelParam1="-2.641553"
+         stCamera:VignetteModelParam2="4.508681"
+         stCamera:VignetteModelParam3="-3.189288">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005110, 1.000000</rdf:li>
+          <rdf:li>0.059813, 0.990619</rdf:li>
+          <rdf:li>0.165510, 0.919555</rdf:li>
+          <rdf:li>0.430744, 0.641101</rdf:li>
+          <rdf:li>0.532956, 0.529657</rdf:li>
+          <rdf:li>0.626973, 0.434432</rdf:li>
+          <rdf:li>0.702553, 0.364087</rdf:li>
+          <rdf:li>0.738294, 0.333900</rdf:li>
+          <rdf:li>0.785192, 0.285078</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.2"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.764978"
+        stCamera:FocalLengthY="0.764978"
+        stCamera:ImageXCenter="0.499227"
+        stCamera:ImageYCenter="0.496683"
+        stCamera:RadialDistortParam1="-0.106984"
+        stCamera:RadialDistortParam2="0.106753"
+        stCamera:RadialDistortParam3="-0.047206">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.764978"
+         stCamera:FocalLengthY="0.764978"
+         stCamera:VignetteModelParam1="-0.769729"
+         stCamera:VignetteModelParam2="-0.309983"
+         stCamera:VignetteModelParam3="0.384606">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005110, 1.000000</rdf:li>
+          <rdf:li>0.092125, 0.993425</rdf:li>
+          <rdf:li>0.204216, 0.964860</rdf:li>
+          <rdf:li>0.313393, 0.917526</rdf:li>
+          <rdf:li>0.437362, 0.845861</rdf:li>
+          <rdf:li>0.515116, 0.784372</rdf:li>
+          <rdf:li>0.644958, 0.637358</rdf:li>
+          <rdf:li>0.747993, 0.513722</rdf:li>
+          <rdf:li>0.785192, 0.453905</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.2"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.764978"
+        stCamera:FocalLengthY="0.764978"
+        stCamera:ImageXCenter="0.499227"
+        stCamera:ImageYCenter="0.496683"
+        stCamera:RadialDistortParam1="-0.106984"
+        stCamera:RadialDistortParam2="0.106753"
+        stCamera:RadialDistortParam3="-0.047206">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.764978"
+         stCamera:FocalLengthY="0.764978"
+         stCamera:VignetteModelParam1="-0.882215"
+         stCamera:VignetteModelParam2="0.500865"
+         stCamera:VignetteModelParam3="-0.146388">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005110, 1.000000</rdf:li>
+          <rdf:li>0.149599, 0.981480</rdf:li>
+          <rdf:li>0.316873, 0.916510</rdf:li>
+          <rdf:li>0.436645, 0.846668</rdf:li>
+          <rdf:li>0.644391, 0.699381</rdf:li>
+          <rdf:li>0.753003, 0.617361</rdf:li>
+          <rdf:li>0.785192, 0.583849</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.2"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.764978"
+        stCamera:FocalLengthY="0.764978"
+        stCamera:ImageXCenter="0.499227"
+        stCamera:ImageYCenter="0.496683"
+        stCamera:RadialDistortParam1="-0.106984"
+        stCamera:RadialDistortParam2="0.106753"
+        stCamera:RadialDistortParam3="-0.047206">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.764978"
+         stCamera:FocalLengthY="0.764978"
+         stCamera:VignetteModelParam1="-0.877685"
+         stCamera:VignetteModelParam2="0.47479"
+         stCamera:VignetteModelParam3="-0.109442">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005110, 1.000000</rdf:li>
+          <rdf:li>0.137975, 0.985154</rdf:li>
+          <rdf:li>0.298542, 0.926302</rdf:li>
+          <rdf:li>0.514406, 0.793639</rdf:li>
+          <rdf:li>0.785192, 0.590786</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.2"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.764978"
+        stCamera:FocalLengthY="0.764978"
+        stCamera:ImageXCenter="0.499227"
+        stCamera:ImageYCenter="0.496683"
+        stCamera:RadialDistortParam1="-0.106984"
+        stCamera:RadialDistortParam2="0.106753"
+        stCamera:RadialDistortParam3="-0.047206">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.764978"
+         stCamera:FocalLengthY="0.764978"
+         stCamera:VignetteModelParam1="-0.869764"
+         stCamera:VignetteModelParam2="0.447618"
+         stCamera:VignetteModelParam3="-0.086534">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005110, 1.000000</rdf:li>
+          <rdf:li>0.131383, 0.987238</rdf:li>
+          <rdf:li>0.294845, 0.929067</rdf:li>
+          <rdf:li>0.497476, 0.805904</rdf:li>
+          <rdf:li>0.785192, 0.591323</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.2"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.764978"
+        stCamera:FocalLengthY="0.764978"
+        stCamera:ImageXCenter="0.499227"
+        stCamera:ImageYCenter="0.496683"
+        stCamera:RadialDistortParam1="-0.106984"
+        stCamera:RadialDistortParam2="0.106753"
+        stCamera:RadialDistortParam3="-0.047206">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.764978"
+         stCamera:FocalLengthY="0.764978"
+         stCamera:VignetteModelParam1="-0.880673"
+         stCamera:VignetteModelParam2="0.490678"
+         stCamera:VignetteModelParam3="-0.126999">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005110, 1.000000</rdf:li>
+          <rdf:li>0.137975, 0.987465</rdf:li>
+          <rdf:li>0.291639, 0.929423</rdf:li>
+          <rdf:li>0.510124, 0.797475</rdf:li>
+          <rdf:li>0.785192, 0.591295</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.712064"
+        stCamera:FocalLengthY="0.712064"
+        stCamera:ImageXCenter="0.50125"
+        stCamera:ImageYCenter="0.495734"
+        stCamera:RadialDistortParam1="-0.118415"
+        stCamera:RadialDistortParam2="0.133361"
+        stCamera:RadialDistortParam3="-0.049816">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.712064"
+         stCamera:FocalLengthY="0.712064"
+         stCamera:VignetteModelParam1="-2.557451"
+         stCamera:VignetteModelParam2="3.958295"
+         stCamera:VignetteModelParam3="-2.428962">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005490, 1.000000</rdf:li>
+          <rdf:li>0.060389, 0.992267</rdf:li>
+          <rdf:li>0.113178, 0.960853</rdf:li>
+          <rdf:li>0.212127, 0.872939</rdf:li>
+          <rdf:li>0.466644, 0.603120</rdf:li>
+          <rdf:li>0.574138, 0.489834</rdf:li>
+          <rdf:li>0.686417, 0.381113</rdf:li>
+          <rdf:li>0.756516, 0.322545</rdf:li>
+          <rdf:li>0.831593, 0.266442</rdf:li>
+          <rdf:li>0.843540, 0.257117</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.712064"
+        stCamera:FocalLengthY="0.712064"
+        stCamera:ImageXCenter="0.50125"
+        stCamera:ImageYCenter="0.495734"
+        stCamera:RadialDistortParam1="-0.118415"
+        stCamera:RadialDistortParam2="0.133361"
+        stCamera:RadialDistortParam3="-0.049816">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.712064"
+         stCamera:FocalLengthY="0.712064"
+         stCamera:VignetteModelParam1="-0.749517"
+         stCamera:VignetteModelParam2="-0.389567"
+         stCamera:VignetteModelParam3="0.525063">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005490, 1.000000</rdf:li>
+          <rdf:li>0.209267, 0.963456</rdf:li>
+          <rdf:li>0.426133, 0.853386</rdf:li>
+          <rdf:li>0.495951, 0.805603</rdf:li>
+          <rdf:li>0.553395, 0.750874</rdf:li>
+          <rdf:li>0.634770, 0.654738</rdf:li>
+          <rdf:li>0.734687, 0.539066</rdf:li>
+          <rdf:li>0.843540, 0.419905</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.712064"
+        stCamera:FocalLengthY="0.712064"
+        stCamera:ImageXCenter="0.50125"
+        stCamera:ImageYCenter="0.495734"
+        stCamera:RadialDistortParam1="-0.118415"
+        stCamera:RadialDistortParam2="0.133361"
+        stCamera:RadialDistortParam3="-0.049816">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.712064"
+         stCamera:FocalLengthY="0.712064"
+         stCamera:VignetteModelParam1="-0.871322"
+         stCamera:VignetteModelParam2="0.510709"
+         stCamera:VignetteModelParam3="-0.168612">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005490, 1.000000</rdf:li>
+          <rdf:li>0.159208, 0.979102</rdf:li>
+          <rdf:li>0.311961, 0.920357</rdf:li>
+          <rdf:li>0.560215, 0.765455</rdf:li>
+          <rdf:li>0.843540, 0.551393</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.712064"
+        stCamera:FocalLengthY="0.712064"
+        stCamera:ImageXCenter="0.50125"
+        stCamera:ImageYCenter="0.495734"
+        stCamera:RadialDistortParam1="-0.118415"
+        stCamera:RadialDistortParam2="0.133361"
+        stCamera:RadialDistortParam3="-0.049816">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.712064"
+         stCamera:FocalLengthY="0.712064"
+         stCamera:VignetteModelParam1="-0.869629"
+         stCamera:VignetteModelParam2="0.486117"
+         stCamera:VignetteModelParam3="-0.121866">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005490, 1.000000</rdf:li>
+          <rdf:li>0.148634, 0.982663</rdf:li>
+          <rdf:li>0.293647, 0.929530</rdf:li>
+          <rdf:li>0.429655, 0.854403</rdf:li>
+          <rdf:li>0.843540, 0.559433</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.712064"
+        stCamera:FocalLengthY="0.712064"
+        stCamera:ImageXCenter="0.50125"
+        stCamera:ImageYCenter="0.495734"
+        stCamera:RadialDistortParam1="-0.118415"
+        stCamera:RadialDistortParam2="0.133361"
+        stCamera:RadialDistortParam3="-0.049816">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.712064"
+         stCamera:FocalLengthY="0.712064"
+         stCamera:VignetteModelParam1="-0.865463"
+         stCamera:VignetteModelParam2="0.47222"
+         stCamera:VignetteModelParam3="-0.110036">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005490, 1.000000</rdf:li>
+          <rdf:li>0.142844, 0.985235</rdf:li>
+          <rdf:li>0.289929, 0.932202</rdf:li>
+          <rdf:li>0.429655, 0.854532</rdf:li>
+          <rdf:li>0.843540, 0.559820</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.712064"
+        stCamera:FocalLengthY="0.712064"
+        stCamera:ImageXCenter="0.50125"
+        stCamera:ImageYCenter="0.495734"
+        stCamera:RadialDistortParam1="-0.118415"
+        stCamera:RadialDistortParam2="0.133361"
+        stCamera:RadialDistortParam3="-0.049816">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.712064"
+         stCamera:FocalLengthY="0.712064"
+         stCamera:VignetteModelParam1="-0.876811"
+         stCamera:VignetteModelParam2="0.504274"
+         stCamera:VignetteModelParam3="-0.136563">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005490, 1.000000</rdf:li>
+          <rdf:li>0.153816, 0.981938</rdf:li>
+          <rdf:li>0.288051, 0.931891</rdf:li>
+          <rdf:li>0.449404, 0.840383</rdf:li>
+          <rdf:li>0.843540, 0.558137</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.98"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.68678"
+        stCamera:FocalLengthY="0.68678"
+        stCamera:ImageXCenter="0.501029"
+        stCamera:ImageYCenter="0.495145"
+        stCamera:RadialDistortParam1="-0.109362"
+        stCamera:RadialDistortParam2="0.111968"
+        stCamera:RadialDistortParam3="-0.035897">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.68678"
+         stCamera:FocalLengthY="0.68678"
+         stCamera:VignetteModelParam1="-2.455432"
+         stCamera:VignetteModelParam2="3.586545"
+         stCamera:VignetteModelParam3="-2.056593">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005692, 1.000000</rdf:li>
+          <rdf:li>0.063639, 0.990640</rdf:li>
+          <rdf:li>0.117345, 0.958988</rdf:li>
+          <rdf:li>0.195611, 0.892734</rdf:li>
+          <rdf:li>0.468722, 0.608522</rdf:li>
+          <rdf:li>0.580840, 0.491913</rdf:li>
+          <rdf:li>0.686570, 0.391643</rdf:li>
+          <rdf:li>0.772379, 0.320404</rdf:li>
+          <rdf:li>0.843057, 0.268617</rdf:li>
+          <rdf:li>0.874595, 0.246349</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.98"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.68678"
+        stCamera:FocalLengthY="0.68678"
+        stCamera:ImageXCenter="0.501029"
+        stCamera:ImageYCenter="0.495145"
+        stCamera:RadialDistortParam1="-0.109362"
+        stCamera:RadialDistortParam2="0.111968"
+        stCamera:RadialDistortParam3="-0.035897">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.68678"
+         stCamera:FocalLengthY="0.68678"
+         stCamera:VignetteModelParam1="-0.715764"
+         stCamera:VignetteModelParam2="-0.382898"
+         stCamera:VignetteModelParam3="0.486022">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005692, 1.000000</rdf:li>
+          <rdf:li>0.202128, 0.967057</rdf:li>
+          <rdf:li>0.430681, 0.856488</rdf:li>
+          <rdf:li>0.500026, 0.809346</rdf:li>
+          <rdf:li>0.557501, 0.757455</rdf:li>
+          <rdf:li>0.659320, 0.641140</rdf:li>
+          <rdf:li>0.772379, 0.513459</rdf:li>
+          <rdf:li>0.874595, 0.405246</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.98"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.68678"
+        stCamera:FocalLengthY="0.68678"
+        stCamera:ImageXCenter="0.501029"
+        stCamera:ImageYCenter="0.495145"
+        stCamera:RadialDistortParam1="-0.109362"
+        stCamera:RadialDistortParam2="0.111968"
+        stCamera:RadialDistortParam3="-0.035897">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.68678"
+         stCamera:FocalLengthY="0.68678"
+         stCamera:VignetteModelParam1="-0.850211"
+         stCamera:VignetteModelParam2="0.510137"
+         stCamera:VignetteModelParam3="-0.181464">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005692, 1.000000</rdf:li>
+          <rdf:li>0.157434, 0.980459</rdf:li>
+          <rdf:li>0.318195, 0.919034</rdf:li>
+          <rdf:li>0.427055, 0.859996</rdf:li>
+          <rdf:li>0.596580, 0.746183</rdf:li>
+          <rdf:li>0.827698, 0.579692</rdf:li>
+          <rdf:li>0.874595, 0.539433</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.98"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.68678"
+        stCamera:FocalLengthY="0.68678"
+        stCamera:ImageXCenter="0.501029"
+        stCamera:ImageYCenter="0.495145"
+        stCamera:RadialDistortParam1="-0.109362"
+        stCamera:RadialDistortParam2="0.111968"
+        stCamera:RadialDistortParam3="-0.035897">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.68678"
+         stCamera:FocalLengthY="0.68678"
+         stCamera:VignetteModelParam1="-0.835026"
+         stCamera:VignetteModelParam2="0.436814"
+         stCamera:VignetteModelParam3="-0.092423">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005692, 1.000000</rdf:li>
+          <rdf:li>0.153685, 0.982396</rdf:li>
+          <rdf:li>0.298656, 0.929692</rdf:li>
+          <rdf:li>0.428116, 0.859710</rdf:li>
+          <rdf:li>0.874595, 0.550487</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.98"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.68678"
+        stCamera:FocalLengthY="0.68678"
+        stCamera:ImageXCenter="0.501029"
+        stCamera:ImageYCenter="0.495145"
+        stCamera:RadialDistortParam1="-0.109362"
+        stCamera:RadialDistortParam2="0.111968"
+        stCamera:RadialDistortParam3="-0.035897">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.68678"
+         stCamera:FocalLengthY="0.68678"
+         stCamera:VignetteModelParam1="-0.828297"
+         stCamera:VignetteModelParam2="0.417786"
+         stCamera:VignetteModelParam3="-0.078809">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005692, 1.000000</rdf:li>
+          <rdf:li>0.144111, 0.985888</rdf:li>
+          <rdf:li>0.296478, 0.931292</rdf:li>
+          <rdf:li>0.428116, 0.860266</rdf:li>
+          <rdf:li>0.874595, 0.550927</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.98"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.68678"
+        stCamera:FocalLengthY="0.68678"
+        stCamera:ImageXCenter="0.501029"
+        stCamera:ImageYCenter="0.495145"
+        stCamera:RadialDistortParam1="-0.109362"
+        stCamera:RadialDistortParam2="0.111968"
+        stCamera:RadialDistortParam3="-0.035897">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.68678"
+         stCamera:FocalLengthY="0.68678"
+         stCamera:VignetteModelParam1="-0.831439"
+         stCamera:VignetteModelParam2="0.426739"
+         stCamera:VignetteModelParam3="-0.08901">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005692, 1.000000</rdf:li>
+          <rdf:li>0.142301, 0.987585</rdf:li>
+          <rdf:li>0.286022, 0.937503</rdf:li>
+          <rdf:li>0.438287, 0.853987</rdf:li>
+          <rdf:li>0.874595, 0.549285</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.67978"
+        stCamera:FocalLengthY="0.67978"
+        stCamera:ImageXCenter="0.500417"
+        stCamera:ImageYCenter="0.49492"
+        stCamera:RadialDistortParam1="-0.105724"
+        stCamera:RadialDistortParam2="0.104197"
+        stCamera:RadialDistortParam3="-0.031748">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.67978"
+         stCamera:FocalLengthY="0.67978"
+         stCamera:VignetteModelParam1="-2.448758"
+         stCamera:VignetteModelParam2="3.531622"
+         stCamera:VignetteModelParam3="-1.98893">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005751, 1.000000</rdf:li>
+          <rdf:li>0.064294, 0.989451</rdf:li>
+          <rdf:li>0.121854, 0.954518</rdf:li>
+          <rdf:li>0.199623, 0.888853</rdf:li>
+          <rdf:li>0.463098, 0.613397</rdf:li>
+          <rdf:li>0.580133, 0.491394</rdf:li>
+          <rdf:li>0.693640, 0.384806</rdf:li>
+          <rdf:li>0.770352, 0.321391</rdf:li>
+          <rdf:li>0.842133, 0.269010</rdf:li>
+          <rdf:li>0.883601, 0.239735</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.67978"
+        stCamera:FocalLengthY="0.67978"
+        stCamera:ImageXCenter="0.500417"
+        stCamera:ImageYCenter="0.49492"
+        stCamera:RadialDistortParam1="-0.105724"
+        stCamera:RadialDistortParam2="0.104197"
+        stCamera:RadialDistortParam3="-0.031748">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.67978"
+         stCamera:FocalLengthY="0.67978"
+         stCamera:VignetteModelParam1="-0.717305"
+         stCamera:VignetteModelParam2="-0.392583"
+         stCamera:VignetteModelParam3="0.497516">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005751, 1.000000</rdf:li>
+          <rdf:li>0.203235, 0.966522</rdf:li>
+          <rdf:li>0.430225, 0.856380</rdf:li>
+          <rdf:li>0.493787, 0.814178</rdf:li>
+          <rdf:li>0.557221, 0.756911</rdf:li>
+          <rdf:li>0.655298, 0.644263</rdf:li>
+          <rdf:li>0.769579, 0.515356</rdf:li>
+          <rdf:li>0.883601, 0.394993</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.67978"
+        stCamera:FocalLengthY="0.67978"
+        stCamera:ImageXCenter="0.500417"
+        stCamera:ImageYCenter="0.49492"
+        stCamera:RadialDistortParam1="-0.105724"
+        stCamera:RadialDistortParam2="0.104197"
+        stCamera:RadialDistortParam3="-0.031748">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.67978"
+         stCamera:FocalLengthY="0.67978"
+         stCamera:VignetteModelParam1="-0.854493"
+         stCamera:VignetteModelParam2="0.524439"
+         stCamera:VignetteModelParam3="-0.19554">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005751, 1.000000</rdf:li>
+          <rdf:li>0.167165, 0.977318</rdf:li>
+          <rdf:li>0.329398, 0.913275</rdf:li>
+          <rdf:li>0.466371, 0.835225</rdf:li>
+          <rdf:li>0.651958, 0.706121</rdf:li>
+          <rdf:li>0.825555, 0.581152</rdf:li>
+          <rdf:li>0.883601, 0.530336</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.67978"
+        stCamera:FocalLengthY="0.67978"
+        stCamera:ImageXCenter="0.500417"
+        stCamera:ImageYCenter="0.49492"
+        stCamera:RadialDistortParam1="-0.105724"
+        stCamera:RadialDistortParam2="0.104197"
+        stCamera:RadialDistortParam3="-0.031748">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.67978"
+         stCamera:FocalLengthY="0.67978"
+         stCamera:VignetteModelParam1="-0.841727"
+         stCamera:VignetteModelParam2="0.452877"
+         stCamera:VignetteModelParam3="-0.101668">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.012859, 1.000000</rdf:li>
+          <rdf:li>0.158639, 0.979557</rdf:li>
+          <rdf:li>0.301732, 0.927675</rdf:li>
+          <rdf:li>0.431453, 0.856481</rdf:li>
+          <rdf:li>0.883601, 0.544917</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.67978"
+        stCamera:FocalLengthY="0.67978"
+        stCamera:ImageXCenter="0.500417"
+        stCamera:ImageYCenter="0.49492"
+        stCamera:RadialDistortParam1="-0.105724"
+        stCamera:RadialDistortParam2="0.104197"
+        stCamera:RadialDistortParam3="-0.031748">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.67978"
+         stCamera:FocalLengthY="0.67978"
+         stCamera:VignetteModelParam1="-0.840521"
+         stCamera:VignetteModelParam2="0.448741"
+         stCamera:VignetteModelParam3="-0.099145">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005751, 1.000000</rdf:li>
+          <rdf:li>0.155268, 0.980665</rdf:li>
+          <rdf:li>0.300413, 0.928416</rdf:li>
+          <rdf:li>0.423250, 0.861580</rdf:li>
+          <rdf:li>0.883601, 0.545059</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark II"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark II"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="503"
+       stCamera:Lens="EF24mm f/2.8 IS USM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark II"
+       stCamera:LensPrettyName="Canon EF 24mm f/2.8 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24mm f/2.8 IS USM)"
+       stCamera:SensorFormatFactor="0.973055"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.67978"
+        stCamera:FocalLengthY="0.67978"
+        stCamera:ImageXCenter="0.500417"
+        stCamera:ImageYCenter="0.49492"
+        stCamera:RadialDistortParam1="-0.105724"
+        stCamera:RadialDistortParam2="0.104197"
+        stCamera:RadialDistortParam3="-0.031748">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.67978"
+         stCamera:FocalLengthY="0.67978"
+         stCamera:VignetteModelParam1="-0.870326"
+         stCamera:VignetteModelParam2="0.524646"
+         stCamera:VignetteModelParam3="-0.15343">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005751, 1.000000</rdf:li>
+          <rdf:li>0.167165, 0.976179</rdf:li>
+          <rdf:li>0.297093, 0.928053</rdf:li>
+          <rdf:li>0.393111, 0.877704</rdf:li>
+          <rdf:li>0.883601, 0.542822</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

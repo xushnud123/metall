@@ -1,0 +1,2433 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013929"
+        stCamera:FocalLengthY="1.013929"
+        stCamera:ImageXCenter="0.507098"
+        stCamera:ImageYCenter="0.492092"
+        stCamera:ResidualMeanError="0.000393"
+        stCamera:ResidualStandardDeviation="0.000582"
+        stCamera:RadialDistortParam1="0.049865"
+        stCamera:RadialDistortParam2="-0.21395"
+        stCamera:RadialDistortParam3="0.394316">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:ResidualMeanError="0.000389"
+        stCamera:ResidualStandardDeviation="0.000582"
+        stCamera:ScaleFactor="1.000431"
+        stCamera:RadialDistortParam1="-0.000581"
+        stCamera:RadialDistortParam2="-0.000404"
+        stCamera:RadialDistortParam3="0.006422"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:ResidualMeanError="0.000388"
+        stCamera:ResidualStandardDeviation="0.000582"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:ResidualMeanError="0.000389"
+        stCamera:ResidualStandardDeviation="0.000582"
+        stCamera:ScaleFactor="0.999707"
+        stCamera:RadialDistortParam1="0.00121"
+        stCamera:RadialDistortParam2="0.000851"
+        stCamera:RadialDistortParam3="-0.01075"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="1.32"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.975219"
+        stCamera:FocalLengthY="0.975219"
+        stCamera:ImageXCenter="0.506113"
+        stCamera:ImageYCenter="0.490076"
+        stCamera:ResidualMeanError="0.000199"
+        stCamera:ResidualStandardDeviation="0.000108"
+        stCamera:RadialDistortParam1="0.030754"
+        stCamera:RadialDistortParam2="-0.075082"
+        stCamera:RadialDistortParam3="0.042228">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.975184"
+        stCamera:FocalLengthY="0.975184"
+        stCamera:ImageXCenter="0.506101"
+        stCamera:ImageYCenter="0.490065"
+        stCamera:ResidualMeanError="0.000198"
+        stCamera:ResidualStandardDeviation="0.000108"
+        stCamera:ScaleFactor="1.000309"
+        stCamera:RadialDistortParam1="-0.001061"
+        stCamera:RadialDistortParam2="0.002331"
+        stCamera:RadialDistortParam3="-0.0007"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.975184"
+        stCamera:FocalLengthY="0.975184"
+        stCamera:ImageXCenter="0.506101"
+        stCamera:ImageYCenter="0.490065"
+        stCamera:ResidualMeanError="0.000198"
+        stCamera:ResidualStandardDeviation="0.000108"
+        stCamera:RadialDistortParam1="0.030402"
+        stCamera:RadialDistortParam2="-0.074796"
+        stCamera:RadialDistortParam3="0.043096"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.975184"
+        stCamera:FocalLengthY="0.975184"
+        stCamera:ImageXCenter="0.506101"
+        stCamera:ImageYCenter="0.490065"
+        stCamera:ResidualMeanError="0.000199"
+        stCamera:ResidualStandardDeviation="0.000109"
+        stCamera:ScaleFactor="0.999916"
+        stCamera:RadialDistortParam1="0.002145"
+        stCamera:RadialDistortParam2="-0.003215"
+        stCamera:RadialDistortParam3="-0.0015"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="2.69"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.942797"
+        stCamera:FocalLengthY="0.942797"
+        stCamera:ImageXCenter="0.505354"
+        stCamera:ImageYCenter="0.494263"
+        stCamera:ResidualMeanError="0.000253"
+        stCamera:ResidualStandardDeviation="0.00046"
+        stCamera:RadialDistortParam1="-0.023893"
+        stCamera:RadialDistortParam2="0.116916"
+        stCamera:RadialDistortParam3="-0.212059">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.94276"
+        stCamera:FocalLengthY="0.94276"
+        stCamera:ImageXCenter="0.505346"
+        stCamera:ImageYCenter="0.494257"
+        stCamera:ResidualMeanError="0.000252"
+        stCamera:ResidualStandardDeviation="0.000459"
+        stCamera:ScaleFactor="1.00028"
+        stCamera:RadialDistortParam1="-0.000779"
+        stCamera:RadialDistortParam2="0.000706"
+        stCamera:RadialDistortParam3="0.001551"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.94276"
+        stCamera:FocalLengthY="0.94276"
+        stCamera:ImageXCenter="0.505346"
+        stCamera:ImageYCenter="0.494257"
+        stCamera:ResidualMeanError="0.000251"
+        stCamera:ResidualStandardDeviation="0.000459"
+        stCamera:RadialDistortParam1="-0.024241"
+        stCamera:RadialDistortParam2="0.117318"
+        stCamera:RadialDistortParam3="-0.211774"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.94276"
+        stCamera:FocalLengthY="0.94276"
+        stCamera:ImageXCenter="0.505346"
+        stCamera:ImageYCenter="0.494257"
+        stCamera:ResidualMeanError="0.000252"
+        stCamera:ResidualStandardDeviation="0.000459"
+        stCamera:ScaleFactor="0.999964"
+        stCamera:RadialDistortParam1="0.001719"
+        stCamera:RadialDistortParam2="-0.0009"
+        stCamera:RadialDistortParam3="-0.004233"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.13"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.857087"
+         stCamera:VignetteModelParam2="4.184341"
+         stCamera:VignetteModelParam3="-3.182262">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.108638, 0.977781</rdf:li>
+          <rdf:li>0.188403, 0.908093</rdf:li>
+          <rdf:li>0.308265, 0.766353</rdf:li>
+          <rdf:li>0.592765, 0.362928</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.13"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.984708"
+         stCamera:VignetteModelParam2="2.021432"
+         stCamera:VignetteModelParam3="-0.915224">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.125187, 0.967625</rdf:li>
+          <rdf:li>0.277791, 0.864986</rdf:li>
+          <rdf:li>0.322516, 0.829083</rdf:li>
+          <rdf:li>0.405880, 0.733656</rdf:li>
+          <rdf:li>0.564945, 0.532610</rdf:li>
+          <rdf:li>0.592765, 0.491116</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.13"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.82833"
+         stCamera:VignetteModelParam2="1.111808"
+         stCamera:VignetteModelParam3="0.819768">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.120831, 0.974389</rdf:li>
+          <rdf:li>0.274015, 0.875947</rdf:li>
+          <rdf:li>0.372855, 0.784401</rdf:li>
+          <rdf:li>0.548586, 0.568991</rdf:li>
+          <rdf:li>0.592765, 0.509844</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.13"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.984956"
+         stCamera:VignetteModelParam2="2.02565"
+         stCamera:VignetteModelParam3="-0.433832">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.108638, 0.975511</rdf:li>
+          <rdf:li>0.279500, 0.861322</rdf:li>
+          <rdf:li>0.380442, 0.770581</rdf:li>
+          <rdf:li>0.592765, 0.510603</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.13"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.977996"
+         stCamera:VignetteModelParam2="2.191765"
+         stCamera:VignetteModelParam3="-1.007807">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.108638, 0.980307</rdf:li>
+          <rdf:li>0.262361, 0.876754</rdf:li>
+          <rdf:li>0.324723, 0.827117</rdf:li>
+          <rdf:li>0.396982, 0.750561</rdf:li>
+          <rdf:li>0.496463, 0.635088</rdf:li>
+          <rdf:li>0.592765, 0.512259</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.13"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.826294"
+         stCamera:VignetteModelParam2="1.136571"
+         stCamera:VignetteModelParam3="0.946215">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.123511, 0.977041</rdf:li>
+          <rdf:li>0.258475, 0.887078</rdf:li>
+          <rdf:li>0.327916, 0.836779</rdf:li>
+          <rdf:li>0.592765, 0.518668</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.13"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.01928"
+         stCamera:VignetteModelParam2="2.299419"
+         stCamera:VignetteModelParam3="-1.094867">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.115799, 0.978146</rdf:li>
+          <rdf:li>0.250759, 0.887512</rdf:li>
+          <rdf:li>0.380442, 0.765948</rdf:li>
+          <rdf:li>0.592765, 0.507483</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.13"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.857087"
+         stCamera:VignetteModelParam2="4.184341"
+         stCamera:VignetteModelParam3="-3.182262">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.106981, 0.978514</rdf:li>
+          <rdf:li>0.196749, 0.899497</rdf:li>
+          <rdf:li>0.315895, 0.758601</rdf:li>
+          <rdf:li>0.592765, 0.358491</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.13"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.984708"
+         stCamera:VignetteModelParam2="2.021432"
+         stCamera:VignetteModelParam3="-0.915224">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.117331, 0.975979</rdf:li>
+          <rdf:li>0.275639, 0.867593</rdf:li>
+          <rdf:li>0.321684, 0.829259</rdf:li>
+          <rdf:li>0.444723, 0.686190</rdf:li>
+          <rdf:li>0.550265, 0.554815</rdf:li>
+          <rdf:li>0.592765, 0.490291</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.13"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.82833"
+         stCamera:VignetteModelParam2="1.111808"
+         stCamera:VignetteModelParam3="0.819768">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.117331, 0.987586</rdf:li>
+          <rdf:li>0.253709, 0.896642</rdf:li>
+          <rdf:li>0.369245, 0.793011</rdf:li>
+          <rdf:li>0.372855, 0.788335</rdf:li>
+          <rdf:li>0.440216, 0.698485</rdf:li>
+          <rdf:li>0.455633, 0.684294</rdf:li>
+          <rdf:li>0.518172, 0.610959</rdf:li>
+          <rdf:li>0.592765, 0.511265</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.13"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.984956"
+         stCamera:VignetteModelParam2="2.02565"
+         stCamera:VignetteModelParam3="-0.433832">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.109728, 0.978192</rdf:li>
+          <rdf:li>0.268971, 0.874496</rdf:li>
+          <rdf:li>0.369245, 0.784616</rdf:li>
+          <rdf:li>0.592765, 0.511270</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.13"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.977996"
+         stCamera:VignetteModelParam2="2.191765"
+         stCamera:VignetteModelParam3="-1.007807">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.116312, 0.982104</rdf:li>
+          <rdf:li>0.258475, 0.890653</rdf:li>
+          <rdf:li>0.327916, 0.838728</rdf:li>
+          <rdf:li>0.328007, 0.838028</rdf:li>
+          <rdf:li>0.393518, 0.752179</rdf:li>
+          <rdf:li>0.444723, 0.698594</rdf:li>
+          <rdf:li>0.525473, 0.606987</rdf:li>
+          <rdf:li>0.571389, 0.547100</rdf:li>
+          <rdf:li>0.592765, 0.519141</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.13"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.826294"
+         stCamera:VignetteModelParam2="1.136571"
+         stCamera:VignetteModelParam3="0.946215">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.102142, 0.978663</rdf:li>
+          <rdf:li>0.281622, 0.855413</rdf:li>
+          <rdf:li>0.327916, 0.820925</rdf:li>
+          <rdf:li>0.410474, 0.733858</rdf:li>
+          <rdf:li>0.519377, 0.604190</rdf:li>
+          <rdf:li>0.592765, 0.509009</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.13"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.01928"
+         stCamera:VignetteModelParam2="2.299419"
+         stCamera:VignetteModelParam3="-1.094867">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.116312, 0.969647</rdf:li>
+          <rdf:li>0.273906, 0.861380</rdf:li>
+          <rdf:li>0.330177, 0.818625</rdf:li>
+          <rdf:li>0.362411, 0.783155</rdf:li>
+          <rdf:li>0.531612, 0.585978</rdf:li>
+          <rdf:li>0.592765, 0.507077</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.14"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.900858"
+         stCamera:VignetteModelParam2="4.163144"
+         stCamera:VignetteModelParam3="-2.940694">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.106143, 0.978539</rdf:li>
+          <rdf:li>0.191847, 0.902255</rdf:li>
+          <rdf:li>0.309517, 0.762495</rdf:li>
+          <rdf:li>0.592765, 0.353711</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.14"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.889574"
+         stCamera:VignetteModelParam2="1.351142"
+         stCamera:VignetteModelParam3="0.226104">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.118090, 0.975831</rdf:li>
+          <rdf:li>0.266190, 0.877699</rdf:li>
+          <rdf:li>0.321684, 0.830875</rdf:li>
+          <rdf:li>0.392685, 0.749986</rdf:li>
+          <rdf:li>0.554254, 0.547300</rdf:li>
+          <rdf:li>0.592765, 0.491364</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.14"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.830853"
+         stCamera:VignetteModelParam2="0.969625"
+         stCamera:VignetteModelParam3="1.124398">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.117331, 0.978796</rdf:li>
+          <rdf:li>0.258475, 0.888113</rdf:li>
+          <rdf:li>0.372855, 0.780537</rdf:li>
+          <rdf:li>0.592765, 0.505158</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.14"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.948871"
+         stCamera:VignetteModelParam2="1.824929"
+         stCamera:VignetteModelParam3="-0.265447">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.112143, 0.975992</rdf:li>
+          <rdf:li>0.270076, 0.869262</rdf:li>
+          <rdf:li>0.320293, 0.830777</rdf:li>
+          <rdf:li>0.376589, 0.773008</rdf:li>
+          <rdf:li>0.548586, 0.566522</rdf:li>
+          <rdf:li>0.592765, 0.508225</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.14"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.037515"
+         stCamera:VignetteModelParam2="2.262033"
+         stCamera:VignetteModelParam3="-0.695604">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.112143, 0.972959</rdf:li>
+          <rdf:li>0.274015, 0.866484</rdf:li>
+          <rdf:li>0.312484, 0.836537</rdf:li>
+          <rdf:li>0.372855, 0.773186</rdf:li>
+          <rdf:li>0.582073, 0.525959</rdf:li>
+          <rdf:li>0.592765, 0.509771</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.14"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.829068"
+         stCamera:VignetteModelParam2="1.334588"
+         stCamera:VignetteModelParam3="0.228287">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.120831, 0.980842</rdf:li>
+          <rdf:li>0.243043, 0.905665</rdf:li>
+          <rdf:li>0.327916, 0.835921</rdf:li>
+          <rdf:li>0.377851, 0.767211</rdf:li>
+          <rdf:li>0.450508, 0.689252</rdf:li>
+          <rdf:li>0.506318, 0.629975</rdf:li>
+          <rdf:li>0.579972, 0.534210</rdf:li>
+          <rdf:li>0.592765, 0.515873</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.14"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.086509"
+         stCamera:VignetteModelParam2="2.654781"
+         stCamera:VignetteModelParam3="-1.576954">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.123992, 0.969081</rdf:li>
+          <rdf:li>0.258475, 0.872865</rdf:li>
+          <rdf:li>0.320200, 0.826208</rdf:li>
+          <rdf:li>0.369245, 0.773487</rdf:li>
+          <rdf:li>0.519377, 0.598430</rdf:li>
+          <rdf:li>0.592765, 0.505358</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.15"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-3.119861"
+         stCamera:VignetteModelParam2="5.037578"
+         stCamera:VignetteModelParam3="-4.027165">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.095827, 0.981097</rdf:li>
+          <rdf:li>0.196901, 0.887554</rdf:li>
+          <rdf:li>0.297954, 0.767615</rdf:li>
+          <rdf:li>0.309517, 0.753362</rdf:li>
+          <rdf:li>0.507316, 0.461693</rdf:li>
+          <rdf:li>0.516215, 0.444296</rdf:li>
+          <rdf:li>0.592765, 0.336902</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.15"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.001076"
+         stCamera:VignetteModelParam2="1.796"
+         stCamera:VignetteModelParam3="-0.3401">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.113462, 0.977476</rdf:li>
+          <rdf:li>0.261338, 0.875224</rdf:li>
+          <rdf:li>0.321036, 0.825106</rdf:li>
+          <rdf:li>0.404337, 0.726636</rdf:li>
+          <rdf:li>0.544009, 0.553591</rdf:li>
+          <rdf:li>0.592765, 0.481455</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.15"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.996648"
+         stCamera:VignetteModelParam2="1.723503"
+         stCamera:VignetteModelParam3="0.169621">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.115799, 0.971701</rdf:li>
+          <rdf:li>0.277791, 0.861430</rdf:li>
+          <rdf:li>0.362411, 0.784845</rdf:li>
+          <rdf:li>0.592765, 0.496292</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.15"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.064739"
+         stCamera:VignetteModelParam2="2.268019"
+         stCamera:VignetteModelParam3="-0.892792">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.108638, 0.977437</rdf:li>
+          <rdf:li>0.266302, 0.868546</rdf:li>
+          <rdf:li>0.321684, 0.823142</rdf:li>
+          <rdf:li>0.372855, 0.766860</rdf:li>
+          <rdf:li>0.513324, 0.598264</rdf:li>
+          <rdf:li>0.592765, 0.494491</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.15"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.061488"
+         stCamera:VignetteModelParam2="2.404334"
+         stCamera:VignetteModelParam3="-1.225748">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.106143, 0.979169</rdf:li>
+          <rdf:li>0.247413, 0.887587</rdf:li>
+          <rdf:li>0.333675, 0.811448</rdf:li>
+          <rdf:li>0.384411, 0.755496</rdf:li>
+          <rdf:li>0.518172, 0.596327</rdf:li>
+          <rdf:li>0.592765, 0.499330</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.15"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-1.893959"
+         stCamera:VignetteModelParam2="1.642097"
+         stCamera:VignetteModelParam3="-0.504168">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.013910, 1.000000</rdf:li>
+          <rdf:li>0.128240, 0.979712</rdf:li>
+          <rdf:li>0.250759, 0.899468</rdf:li>
+          <rdf:li>0.327916, 0.833440</rdf:li>
+          <rdf:li>0.542420, 0.572551</rdf:li>
+          <rdf:li>0.592765, 0.503674</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.15"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.300844"
+         stCamera:VignetteModelParam2="3.534787"
+         stCamera:VignetteModelParam3="-2.616547">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.108088, 0.963888</rdf:li>
+          <rdf:li>0.279926, 0.850000</rdf:li>
+          <rdf:li>0.376589, 0.754417</rdf:li>
+          <rdf:li>0.592765, 0.487943</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.24"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-3.961642"
+         stCamera:VignetteModelParam2="8.944944"
+         stCamera:VignetteModelParam3="-9.578683">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.073299, 0.982163</rdf:li>
+          <rdf:li>0.181482, 0.872719</rdf:li>
+          <rdf:li>0.258590, 0.773960</rdf:li>
+          <rdf:li>0.264057, 0.765905</rdf:li>
+          <rdf:li>0.305159, 0.714204</rdf:li>
+          <rdf:li>0.450310, 0.491534</rdf:li>
+          <rdf:li>0.541431, 0.352828</rdf:li>
+          <rdf:li>0.592765, 0.281728</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.24"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.142309"
+         stCamera:VignetteModelParam2="2.612358"
+         stCamera:VignetteModelParam3="-3.190091">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.079531, 0.989318</rdf:li>
+          <rdf:li>0.150653, 0.954284</rdf:li>
+          <rdf:li>0.266302, 0.866643</rdf:li>
+          <rdf:li>0.342913, 0.793585</rdf:li>
+          <rdf:li>0.489580, 0.600371</rdf:li>
+          <rdf:li>0.592765, 0.418032</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.24"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.048687"
+         stCamera:VignetteModelParam2="1.569741"
+         stCamera:VignetteModelParam3="0.396502">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.108638, 0.981166</rdf:li>
+          <rdf:li>0.253709, 0.880579</rdf:li>
+          <rdf:li>0.356114, 0.781445</rdf:li>
+          <rdf:li>0.544009, 0.540629</rdf:li>
+          <rdf:li>0.592765, 0.472064</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.24"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.232197"
+         stCamera:VignetteModelParam2="2.647775"
+         stCamera:VignetteModelParam3="-1.06181">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.103875, 0.972263</rdf:li>
+          <rdf:li>0.276179, 0.850053</rdf:li>
+          <rdf:li>0.359193, 0.770553</rdf:li>
+          <rdf:li>0.592765, 0.471500</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.24"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.324128"
+         stCamera:VignetteModelParam2="3.516262"
+         stCamera:VignetteModelParam3="-2.963678">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.106143, 0.973360</rdf:li>
+          <rdf:li>0.276179, 0.844257</rdf:li>
+          <rdf:li>0.396982, 0.724695</rdf:li>
+          <rdf:li>0.592765, 0.468577</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.24"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.34816"
+         stCamera:VignetteModelParam2="3.709177"
+         stCamera:VignetteModelParam3="-3.274461">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.100969, 0.976910</rdf:li>
+          <rdf:li>0.266302, 0.853401</rdf:li>
+          <rdf:li>0.380442, 0.743026</rdf:li>
+          <rdf:li>0.519377, 0.569271</rdf:li>
+          <rdf:li>0.592765, 0.471094</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="0.24"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.013902"
+        stCamera:FocalLengthY="1.013902"
+        stCamera:ImageXCenter="0.507079"
+        stCamera:ImageYCenter="0.492098"
+        stCamera:RadialDistortParam1="0.049428"
+        stCamera:RadialDistortParam2="-0.213129"
+        stCamera:RadialDistortParam3="0.394293">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.013902"
+         stCamera:FocalLengthY="1.013902"
+         stCamera:VignetteModelParam1="-2.465074"
+         stCamera:VignetteModelParam2="4.215914"
+         stCamera:VignetteModelParam3="-3.858191">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003858, 1.000000</rdf:li>
+          <rdf:li>0.116312, 0.964992</rdf:li>
+          <rdf:li>0.272599, 0.839262</rdf:li>
+          <rdf:li>0.329365, 0.791142</rdf:li>
+          <rdf:li>0.405880, 0.706175</rdf:li>
+          <rdf:li>0.513324, 0.571444</rdf:li>
+          <rdf:li>0.592765, 0.465143</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.94276"
+        stCamera:FocalLengthY="0.94276"
+        stCamera:ImageXCenter="0.505346"
+        stCamera:ImageYCenter="0.494257"
+        stCamera:RadialDistortParam1="-0.024241"
+        stCamera:RadialDistortParam2="0.117318"
+        stCamera:RadialDistortParam3="-0.211774">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.94276"
+         stCamera:FocalLengthY="0.94276"
+         stCamera:VignetteModelParam1="-4.51412"
+         stCamera:VignetteModelParam2="11.162058"
+         stCamera:VignetteModelParam3="-11.933946">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004149, 1.000000</rdf:li>
+          <rdf:li>0.041696, 0.991059</rdf:li>
+          <rdf:li>0.077952, 0.962455</rdf:li>
+          <rdf:li>0.207821, 0.810027</rdf:li>
+          <rdf:li>0.453907, 0.447233</rdf:li>
+          <rdf:li>0.573531, 0.274236</rdf:li>
+          <rdf:li>0.625997, 0.211155</rdf:li>
+          <rdf:li>0.637495, 0.195816</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.94276"
+        stCamera:FocalLengthY="0.94276"
+        stCamera:ImageXCenter="0.505346"
+        stCamera:ImageYCenter="0.494257"
+        stCamera:RadialDistortParam1="-0.024241"
+        stCamera:RadialDistortParam2="0.117318"
+        stCamera:RadialDistortParam3="-0.211774">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.94276"
+         stCamera:FocalLengthY="0.94276"
+         stCamera:VignetteModelParam1="-1.931145"
+         stCamera:VignetteModelParam2="1.441325"
+         stCamera:VignetteModelParam3="-1.593725">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.009277, 1.000000</rdf:li>
+          <rdf:li>0.079266, 0.990043</rdf:li>
+          <rdf:li>0.170309, 0.944561</rdf:li>
+          <rdf:li>0.296440, 0.845636</rdf:li>
+          <rdf:li>0.373981, 0.768039</rdf:li>
+          <rdf:li>0.438790, 0.682729</rdf:li>
+          <rdf:li>0.490015, 0.605562</rdf:li>
+          <rdf:li>0.523640, 0.545851</rdf:li>
+          <rdf:li>0.637495, 0.333866</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.94276"
+        stCamera:FocalLengthY="0.94276"
+        stCamera:ImageXCenter="0.505346"
+        stCamera:ImageYCenter="0.494257"
+        stCamera:RadialDistortParam1="-0.024241"
+        stCamera:RadialDistortParam2="0.117318"
+        stCamera:RadialDistortParam3="-0.211774">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.94276"
+         stCamera:FocalLengthY="0.94276"
+         stCamera:VignetteModelParam1="-1.909287"
+         stCamera:VignetteModelParam2="1.415149"
+         stCamera:VignetteModelParam3="-0.267571">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004149, 1.000000</rdf:li>
+          <rdf:li>0.077509, 0.994503</rdf:li>
+          <rdf:li>0.136915, 0.969915</rdf:li>
+          <rdf:li>0.220520, 0.916609</rdf:li>
+          <rdf:li>0.300248, 0.845310</rdf:li>
+          <rdf:li>0.347943, 0.801657</rdf:li>
+          <rdf:li>0.514085, 0.596262</rdf:li>
+          <rdf:li>0.603369, 0.473990</rdf:li>
+          <rdf:li>0.637495, 0.415563</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.94276"
+        stCamera:FocalLengthY="0.94276"
+        stCamera:ImageXCenter="0.505346"
+        stCamera:ImageYCenter="0.494257"
+        stCamera:RadialDistortParam1="-0.024241"
+        stCamera:RadialDistortParam2="0.117318"
+        stCamera:RadialDistortParam3="-0.211774">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.94276"
+         stCamera:FocalLengthY="0.94276"
+         stCamera:VignetteModelParam1="-2.042645"
+         stCamera:VignetteModelParam2="2.10885"
+         stCamera:VignetteModelParam3="-1.086966">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004149, 1.000000</rdf:li>
+          <rdf:li>0.127001, 0.968035</rdf:li>
+          <rdf:li>0.277980, 0.859355</rdf:li>
+          <rdf:li>0.345959, 0.796280</rdf:li>
+          <rdf:li>0.409150, 0.724166</rdf:li>
+          <rdf:li>0.614507, 0.458639</rdf:li>
+          <rdf:li>0.637495, 0.424883</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.94276"
+        stCamera:FocalLengthY="0.94276"
+        stCamera:ImageXCenter="0.505346"
+        stCamera:ImageYCenter="0.494257"
+        stCamera:RadialDistortParam1="-0.024241"
+        stCamera:RadialDistortParam2="0.117318"
+        stCamera:RadialDistortParam3="-0.211774">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.94276"
+         stCamera:FocalLengthY="0.94276"
+         stCamera:VignetteModelParam1="-1.982456"
+         stCamera:VignetteModelParam2="1.95628"
+         stCamera:VignetteModelParam3="-1.072158">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004149, 1.000000</rdf:li>
+          <rdf:li>0.126185, 0.975483</rdf:li>
+          <rdf:li>0.290100, 0.850088</rdf:li>
+          <rdf:li>0.352954, 0.793673</rdf:li>
+          <rdf:li>0.473071, 0.647247</rdf:li>
+          <rdf:li>0.545599, 0.560574</rdf:li>
+          <rdf:li>0.637495, 0.426596</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.94276"
+        stCamera:FocalLengthY="0.94276"
+        stCamera:ImageXCenter="0.505346"
+        stCamera:ImageYCenter="0.494257"
+        stCamera:RadialDistortParam1="-0.024241"
+        stCamera:RadialDistortParam2="0.117318"
+        stCamera:RadialDistortParam3="-0.211774">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.94276"
+         stCamera:FocalLengthY="0.94276"
+         stCamera:VignetteModelParam1="-2.233099"
+         stCamera:VignetteModelParam2="3.222128"
+         stCamera:VignetteModelParam3="-2.728259">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004149, 1.000000</rdf:li>
+          <rdf:li>0.053936, 0.992043</rdf:li>
+          <rdf:li>0.146159, 0.945757</rdf:li>
+          <rdf:li>0.202960, 0.912476</rdf:li>
+          <rdf:li>0.311282, 0.824090</rdf:li>
+          <rdf:li>0.352758, 0.789472</rdf:li>
+          <rdf:li>0.353538, 0.788195</rdf:li>
+          <rdf:li>0.374809, 0.751143</rdf:li>
+          <rdf:li>0.413420, 0.711211</rdf:li>
+          <rdf:li>0.450481, 0.669972</rdf:li>
+          <rdf:li>0.628467, 0.434624</rdf:li>
+          <rdf:li>0.637495, 0.421382</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M"
+       stCamera:UniqueCameraModel="Canon EOS M"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4145"
+       stCamera:Lens="EF-M22mm f/2 STM"
+       stCamera:LensInfo="22/1 22/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M"
+       stCamera:LensPrettyName="Canon EF-M 22mm f/2 STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 22mm f/2 STM)"
+       stCamera:SensorFormatFactor="1.576691"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.94276"
+        stCamera:FocalLengthY="0.94276"
+        stCamera:ImageXCenter="0.505346"
+        stCamera:ImageYCenter="0.494257"
+        stCamera:RadialDistortParam1="-0.024241"
+        stCamera:RadialDistortParam2="0.117318"
+        stCamera:RadialDistortParam3="-0.211774">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.94276"
+         stCamera:FocalLengthY="0.94276"
+         stCamera:VignetteModelParam1="-2.151085"
+         stCamera:VignetteModelParam2="2.750201"
+         stCamera:VignetteModelParam3="-2.037064">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004149, 1.000000</rdf:li>
+          <rdf:li>0.116836, 0.971014</rdf:li>
+          <rdf:li>0.288195, 0.842433</rdf:li>
+          <rdf:li>0.405006, 0.726879</rdf:li>
+          <rdf:li>0.428308, 0.689978</rdf:li>
+          <rdf:li>0.478642, 0.631591</rdf:li>
+          <rdf:li>0.589166, 0.490944</rdf:li>
+          <rdf:li>0.625997, 0.441042</rdf:li>
+          <rdf:li>0.637495, 0.421995</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

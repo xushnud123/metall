@@ -1,0 +1,247 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="False"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.999143"
+       stCamera:ImageWidth="5616"
+       stCamera:ImageLength="3744"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="4.628498"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.941529"
+        stCamera:FocalLengthY="2.941529"
+        stCamera:ImageXCenter="0.496713"
+        stCamera:ImageYCenter="0.515466"
+        stCamera:ResidualMeanError="0.000054"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="0.775575">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.941719"
+        stCamera:FocalLengthY="2.941719"
+        stCamera:ImageXCenter="0.496695"
+        stCamera:ImageYCenter="0.515311"
+        stCamera:ResidualMeanError="0.00005"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:ScaleFactor="0.999809"
+        stCamera:RadialDistortParam1="-0.001009"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.941719"
+        stCamera:FocalLengthY="2.941719"
+        stCamera:ImageXCenter="0.496695"
+        stCamera:ImageYCenter="0.515311"
+        stCamera:ResidualMeanError="0.00005"
+        stCamera:ResidualStandardDeviation="0.000032"
+        stCamera:RadialDistortParam1="0.77917"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.941719"
+        stCamera:FocalLengthY="2.941719"
+        stCamera:ImageXCenter="0.496695"
+        stCamera:ImageYCenter="0.515311"
+        stCamera:ResidualMeanError="0.00005"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:ScaleFactor="0.999934"
+        stCamera:RadialDistortParam1="-0.008737"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.94153"
+        stCamera:FocalLengthY="2.94153"
+        stCamera:ImageXCenter="0.496713"
+        stCamera:ImageYCenter="0.515466"
+        stCamera:ResidualMeanError="0.013485"
+        stCamera:VignetteModelParam1="-3.564283"
+        stCamera:VignetteModelParam2="5.806023"
+        stCamera:VignetteModelParam3="-66.320633"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="False"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.999143"
+       stCamera:ImageWidth="5616"
+       stCamera:ImageLength="3744"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="3.586171"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.10887"
+        stCamera:FocalLengthY="2.10887"
+        stCamera:ImageXCenter="0.496054"
+        stCamera:ImageYCenter="0.519622"
+        stCamera:ResidualMeanError="0.00008"
+        stCamera:ResidualStandardDeviation="0.000058"
+        stCamera:RadialDistortParam1="0.438988">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.110184"
+        stCamera:FocalLengthY="2.110184"
+        stCamera:ImageXCenter="0.496064"
+        stCamera:ImageYCenter="0.519526"
+        stCamera:ResidualMeanError="0.000079"
+        stCamera:ResidualStandardDeviation="0.000057"
+        stCamera:ScaleFactor="0.999953"
+        stCamera:RadialDistortParam1="0.000205"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.110184"
+        stCamera:FocalLengthY="2.110184"
+        stCamera:ImageXCenter="0.496064"
+        stCamera:ImageYCenter="0.519526"
+        stCamera:ResidualMeanError="0.000079"
+        stCamera:ResidualStandardDeviation="0.000057"
+        stCamera:RadialDistortParam1="0.440851"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.110184"
+        stCamera:FocalLengthY="2.110184"
+        stCamera:ImageXCenter="0.496064"
+        stCamera:ImageYCenter="0.519526"
+        stCamera:ResidualMeanError="0.00008"
+        stCamera:ResidualStandardDeviation="0.000057"
+        stCamera:ScaleFactor="0.999982"
+        stCamera:RadialDistortParam1="-0.003421"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.10887"
+        stCamera:FocalLengthY="2.10887"
+        stCamera:ImageXCenter="0.496054"
+        stCamera:ImageYCenter="0.519622"
+        stCamera:ResidualMeanError="0.056171"
+        stCamera:VignetteModelParam1="-2.20531"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="False"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.999143"
+       stCamera:ImageWidth="5616"
+       stCamera:ImageLength="3744"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.147135"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.653426"
+        stCamera:FocalLengthY="0.653426"
+        stCamera:ImageXCenter="0.500374"
+        stCamera:ImageYCenter="0.474153"
+        stCamera:ResidualMeanError="0.00026"
+        stCamera:ResidualStandardDeviation="0.000478"
+        stCamera:RadialDistortParam1="-0.127025"
+        stCamera:RadialDistortParam2="0.073529"
+        stCamera:RadialDistortParam3="-0.012872">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.653592"
+        stCamera:FocalLengthY="0.653592"
+        stCamera:ImageXCenter="0.500288"
+        stCamera:ImageYCenter="0.474171"
+        stCamera:ResidualMeanError="0.000258"
+        stCamera:ResidualStandardDeviation="0.000474"
+        stCamera:ScaleFactor="1.000206"
+        stCamera:RadialDistortParam1="0.000988"
+        stCamera:RadialDistortParam2="-0.00219"
+        stCamera:RadialDistortParam3="0.001609"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.653592"
+        stCamera:FocalLengthY="0.653592"
+        stCamera:ImageXCenter="0.500288"
+        stCamera:ImageYCenter="0.474171"
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000474"
+        stCamera:RadialDistortParam1="-0.127278"
+        stCamera:RadialDistortParam2="0.07377"
+        stCamera:RadialDistortParam3="-0.012834"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.653592"
+        stCamera:FocalLengthY="0.653592"
+        stCamera:ImageXCenter="0.500288"
+        stCamera:ImageYCenter="0.474171"
+        stCamera:ResidualMeanError="0.000256"
+        stCamera:ResidualStandardDeviation="0.000474"
+        stCamera:ScaleFactor="1.000164"
+        stCamera:RadialDistortParam1="-0.000206"
+        stCamera:RadialDistortParam2="0.001793"
+        stCamera:RadialDistortParam3="-0.002204"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.653426"
+        stCamera:FocalLengthY="0.653426"
+        stCamera:ImageXCenter="0.500374"
+        stCamera:ImageYCenter="0.474153"
+        stCamera:ResidualMeanError="0.09956"
+        stCamera:VignetteModelParam1="-0.340959"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

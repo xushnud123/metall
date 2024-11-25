@@ -1,0 +1,3033 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="1.007605"
+       stCamera:RadialDistortParam1="-0.435611"
+       stCamera:RadialDistortParam2="2.797647"
+       stCamera:RadialDistortParam3="-30.366218"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="1.007594"
+       stCamera:RadialDistortParam1="-0.447342"
+       stCamera:RadialDistortParam2="3.354386"
+       stCamera:RadialDistortParam3="-36.180875"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="64"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="1.004905"
+       stCamera:RadialDistortParam1="-0.459318"
+       stCamera:RadialDistortParam2="7.369276"
+       stCamera:RadialDistortParam3="-104.798361"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="1.003578"
+       stCamera:RadialDistortParam1="-0.416755"
+       stCamera:RadialDistortParam2="9.830295"
+       stCamera:RadialDistortParam3="-178.574351"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="84"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="1.001784"
+       stCamera:RadialDistortParam1="-0.295588"
+       stCamera:RadialDistortParam2="13.943655"
+       stCamera:RadialDistortParam3="-366.549872"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="0.999886"
+       stCamera:RadialDistortParam1="-0.270203"
+       stCamera:RadialDistortParam2="37.636665"
+       stCamera:RadialDistortParam3="-1316.200585"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="117"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="0.996817"
+       stCamera:RadialDistortParam1="0.01073"
+       stCamera:RadialDistortParam2="53.534898"
+       stCamera:RadialDistortParam3="-2687.542092"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="0.994612"
+       stCamera:RadialDistortParam1="0.186313"
+       stCamera:RadialDistortParam2="95.955398"
+       stCamera:RadialDistortParam3="-6461.577059"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="163"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="0.992487"
+       stCamera:RadialDistortParam1="0.394007"
+       stCamera:RadialDistortParam2="297.764055"
+       stCamera:RadialDistortParam3="-30420.148647"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="0.99028"
+       stCamera:RadialDistortParam1="1.421606"
+       stCamera:RadialDistortParam2="352.428636"
+       stCamera:RadialDistortParam3="-47666.138651"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="0.98864"
+       stCamera:RadialDistortParam1="2.475538"
+       stCamera:RadialDistortParam2="1140.532645"
+       stCamera:RadialDistortParam3="-245950.44808"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="1.13"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007605"
+        stCamera:RadialDistortParam1="-0.435611"
+        stCamera:RadialDistortParam2="2.797647"
+        stCamera:RadialDistortParam3="-30.366218">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-13.540634"
+         stCamera:VignetteModelParam2="185.511383"
+         stCamera:VignetteModelParam3="-1668.108024">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001624, 1.000000</rdf:li>
+          <rdf:li>0.046179, 0.983394</rdf:li>
+          <rdf:li>0.142219, 0.791752</rdf:li>
+          <rdf:li>0.192002, 0.670765</rdf:li>
+          <rdf:li>0.206042, 0.629351</rdf:li>
+          <rdf:li>0.249467, 0.465774</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="1.13"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007605"
+        stCamera:RadialDistortParam1="-0.435611"
+        stCamera:RadialDistortParam2="2.797647"
+        stCamera:RadialDistortParam3="-30.366218">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="0.916677"
+         stCamera:VignetteModelParam2="-113.677232"
+         stCamera:VignetteModelParam3="616.254241">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001624, 1.000000</rdf:li>
+          <rdf:li>0.151028, 0.988233</rdf:li>
+          <rdf:li>0.176284, 0.949428</rdf:li>
+          <rdf:li>0.230555, 0.814102</rdf:li>
+          <rdf:li>0.249467, 0.731014</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="1.13"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007605"
+        stCamera:RadialDistortParam1="-0.435611"
+        stCamera:RadialDistortParam2="2.797647"
+        stCamera:RadialDistortParam3="-30.366218">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.393311"
+         stCamera:VignetteModelParam2="42.552126"
+         stCamera:VignetteModelParam3="-710.454958">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001624, 1.000000</rdf:li>
+          <rdf:li>0.151028, 0.989973</rdf:li>
+          <rdf:li>0.213506, 0.966238</rdf:li>
+          <rdf:li>0.231581, 0.942056</rdf:li>
+          <rdf:li>0.249467, 0.894218</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="1.13"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007605"
+        stCamera:RadialDistortParam1="-0.435611"
+        stCamera:RadialDistortParam2="2.797647"
+        stCamera:RadialDistortParam3="-30.366218">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.884432"
+         stCamera:VignetteModelParam2="-4.173832"
+         stCamera:VignetteModelParam3="105.059791">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001624, 1.000000</rdf:li>
+          <rdf:li>0.162561, 0.984621</rdf:li>
+          <rdf:li>0.249467, 0.944461</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="1.13"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007605"
+        stCamera:RadialDistortParam1="-0.435611"
+        stCamera:RadialDistortParam2="2.797647"
+        stCamera:RadialDistortParam3="-30.366218">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.934172"
+         stCamera:VignetteModelParam2="-3.999536"
+         stCamera:VignetteModelParam3="122.162971">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001624, 1.000000</rdf:li>
+          <rdf:li>0.146887, 0.990195</rdf:li>
+          <rdf:li>0.249467, 0.945148</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="1.13"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007605"
+        stCamera:RadialDistortParam1="-0.435611"
+        stCamera:RadialDistortParam2="2.797647"
+        stCamera:RadialDistortParam3="-30.366218">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.115668"
+         stCamera:VignetteModelParam2="0.220681"
+         stCamera:VignetteModelParam3="103.372968">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001624, 1.000000</rdf:li>
+          <rdf:li>0.146887, 0.988758</rdf:li>
+          <rdf:li>0.249467, 0.943788</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="64.3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007605"
+        stCamera:RadialDistortParam1="-0.435611"
+        stCamera:RadialDistortParam2="2.797647"
+        stCamera:RadialDistortParam3="-30.366218">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-14.26538"
+         stCamera:VignetteModelParam2="207.124135"
+         stCamera:VignetteModelParam3="-1875.228234">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001624, 1.000000</rdf:li>
+          <rdf:li>0.043231, 0.983630</rdf:li>
+          <rdf:li>0.149590, 0.768147</rdf:li>
+          <rdf:li>0.187220, 0.676575</rdf:li>
+          <rdf:li>0.206425, 0.618232</rdf:li>
+          <rdf:li>0.240471, 0.492161</rdf:li>
+          <rdf:li>0.249467, 0.450614</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="64.3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007605"
+        stCamera:RadialDistortParam1="-0.435611"
+        stCamera:RadialDistortParam2="2.797647"
+        stCamera:RadialDistortParam3="-30.366218">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="0.549269"
+         stCamera:VignetteModelParam2="-95.021843"
+         stCamera:VignetteModelParam3="345.741817">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001624, 1.000000</rdf:li>
+          <rdf:li>0.149590, 0.985584</rdf:li>
+          <rdf:li>0.182716, 0.930603</rdf:li>
+          <rdf:li>0.221147, 0.840194</rdf:li>
+          <rdf:li>0.230555, 0.807174</rdf:li>
+          <rdf:li>0.243196, 0.751652</rdf:li>
+          <rdf:li>0.249467, 0.711308</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="64.3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007605"
+        stCamera:RadialDistortParam1="-0.435611"
+        stCamera:RadialDistortParam2="2.797647"
+        stCamera:RadialDistortParam3="-30.366218">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.462157"
+         stCamera:VignetteModelParam2="44.554697"
+         stCamera:VignetteModelParam3="-740.785539">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001624, 1.000000</rdf:li>
+          <rdf:li>0.151028, 0.987426</rdf:li>
+          <rdf:li>0.223731, 0.955051</rdf:li>
+          <rdf:li>0.243196, 0.912698</rdf:li>
+          <rdf:li>0.249467, 0.879222</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="64.3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007605"
+        stCamera:RadialDistortParam1="-0.435611"
+        stCamera:RadialDistortParam2="2.797647"
+        stCamera:RadialDistortParam3="-30.366218">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.857331"
+         stCamera:VignetteModelParam2="-1.737941"
+         stCamera:VignetteModelParam3="21.081954">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001624, 1.000000</rdf:li>
+          <rdf:li>0.168204, 0.983849</rdf:li>
+          <rdf:li>0.249467, 0.939901</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="64.3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007605"
+        stCamera:RadialDistortParam1="-0.435611"
+        stCamera:RadialDistortParam2="2.797647"
+        stCamera:RadialDistortParam3="-30.366218">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.950539"
+         stCamera:VignetteModelParam2="1.672045"
+         stCamera:VignetteModelParam3="-14.083469">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001624, 1.000000</rdf:li>
+          <rdf:li>0.174208, 0.983995</rdf:li>
+          <rdf:li>0.249467, 0.938816</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="64.3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007605"
+        stCamera:RadialDistortParam1="-0.435611"
+        stCamera:RadialDistortParam2="2.797647"
+        stCamera:RadialDistortParam3="-30.366218">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.122682"
+         stCamera:VignetteModelParam2="7.83388"
+         stCamera:VignetteModelParam3="-63.118977">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001624, 1.000000</rdf:li>
+          <rdf:li>0.180539, 0.980626</rdf:li>
+          <rdf:li>0.249467, 0.938907</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.05"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.003578"
+        stCamera:RadialDistortParam1="-0.416755"
+        stCamera:RadialDistortParam2="9.830295"
+        stCamera:RadialDistortParam3="-178.574351">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-22.615262"
+         stCamera:VignetteModelParam2="584.409356"
+         stCamera:VignetteModelParam3="-7859.922967">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001276, 1.000000</rdf:li>
+          <rdf:li>0.029118, 0.981681</rdf:li>
+          <rdf:li>0.113478, 0.797842</rdf:li>
+          <rdf:li>0.165784, 0.652596</rdf:li>
+          <rdf:li>0.196010, 0.533915</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.05"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.003578"
+        stCamera:RadialDistortParam1="-0.416755"
+        stCamera:RadialDistortParam2="9.830295"
+        stCamera:RadialDistortParam3="-178.574351">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="1.63159"
+         stCamera:VignetteModelParam2="-394.018774"
+         stCamera:VignetteModelParam3="5240.172274">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001276, 1.000000</rdf:li>
+          <rdf:li>0.103330, 0.991398</rdf:li>
+          <rdf:li>0.126317, 0.955292</rdf:li>
+          <rdf:li>0.177832, 0.826089</rdf:li>
+          <rdf:li>0.196010, 0.749421</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.05"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.003578"
+        stCamera:RadialDistortParam1="-0.416755"
+        stCamera:RadialDistortParam2="9.830295"
+        stCamera:RadialDistortParam3="-178.574351">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.534471"
+         stCamera:VignetteModelParam2="61.667034"
+         stCamera:VignetteModelParam3="-1778.100898">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001276, 1.000000</rdf:li>
+          <rdf:li>0.117535, 0.996258</rdf:li>
+          <rdf:li>0.165784, 0.976377</rdf:li>
+          <rdf:li>0.179888, 0.960847</rdf:li>
+          <rdf:li>0.196010, 0.918358</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.05"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.003578"
+        stCamera:RadialDistortParam1="-0.416755"
+        stCamera:RadialDistortParam2="9.830295"
+        stCamera:RadialDistortParam3="-178.574351">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.845414"
+         stCamera:VignetteModelParam2="-23.948464"
+         stCamera:VignetteModelParam3="539.146173">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001276, 1.000000</rdf:li>
+          <rdf:li>0.133702, 0.991515</rdf:li>
+          <rdf:li>0.196010, 0.954303</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.05"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.003578"
+        stCamera:RadialDistortParam1="-0.416755"
+        stCamera:RadialDistortParam2="9.830295"
+        stCamera:RadialDistortParam3="-178.574351">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.799243"
+         stCamera:VignetteModelParam2="-21.183881"
+         stCamera:VignetteModelParam3="417.25508">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001276, 1.000000</rdf:li>
+          <rdf:li>0.136878, 0.991759</rdf:li>
+          <rdf:li>0.196010, 0.954805</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.05"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.003578"
+        stCamera:RadialDistortParam1="-0.416755"
+        stCamera:RadialDistortParam2="9.830295"
+        stCamera:RadialDistortParam3="-178.574351">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.894613"
+         stCamera:VignetteModelParam2="-12.903243"
+         stCamera:VignetteModelParam3="237.594426">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001276, 1.000000</rdf:li>
+          <rdf:li>0.136878, 0.992084</rdf:li>
+          <rdf:li>0.196010, 0.954134</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="21.6"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.003578"
+        stCamera:RadialDistortParam1="-0.416755"
+        stCamera:RadialDistortParam2="9.830295"
+        stCamera:RadialDistortParam3="-178.574351">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-24.762143"
+         stCamera:VignetteModelParam2="698.445511"
+         stCamera:VignetteModelParam3="-9634.499511">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001276, 1.000000</rdf:li>
+          <rdf:li>0.024769, 0.982613</rdf:li>
+          <rdf:li>0.124944, 0.758191</rdf:li>
+          <rdf:li>0.161890, 0.652604</rdf:li>
+          <rdf:li>0.196010, 0.517434</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="21.6"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.003578"
+        stCamera:RadialDistortParam1="-0.416755"
+        stCamera:RadialDistortParam2="9.830295"
+        stCamera:RadialDistortParam3="-178.574351">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="0.954617"
+         stCamera:VignetteModelParam2="-331.585945"
+         stCamera:VignetteModelParam3="3676.75948">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001276, 1.000000</rdf:li>
+          <rdf:li>0.101934, 0.989722</rdf:li>
+          <rdf:li>0.130649, 0.942635</rdf:li>
+          <rdf:li>0.175789, 0.826885</rdf:li>
+          <rdf:li>0.196010, 0.732610</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="21.6"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.003578"
+        stCamera:RadialDistortParam1="-0.416755"
+        stCamera:RadialDistortParam2="9.830295"
+        stCamera:RadialDistortParam3="-178.574351">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.254898"
+         stCamera:VignetteModelParam2="46.660778"
+         stCamera:VignetteModelParam3="-1504.542231">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001276, 1.000000</rdf:li>
+          <rdf:li>0.122312, 0.997505</rdf:li>
+          <rdf:li>0.163828, 0.978530</rdf:li>
+          <rdf:li>0.182582, 0.957948</rdf:li>
+          <rdf:li>0.196010, 0.922472</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="21.6"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.003578"
+        stCamera:RadialDistortParam1="-0.416755"
+        stCamera:RadialDistortParam2="9.830295"
+        stCamera:RadialDistortParam3="-178.574351">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.801617"
+         stCamera:VignetteModelParam2="-25.88131"
+         stCamera:VignetteModelParam3="601.960515">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001276, 1.000000</rdf:li>
+          <rdf:li>0.136878, 0.991021</rdf:li>
+          <rdf:li>0.196010, 0.956311</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="21.6"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.003578"
+        stCamera:RadialDistortParam1="-0.416755"
+        stCamera:RadialDistortParam2="9.830295"
+        stCamera:RadialDistortParam3="-178.574351">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.193218"
+         stCamera:VignetteModelParam2="-5.477556"
+         stCamera:VignetteModelParam3="317.7718">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001276, 1.000000</rdf:li>
+          <rdf:li>0.140167, 0.988104</rdf:li>
+          <rdf:li>0.196010, 0.954420</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="21.6"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.003578"
+        stCamera:RadialDistortParam1="-0.416755"
+        stCamera:RadialDistortParam2="9.830295"
+        stCamera:RadialDistortParam3="-178.574351">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.486566"
+         stCamera:VignetteModelParam2="12.11297"
+         stCamera:VignetteModelParam3="30.976358">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001276, 1.000000</rdf:li>
+          <rdf:li>0.140167, 0.986411</rdf:li>
+          <rdf:li>0.196010, 0.952729</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="-0.270203"
+        stCamera:RadialDistortParam2="37.636665"
+        stCamera:RadialDistortParam3="-1316.200585">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-35.085545"
+         stCamera:VignetteModelParam2="1787.552846"
+         stCamera:VignetteModelParam3="-52065.762563">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000893, 1.000000</rdf:li>
+          <rdf:li>0.016393, 0.990272</rdf:li>
+          <rdf:li>0.041550, 0.942420</rdf:li>
+          <rdf:li>0.071977, 0.865481</rdf:li>
+          <rdf:li>0.104187, 0.765141</rdf:li>
+          <rdf:li>0.126339, 0.678869</rdf:li>
+          <rdf:li>0.137207, 0.600303</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="-0.270203"
+        stCamera:RadialDistortParam2="37.636665"
+        stCamera:RadialDistortParam3="-1316.200585">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-5.015346"
+         stCamera:VignetteModelParam2="-641.323666"
+         stCamera:VignetteModelParam3="9361.314228">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000893, 1.000000</rdf:li>
+          <rdf:li>0.047125, 0.998340</rdf:li>
+          <rdf:li>0.057157, 0.985499</rdf:li>
+          <rdf:li>0.074117, 0.960484</rdf:li>
+          <rdf:li>0.096956, 0.902239</rdf:li>
+          <rdf:li>0.125922, 0.809686</rdf:li>
+          <rdf:li>0.137207, 0.721374</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="-0.270203"
+        stCamera:RadialDistortParam2="37.636665"
+        stCamera:RadialDistortParam3="-1316.200585">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.346717"
+         stCamera:VignetteModelParam2="17.140373"
+         stCamera:VignetteModelParam3="-3965.645118">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000893, 1.000000</rdf:li>
+          <rdf:li>0.086526, 0.999707</rdf:li>
+          <rdf:li>0.113323, 0.984866</rdf:li>
+          <rdf:li>0.128293, 0.968449</rdf:li>
+          <rdf:li>0.137207, 0.943006</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="-0.270203"
+        stCamera:RadialDistortParam2="37.636665"
+        stCamera:RadialDistortParam3="-1316.200585">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.805625"
+         stCamera:VignetteModelParam2="-164.172296"
+         stCamera:VignetteModelParam3="6858.112387">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000893, 1.000000</rdf:li>
+          <rdf:li>0.098117, 0.994402</rdf:li>
+          <rdf:li>0.137207, 0.963510</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="-0.270203"
+        stCamera:RadialDistortParam2="37.636665"
+        stCamera:RadialDistortParam3="-1316.200585">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.765419"
+         stCamera:VignetteModelParam2="-163.620583"
+         stCamera:VignetteModelParam3="6750.517301">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002679, 1.000000</rdf:li>
+          <rdf:li>0.099297, 0.994310</rdf:li>
+          <rdf:li>0.137207, 0.963953</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="-0.270203"
+        stCamera:RadialDistortParam2="37.636665"
+        stCamera:RadialDistortParam3="-1316.200585">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.917515"
+         stCamera:VignetteModelParam2="-150.334419"
+         stCamera:VignetteModelParam3="6445.054551">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.070545, 1.000000</rdf:li>
+          <rdf:li>0.104187, 0.991657</rdf:li>
+          <rdf:li>0.137207, 0.963820</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="21.6"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="-0.270203"
+        stCamera:RadialDistortParam2="37.636665"
+        stCamera:RadialDistortParam3="-1316.200585">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-45.432414"
+         stCamera:VignetteModelParam2="3091.553805"
+         stCamera:VignetteModelParam3="-104670.894987">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000893, 1.000000</rdf:li>
+          <rdf:li>0.013631, 0.985342</rdf:li>
+          <rdf:li>0.047125, 0.904978</rdf:li>
+          <rdf:li>0.085618, 0.803159</rdf:li>
+          <rdf:li>0.108020, 0.728297</rdf:li>
+          <rdf:li>0.119127, 0.668698</rdf:li>
+          <rdf:li>0.137207, 0.529618</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="21.6"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="-0.270203"
+        stCamera:RadialDistortParam2="37.636665"
+        stCamera:RadialDistortParam3="-1316.200585">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-10.50328"
+         stCamera:VignetteModelParam2="302.39707"
+         stCamera:VignetteModelParam3="-40155.056167">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000893, 1.000000</rdf:li>
+          <rdf:li>0.041164, 0.998529</rdf:li>
+          <rdf:li>0.050962, 0.985859</rdf:li>
+          <rdf:li>0.074887, 0.945567</rdf:li>
+          <rdf:li>0.101709, 0.880547</rdf:li>
+          <rdf:li>0.116048, 0.823726</rdf:li>
+          <rdf:li>0.137207, 0.646981</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="21.6"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="-0.270203"
+        stCamera:RadialDistortParam2="37.636665"
+        stCamera:RadialDistortParam3="-1316.200585">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.629597"
+         stCamera:VignetteModelParam2="103.118485"
+         stCamera:VignetteModelParam3="-8100.505222">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002679, 1.000000</rdf:li>
+          <rdf:li>0.089409, 0.999768</rdf:li>
+          <rdf:li>0.120220, 0.983019</rdf:li>
+          <rdf:li>0.134732, 0.953243</rdf:li>
+          <rdf:li>0.137207, 0.934568</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="21.6"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="-0.270203"
+        stCamera:RadialDistortParam2="37.636665"
+        stCamera:RadialDistortParam3="-1316.200585">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.916676"
+         stCamera:VignetteModelParam2="-130.174731"
+         stCamera:VignetteModelParam3="5739.908207">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000893, 1.000000</rdf:li>
+          <rdf:li>0.099297, 0.995075</rdf:li>
+          <rdf:li>0.137207, 0.966482</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="21.6"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="-0.270203"
+        stCamera:RadialDistortParam2="37.636665"
+        stCamera:RadialDistortParam3="-1316.200585">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.652872"
+         stCamera:VignetteModelParam2="-159.492232"
+         stCamera:VignetteModelParam3="6773.06498">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000893, 1.000000</rdf:li>
+          <rdf:li>0.101709, 0.994679</rdf:li>
+          <rdf:li>0.137207, 0.967399</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="21.6"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="-0.270203"
+        stCamera:RadialDistortParam2="37.636665"
+        stCamera:RadialDistortParam3="-1316.200585">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.154441"
+         stCamera:VignetteModelParam2="-221.501114"
+         stCamera:VignetteModelParam3="9002.184812">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000893, 1.000000</rdf:li>
+          <rdf:li>0.104187, 0.994892</rdf:li>
+          <rdf:li>0.137207, 0.969505</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.86"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.994612"
+        stCamera:RadialDistortParam1="0.186313"
+        stCamera:RadialDistortParam2="95.955398"
+        stCamera:RadialDistortParam3="-6461.577059">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-27.100015"
+         stCamera:VignetteModelParam2="-442.037811"
+         stCamera:VignetteModelParam3="-101110.029862">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.006906, 1.000000</rdf:li>
+          <rdf:li>0.021136, 0.996108</rdf:li>
+          <rdf:li>0.033864, 0.972600</rdf:li>
+          <rdf:li>0.057532, 0.906263</rdf:li>
+          <rdf:li>0.069955, 0.856145</rdf:li>
+          <rdf:li>0.073553, 0.837757</rdf:li>
+          <rdf:li>0.081960, 0.768224</rdf:li>
+          <rdf:li>0.101635, 0.555662</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.86"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.994612"
+        stCamera:RadialDistortParam1="0.186313"
+        stCamera:RadialDistortParam2="95.955398"
+        stCamera:RadialDistortParam3="-6461.577059">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.887869"
+         stCamera:VignetteModelParam2="-153.354017"
+         stCamera:VignetteModelParam3="-3595.759086">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000661, 1.000000</rdf:li>
+          <rdf:li>0.066229, 0.999126</rdf:li>
+          <rdf:li>0.093275, 0.976336</rdf:li>
+          <rdf:li>0.098700, 0.962861</rdf:li>
+          <rdf:li>0.101635, 0.934262</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.86"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.994612"
+        stCamera:RadialDistortParam1="0.186313"
+        stCamera:RadialDistortParam2="95.955398"
+        stCamera:RadialDistortParam3="-6461.577059">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-2.133166"
+         stCamera:VignetteModelParam2="-423.1119"
+         stCamera:VignetteModelParam3="35493.683833">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000661, 1.000000</rdf:li>
+          <rdf:li>0.070974, 0.994481</rdf:li>
+          <rdf:li>0.101635, 0.963328</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.86"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.994612"
+        stCamera:RadialDistortParam1="0.186313"
+        stCamera:RadialDistortParam2="95.955398"
+        stCamera:RadialDistortParam3="-6461.577059">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.588369"
+         stCamera:VignetteModelParam2="-527.169353"
+         stCamera:VignetteModelParam3="41259.793664">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000661, 1.000000</rdf:li>
+          <rdf:li>0.072679, 0.994726</rdf:li>
+          <rdf:li>0.101635, 0.963693</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.86"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.994612"
+        stCamera:RadialDistortParam1="0.186313"
+        stCamera:RadialDistortParam2="95.955398"
+        stCamera:RadialDistortParam3="-6461.577059">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="0.385458"
+         stCamera:VignetteModelParam2="-911.896925"
+         stCamera:VignetteModelParam3="62854.234904">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000661, 1.000000</rdf:li>
+          <rdf:li>0.075340, 0.995968</rdf:li>
+          <rdf:li>0.101635, 0.967272</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.994612"
+        stCamera:RadialDistortParam1="0.186313"
+        stCamera:RadialDistortParam2="95.955398"
+        stCamera:RadialDistortParam3="-6461.577059">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-37.082615"
+         stCamera:VignetteModelParam2="-3690.161746"
+         stCamera:VignetteModelParam3="224585.115535">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000661, 1.000000</rdf:li>
+          <rdf:li>0.017810, 0.987375</rdf:li>
+          <rdf:li>0.056177, 0.868419</rdf:li>
+          <rdf:li>0.069327, 0.768032</rdf:li>
+          <rdf:li>0.101635, 0.448834</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.994612"
+        stCamera:RadialDistortParam1="0.186313"
+        stCamera:RadialDistortParam2="95.955398"
+        stCamera:RadialDistortParam3="-6461.577059">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="0.6723"
+         stCamera:VignetteModelParam2="-7873.854593"
+         stCamera:VignetteModelParam3="356331.094786">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000661, 1.000000</rdf:li>
+          <rdf:li>0.033864, 0.989839</rdf:li>
+          <rdf:li>0.062139, 0.924847</rdf:li>
+          <rdf:li>0.077176, 0.802695</rdf:li>
+          <rdf:li>0.101635, 0.539510</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.994612"
+        stCamera:RadialDistortParam1="0.186313"
+        stCamera:RadialDistortParam2="95.955398"
+        stCamera:RadialDistortParam3="-6461.577059">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-10.011385"
+         stCamera:VignetteModelParam2="4108.856428"
+         stCamera:VignetteModelParam3="-458762.344855">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000661, 1.000000</rdf:li>
+          <rdf:li>0.077176, 0.994683</rdf:li>
+          <rdf:li>0.085962, 0.979698</rdf:li>
+          <rdf:li>0.095032, 0.907418</rdf:li>
+          <rdf:li>0.101635, 0.831326</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.994612"
+        stCamera:RadialDistortParam1="0.186313"
+        stCamera:RadialDistortParam2="95.955398"
+        stCamera:RadialDistortParam3="-6461.577059">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.867058"
+         stCamera:VignetteModelParam2="-391.419558"
+         stCamera:VignetteModelParam3="26322.09175">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005333, 1.000000</rdf:li>
+          <rdf:li>0.071819, 0.999394</rdf:li>
+          <rdf:li>0.092209, 0.984873</rdf:li>
+          <rdf:li>0.099802, 0.977027</rdf:li>
+          <rdf:li>0.101635, 0.962338</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.994612"
+        stCamera:RadialDistortParam1="0.186313"
+        stCamera:RadialDistortParam2="95.955398"
+        stCamera:RadialDistortParam3="-6461.577059">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.195899"
+         stCamera:VignetteModelParam2="-555.35184"
+         stCamera:VignetteModelParam3="39062.006742">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000661, 1.000000</rdf:li>
+          <rdf:li>0.080982, 0.995116</rdf:li>
+          <rdf:li>0.101635, 0.974601</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.994612"
+        stCamera:RadialDistortParam1="0.186313"
+        stCamera:RadialDistortParam2="95.955398"
+        stCamera:RadialDistortParam3="-6461.577059">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.254566"
+         stCamera:VignetteModelParam2="-355.019106"
+         stCamera:VignetteModelParam3="28237.051658">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000661, 1.000000</rdf:li>
+          <rdf:li>0.077176, 0.996262</rdf:li>
+          <rdf:li>0.101635, 0.972920</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.99028"
+        stCamera:RadialDistortParam1="1.421606"
+        stCamera:RadialDistortParam2="352.428636"
+        stCamera:RadialDistortParam3="-47666.138651">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-2.301341"
+         stCamera:VignetteModelParam2="-48873.624143"
+         stCamera:VignetteModelParam3="6013100.200678">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000446, 1.000000</rdf:li>
+          <rdf:li>0.021547, 0.995161</rdf:li>
+          <rdf:li>0.036176, 0.936958</rdf:li>
+          <rdf:li>0.045727, 0.835694</rdf:li>
+          <rdf:li>0.068604, 0.514554</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.99028"
+        stCamera:RadialDistortParam1="1.421606"
+        stCamera:RadialDistortParam2="352.428636"
+        stCamera:RadialDistortParam3="-47666.138651">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-21.711714"
+         stCamera:VignetteModelParam2="16706.952926"
+         stCamera:VignetteModelParam3="-4092825.626007">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000446, 1.000000</rdf:li>
+          <rdf:li>0.046796, 0.992703</rdf:li>
+          <rdf:li>0.057604, 0.973143</rdf:li>
+          <rdf:li>0.062961, 0.925143</rdf:li>
+          <rdf:li>0.068604, 0.841792</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.99028"
+        stCamera:RadialDistortParam1="1.421606"
+        stCamera:RadialDistortParam2="352.428636"
+        stCamera:RadialDistortParam3="-47666.138651">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-2.8556"
+         stCamera:VignetteModelParam2="-3218.072687"
+         stCamera:VignetteModelParam3="504876.550121">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000446, 1.000000</rdf:li>
+          <rdf:li>0.045727, 0.995558</rdf:li>
+          <rdf:li>0.068604, 0.960633</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.99028"
+        stCamera:RadialDistortParam1="1.421606"
+        stCamera:RadialDistortParam2="352.428636"
+        stCamera:RadialDistortParam3="-47666.138651">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-5.344862"
+         stCamera:VignetteModelParam2="-2001.948984"
+         stCamera:VignetteModelParam3="372057.760607">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000446, 1.000000</rdf:li>
+          <rdf:li>0.046796, 0.993931</rdf:li>
+          <rdf:li>0.068604, 0.960490</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.99028"
+        stCamera:RadialDistortParam1="1.421606"
+        stCamera:RadialDistortParam2="352.428636"
+        stCamera:RadialDistortParam3="-47666.138651">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-4.787004"
+         stCamera:VignetteModelParam2="-2097.749917"
+         stCamera:VignetteModelParam3="372340.598374">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000446, 1.000000</rdf:li>
+          <rdf:li>0.047907, 0.994247</rdf:li>
+          <rdf:li>0.068604, 0.960968</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="194"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.990638"
+        stCamera:RadialDistortParam1="1.282545"
+        stCamera:RadialDistortParam2="332.162995"
+        stCamera:RadialDistortParam3="-43006.782516">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-225.0555"
+         stCamera:VignetteModelParam2="31687.514482"
+         stCamera:VignetteModelParam3="-2248099.48518">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000460, 1.000000</rdf:li>
+          <rdf:li>0.008298, 0.994950</rdf:li>
+          <rdf:li>0.015898, 0.958723</rdf:li>
+          <rdf:li>0.021179, 0.911843</rdf:li>
+          <rdf:li>0.070725, 0.374912</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="194"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.990638"
+        stCamera:RadialDistortParam1="1.282545"
+        stCamera:RadialDistortParam2="332.162995"
+        stCamera:RadialDistortParam3="-43006.782516">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="29.545564"
+         stCamera:VignetteModelParam2="-28713.695848"
+         stCamera:VignetteModelParam3="2302722.162596">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000460, 1.000000</rdf:li>
+          <rdf:li>0.042410, 0.997242</rdf:li>
+          <rdf:li>0.047141, 0.966731</rdf:li>
+          <rdf:li>0.060530, 0.833562</rdf:li>
+          <rdf:li>0.070725, 0.689516</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="194"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.990638"
+        stCamera:RadialDistortParam1="1.282545"
+        stCamera:RadialDistortParam2="332.162995"
+        stCamera:RadialDistortParam3="-43006.782516">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-17.426977"
+         stCamera:VignetteModelParam2="15059.809899"
+         stCamera:VignetteModelParam3="-3545103.756615">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000460, 1.000000</rdf:li>
+          <rdf:li>0.053705, 0.996344</rdf:li>
+          <rdf:li>0.059113, 0.985890</rdf:li>
+          <rdf:li>0.064908, 0.930635</rdf:li>
+          <rdf:li>0.070725, 0.851643</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="194"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.990638"
+        stCamera:RadialDistortParam1="1.282545"
+        stCamera:RadialDistortParam2="332.162995"
+        stCamera:RadialDistortParam3="-43006.782516">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.19332"
+         stCamera:VignetteModelParam2="-1987.450195"
+         stCamera:VignetteModelParam3="284737.948708">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000460, 1.000000</rdf:li>
+          <rdf:li>0.059819, 0.991235</rdf:li>
+          <rdf:li>0.070725, 0.969214</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="194"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.990638"
+        stCamera:RadialDistortParam1="1.282545"
+        stCamera:RadialDistortParam2="332.162995"
+        stCamera:RadialDistortParam3="-43006.782516">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-2.249312"
+         stCamera:VignetteModelParam2="-1779.863283"
+         stCamera:VignetteModelParam3="291935.966139">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000460, 1.000000</rdf:li>
+          <rdf:li>0.055680, 0.994940</rdf:li>
+          <rdf:li>0.070725, 0.973067</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="1.13"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.98864"
+        stCamera:RadialDistortParam1="2.475538"
+        stCamera:RadialDistortParam2="1140.532645"
+        stCamera:RadialDistortParam3="-245950.44808">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-207.427723"
+         stCamera:VignetteModelParam2="-1078.507959"
+         stCamera:VignetteModelParam3="3841876.142229">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000357, 1.000000</rdf:li>
+          <rdf:li>0.005310, 0.996148</rdf:li>
+          <rdf:li>0.014399, 0.957398</rdf:li>
+          <rdf:li>0.018985, 0.931866</rdf:li>
+          <rdf:li>0.024123, 0.881043</rdf:li>
+          <rdf:li>0.033226, 0.777357</rdf:li>
+          <rdf:li>0.054883, 0.455396</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="1.13"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.98864"
+        stCamera:RadialDistortParam1="2.475538"
+        stCamera:RadialDistortParam2="1140.532645"
+        stCamera:RadialDistortParam3="-245950.44808">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="5.513878"
+         stCamera:VignetteModelParam2="-12429.695623"
+         stCamera:VignetteModelParam3="-4787538.182801">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000357, 1.000000</rdf:li>
+          <rdf:li>0.036168, 0.993513</rdf:li>
+          <rdf:li>0.040683, 0.966337</rdf:li>
+          <rdf:li>0.048088, 0.883754</rdf:li>
+          <rdf:li>0.054883, 0.762360</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="1.13"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.98864"
+        stCamera:RadialDistortParam1="2.475538"
+        stCamera:RadialDistortParam2="1140.532645"
+        stCamera:RadialDistortParam3="-245950.44808">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-12.712028"
+         stCamera:VignetteModelParam2="3284.023"
+         stCamera:VignetteModelParam3="-1570141.849901">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000357, 1.000000</rdf:li>
+          <rdf:li>0.033226, 0.998335</rdf:li>
+          <rdf:li>0.047651, 0.977832</rdf:li>
+          <rdf:li>0.052136, 0.961005</rdf:li>
+          <rdf:li>0.054883, 0.929879</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="1.13"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.98864"
+        stCamera:RadialDistortParam1="2.475538"
+        stCamera:RadialDistortParam2="1140.532645"
+        stCamera:RadialDistortParam3="-245950.44808">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-5.524074"
+         stCamera:VignetteModelParam2="-6768.528386"
+         stCamera:VignetteModelParam3="1697954.516054">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000357, 1.000000</rdf:li>
+          <rdf:li>0.037437, 0.995212</rdf:li>
+          <rdf:li>0.054883, 0.960762</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="1.13"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.98864"
+        stCamera:RadialDistortParam1="2.475538"
+        stCamera:RadialDistortParam2="1140.532645"
+        stCamera:RadialDistortParam3="-245950.44808">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-6.154113"
+         stCamera:VignetteModelParam2="-6693.535748"
+         stCamera:VignetteModelParam3="1796077.065689">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000357, 1.000000</rdf:li>
+          <rdf:li>0.038326, 0.993294</rdf:li>
+          <rdf:li>0.054883, 0.960717</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.98864"
+        stCamera:RadialDistortParam1="2.475538"
+        stCamera:RadialDistortParam2="1140.532645"
+        stCamera:RadialDistortParam3="-245950.44808">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-572.516807"
+         stCamera:VignetteModelParam2="232207.226203"
+         stCamera:VignetteModelParam3="-36712928.560632">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000357, 1.000000</rdf:li>
+          <rdf:li>0.003590, 0.978424</rdf:li>
+          <rdf:li>0.054883, 0.358364</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.98864"
+        stCamera:RadialDistortParam1="2.475538"
+        stCamera:RadialDistortParam2="1140.532645"
+        stCamera:RadialDistortParam3="-245950.44808">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="6.693061"
+         stCamera:VignetteModelParam2="-87047.412214"
+         stCamera:VignetteModelParam3="14750394.439228">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000357, 1.000000</rdf:li>
+          <rdf:li>0.023085, 0.993882</rdf:li>
+          <rdf:li>0.030612, 0.944982</rdf:li>
+          <rdf:li>0.044258, 0.794346</rdf:li>
+          <rdf:li>0.054883, 0.623901</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.98864"
+        stCamera:RadialDistortParam1="2.475538"
+        stCamera:RadialDistortParam2="1140.532645"
+        stCamera:RadialDistortParam3="-245950.44808">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="3.859966"
+         stCamera:VignetteModelParam2="-5013.227233"
+         stCamera:VignetteModelParam3="-5867851.31714">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003215, 1.000000</rdf:li>
+          <rdf:li>0.038326, 0.996987</rdf:li>
+          <rdf:li>0.041176, 0.981343</rdf:li>
+          <rdf:li>0.048088, 0.903520</rdf:li>
+          <rdf:li>0.054883, 0.802219</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.98864"
+        stCamera:RadialDistortParam1="2.475538"
+        stCamera:RadialDistortParam2="1140.532645"
+        stCamera:RadialDistortParam3="-245950.44808">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-7.344355"
+         stCamera:VignetteModelParam2="4298.65334"
+         stCamera:VignetteModelParam3="-2115213.63833">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000357, 1.000000</rdf:li>
+          <rdf:li>0.038783, 0.999886</rdf:li>
+          <rdf:li>0.049793, 0.984686</rdf:li>
+          <rdf:li>0.052904, 0.967714</rdf:li>
+          <rdf:li>0.054883, 0.938557</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4148"
+       stCamera:Lens="EF-S55-250mm f/4-5.6 IS STM"
+       stCamera:LensInfo="55/1 250/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Canon EF-S 55-250mm f/4-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 55-250mm f/4-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1.565304"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="31.2"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.98864"
+        stCamera:RadialDistortParam1="2.475538"
+        stCamera:RadialDistortParam2="1140.532645"
+        stCamera:RadialDistortParam3="-245950.44808">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-5.331002"
+         stCamera:VignetteModelParam2="-3732.067298"
+         stCamera:VignetteModelParam3="1109632.062785">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000357, 1.000000</rdf:li>
+          <rdf:li>0.041675, 0.995299</rdf:li>
+          <rdf:li>0.054883, 0.972915</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

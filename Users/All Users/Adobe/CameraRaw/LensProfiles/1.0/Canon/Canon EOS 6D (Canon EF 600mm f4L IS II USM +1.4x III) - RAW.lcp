@@ -1,0 +1,1811 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c128 79.159124, 2016/03/18-14:01:55        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="20.299999"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="29.84566"
+       stCamera:FocalLengthY="29.84566"
+       stCamera:ResidualMeanError="0.000061"
+       stCamera:ResidualStandardDeviation="0.000034"
+       stCamera:RadialDistortParam1="-13.900433"
+       stCamera:RadialDistortParam2="-46219.883453"
+       stCamera:RadialDistortParam3="2548.93061"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="4.42"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-735.891193"
+        stCamera:VignetteModelParam2="3200215.726862"
+        stCamera:VignetteModelParam3="-8745348587.500439"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="7.93"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-1144.734978"
+        stCamera:VignetteModelParam2="4497398.028078"
+        stCamera:VignetteModelParam3="-9809516710.816902"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="12.7"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-1202.625983"
+        stCamera:VignetteModelParam2="4472591.382097"
+        stCamera:VignetteModelParam3="-9178944088.359678"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="20.3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-1723.220681"
+        stCamera:VignetteModelParam2="7023297.882483"
+        stCamera:VignetteModelParam3="-12892076096.654804"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="46.5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-1788.77589"
+        stCamera:VignetteModelParam2="7207678.289759"
+        stCamera:VignetteModelParam3="-12771530951.392416"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-2035.315797"
+        stCamera:VignetteModelParam2="8483421.805554"
+        stCamera:VignetteModelParam3="-14840575809.73488"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="4.42"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-242.768722"
+        stCamera:VignetteModelParam2="2879802.122058"
+        stCamera:VignetteModelParam3="-7258125795.858698"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="7.93"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-239.39133"
+        stCamera:VignetteModelParam2="2843702.243098"
+        stCamera:VignetteModelParam3="-7157446594.575474"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="12.7"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-245.502608"
+        stCamera:VignetteModelParam2="2912367.004047"
+        stCamera:VignetteModelParam3="-7345405991.550131"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="23.7"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-301.546056"
+        stCamera:VignetteModelParam2="3319107.574496"
+        stCamera:VignetteModelParam3="-8398833462.197226"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="46.5"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-310.426406"
+        stCamera:VignetteModelParam2="3370539.487088"
+        stCamera:VignetteModelParam3="-8515365224.26373"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-264.94336"
+        stCamera:VignetteModelParam2="3163741.77379"
+        stCamera:VignetteModelParam3="-8082724657.825815"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="4.42"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-34.218384"
+        stCamera:VignetteModelParam2="164656.390281"
+        stCamera:VignetteModelParam3="-136795315.116239"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="7.93"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-17.843802"
+        stCamera:VignetteModelParam2="86832.339233"
+        stCamera:VignetteModelParam3="-74838182.40862"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="12.7"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-21.655058"
+        stCamera:VignetteModelParam2="101136.824188"
+        stCamera:VignetteModelParam3="-75748646.307189"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="23.7"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-25.430011"
+        stCamera:VignetteModelParam2="116350.936486"
+        stCamera:VignetteModelParam3="-80226551.782056"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="55.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-35.371251"
+        stCamera:VignetteModelParam2="169655.452782"
+        stCamera:VignetteModelParam3="-139284613.205054"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-15.454437"
+        stCamera:VignetteModelParam2="76658.929428"
+        stCamera:VignetteModelParam3="-69895966.822095"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="4.42"
+       stCamera:ApertureValue="8">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-22.677958"
+        stCamera:VignetteModelParam2="107633.972012"
+        stCamera:VignetteModelParam3="-85121307.358432"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="7.93"
+       stCamera:ApertureValue="8">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-19.777949"
+        stCamera:VignetteModelParam2="91046.063914"
+        stCamera:VignetteModelParam3="-64166957.235892"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="12.7"
+       stCamera:ApertureValue="8">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-25.042995"
+        stCamera:VignetteModelParam2="112450.96191"
+        stCamera:VignetteModelParam3="-71267911.792533"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="23.7"
+       stCamera:ApertureValue="8">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-22.075816"
+        stCamera:VignetteModelParam2="99055.32602"
+        stCamera:VignetteModelParam3="-62574758.994967"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="55.5"
+       stCamera:ApertureValue="8">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-22.688738"
+        stCamera:VignetteModelParam2="101070.789236"
+        stCamera:VignetteModelParam3="-61668393.984561"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-26.812709"
+        stCamera:VignetteModelParam2="119259.4304"
+        stCamera:VignetteModelParam3="-72272516.064192"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="4.42"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-23.913833"
+        stCamera:VignetteModelParam2="107684.842142"
+        stCamera:VignetteModelParam3="-68996066.584974"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="7.93"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-23.886587"
+        stCamera:VignetteModelParam2="104110.119495"
+        stCamera:VignetteModelParam3="-56466829.127745"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="12.7"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-21.557973"
+        stCamera:VignetteModelParam2="92573.171825"
+        stCamera:VignetteModelParam3="-45987837.713465"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="23.7"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-21.612828"
+        stCamera:VignetteModelParam2="92667.900665"
+        stCamera:VignetteModelParam3="-45635258.060878"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="55.5"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-24.805863"
+        stCamera:VignetteModelParam2="106814.712776"
+        stCamera:VignetteModelParam3="-54151490.289038"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-25.835337"
+        stCamera:VignetteModelParam2="111233.686101"
+        stCamera:VignetteModelParam3="-56324184.94059"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="4.42"
+       stCamera:ApertureValue="10">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-51.689338"
+        stCamera:VignetteModelParam2="234694.979829"
+        stCamera:VignetteModelParam3="-156819265.748242"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="7.93"
+       stCamera:ApertureValue="10">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-33.933705"
+        stCamera:VignetteModelParam2="142182.860268"
+        stCamera:VignetteModelParam3="-60048854.865959"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="12.7"
+       stCamera:ApertureValue="10">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-34.196076"
+        stCamera:VignetteModelParam2="142317.994493"
+        stCamera:VignetteModelParam3="-57013753.988197"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="23.7"
+       stCamera:ApertureValue="10">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-43.602218"
+        stCamera:VignetteModelParam2="190337.301322"
+        stCamera:VignetteModelParam3="-104585060.823027"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="46.5"
+       stCamera:ApertureValue="10">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-37.895153"
+        stCamera:VignetteModelParam2="160445.174363"
+        stCamera:VignetteModelParam3="-73083490.329711"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="10">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-35.082585"
+        stCamera:VignetteModelParam2="148021.332422"
+        stCamera:VignetteModelParam3="-65556842.583955"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="4.42"
+       stCamera:ApertureValue="10.983706">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-71.78058"
+        stCamera:VignetteModelParam2="328073.586436"
+        stCamera:VignetteModelParam3="-226836449.38998"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="7.93"
+       stCamera:ApertureValue="10.983706">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-59.608074"
+        stCamera:VignetteModelParam2="263130.481466"
+        stCamera:VignetteModelParam3="-154559081.091284"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="12.7"
+       stCamera:ApertureValue="10.983706">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-69.205401"
+        stCamera:VignetteModelParam2="315613.380465"
+        stCamera:VignetteModelParam3="-216049779.690725"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="23.7"
+       stCamera:ApertureValue="10.983706">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-71.737251"
+        stCamera:VignetteModelParam2="332075.591648"
+        stCamera:VignetteModelParam3="-241526950.15737"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="55.5"
+       stCamera:ApertureValue="10.983706">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-57.750412"
+        stCamera:VignetteModelParam2="255377.107607"
+        stCamera:VignetteModelParam3="-151076812.327753"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="494"
+       stCamera:Lens="EF600mm f/4L IS II USM +1.4x III"
+       stCamera:LensInfo="840/1 840/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 600mm f/4L IS II USM +1.4x III"
+       stCamera:ProfileName="Adobe (Canon EF 600mm f/4L IS II USM +1.4x III)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="840"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="10.983706">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>CanonEF 600mm f/4L IS II USM +1.4x</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:RadialDistortParam1="-13.900433"
+        stCamera:RadialDistortParam2="-46219.883453"
+        stCamera:RadialDistortParam3="2548.93061">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="29.84566"
+        stCamera:FocalLengthY="29.84566"
+        stCamera:VignetteModelParam1="-71.101416"
+        stCamera:VignetteModelParam2="328131.370826"
+        stCamera:VignetteModelParam3="-235824491.18078"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,2419 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c128 79.159124, 2016/03/18-14:01:55        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.31"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.792764"
+       stCamera:FocalLengthY="0.792764"
+       stCamera:ImageXCenter="0.488024"
+       stCamera:ImageYCenter="0.494519"
+       stCamera:ResidualMeanError="0.000303"
+       stCamera:ResidualStandardDeviation="0.000345"
+       stCamera:RadialDistortParam1="-0.15982"
+       stCamera:RadialDistortParam2="0.059816"
+       stCamera:RadialDistortParam3="0.039175"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="1.04"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.799804"
+       stCamera:FocalLengthY="0.799804"
+       stCamera:ImageXCenter="0.491865"
+       stCamera:ImageYCenter="0.505839"
+       stCamera:ResidualMeanError="0.000171"
+       stCamera:ResidualStandardDeviation="0.000198"
+       stCamera:RadialDistortParam1="-0.161113"
+       stCamera:RadialDistortParam2="0.086442"
+       stCamera:RadialDistortParam3="0.021579"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="1.04"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.827447"
+       stCamera:FocalLengthY="0.827447"
+       stCamera:ImageXCenter="0.494542"
+       stCamera:ImageYCenter="0.499354"
+       stCamera:ResidualMeanError="0.000202"
+       stCamera:ResidualStandardDeviation="0.000291"
+       stCamera:RadialDistortParam1="-0.159459"
+       stCamera:RadialDistortParam2="0.092623"
+       stCamera:RadialDistortParam3="0.042445"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.033698"
+       stCamera:FocalLengthY="1.033698"
+       stCamera:ImageXCenter="0.489052"
+       stCamera:ImageYCenter="0.502854"
+       stCamera:ResidualMeanError="0.000423"
+       stCamera:ResidualStandardDeviation="0.000653"
+       stCamera:RadialDistortParam1="-0.054444"
+       stCamera:RadialDistortParam2="-0.088781"
+       stCamera:RadialDistortParam3="0.560726"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2.12"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.045822"
+       stCamera:FocalLengthY="1.045822"
+       stCamera:ImageXCenter="0.491811"
+       stCamera:ImageYCenter="0.507705"
+       stCamera:ResidualMeanError="0.000296"
+       stCamera:ResidualStandardDeviation="0.000545"
+       stCamera:RadialDistortParam1="-0.039194"
+       stCamera:RadialDistortParam2="0.020789"
+       stCamera:RadialDistortParam3="0.422393"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.88"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.074596"
+       stCamera:FocalLengthY="1.074596"
+       stCamera:ImageXCenter="0.489038"
+       stCamera:ImageYCenter="0.513783"
+       stCamera:ResidualMeanError="0.000196"
+       stCamera:ResidualStandardDeviation="0.00034"
+       stCamera:RadialDistortParam1="-0.034663"
+       stCamera:RadialDistortParam2="0.081417"
+       stCamera:RadialDistortParam3="0.33982"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.57"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.527085"
+       stCamera:FocalLengthY="1.527085"
+       stCamera:ResidualMeanError="0.000446"
+       stCamera:ResidualStandardDeviation="0.000682"
+       stCamera:RadialDistortParam1="0.132816"
+       stCamera:RadialDistortParam2="-1.005119"
+       stCamera:RadialDistortParam3="6.675087"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4.37"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.589337"
+       stCamera:FocalLengthY="1.589337"
+       stCamera:ResidualMeanError="0.000282"
+       stCamera:ResidualStandardDeviation="0.000468"
+       stCamera:RadialDistortParam1="0.190974"
+       stCamera:RadialDistortParam2="-0.582163"
+       stCamera:RadialDistortParam3="5.181264"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.77"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.661406"
+       stCamera:FocalLengthY="1.661406"
+       stCamera:ResidualMeanError="0.000206"
+       stCamera:ResidualStandardDeviation="0.00023"
+       stCamera:RadialDistortParam1="0.209894"
+       stCamera:RadialDistortParam2="-0.1608"
+       stCamera:RadialDistortParam3="3.486063"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.76"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.070581"
+       stCamera:FocalLengthY="2.070581"
+       stCamera:ResidualMeanError="0.000369"
+       stCamera:ResidualStandardDeviation="0.000495"
+       stCamera:RadialDistortParam1="0.257528"
+       stCamera:RadialDistortParam2="-2.670165"
+       stCamera:RadialDistortParam3="29.839657"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3.06"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.421968"
+       stCamera:FocalLengthY="2.421968"
+       stCamera:ResidualMeanError="0.000194"
+       stCamera:ResidualStandardDeviation="0.000284"
+       stCamera:RadialDistortParam1="0.467093"
+       stCamera:RadialDistortParam2="-2.738289"
+       stCamera:RadialDistortParam3="40.973012"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="2.12"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.619802"
+       stCamera:FocalLengthY="2.619802"
+       stCamera:ResidualMeanError="0.000155"
+       stCamera:ResidualStandardDeviation="0.000123"
+       stCamera:RadialDistortParam1="0.563771"
+       stCamera:RadialDistortParam2="-0.995273"
+       stCamera:RadialDistortParam3="24.306318"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.88"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="10.276276"
+       stCamera:FocalLengthY="10.276276"
+       stCamera:ResidualMeanError="0.000223"
+       stCamera:ResidualStandardDeviation="0.000123"
+       stCamera:RadialDistortParam1="8.310645"
+       stCamera:RadialDistortParam2="-214.419533"
+       stCamera:RadialDistortParam3="23511.159403"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="5.19"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="3.845866"
+       stCamera:FocalLengthY="3.845866"
+       stCamera:ResidualMeanError="0.000153"
+       stCamera:ResidualStandardDeviation="0.000203"
+       stCamera:RadialDistortParam1="1.102682"
+       stCamera:RadialDistortParam2="-12.942757"
+       stCamera:RadialDistortParam3="470.218378"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="2.55"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="5.057166"
+       stCamera:FocalLengthY="5.057166"
+       stCamera:ResidualMeanError="0.000123"
+       stCamera:ResidualStandardDeviation="0.000119"
+       stCamera:RadialDistortParam1="2.157018"
+       stCamera:RadialDistortParam2="-24.418872"
+       stCamera:RadialDistortParam3="1399.681727"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="1.24"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="12.405827"
+       stCamera:FocalLengthY="12.405827"
+       stCamera:ResidualMeanError="0.000175"
+       stCamera:ResidualStandardDeviation="0.00009"
+       stCamera:RadialDistortParam1="10.086622"
+       stCamera:RadialDistortParam2="-81.173687"
+       stCamera:RadialDistortParam3="29668.114352"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="5.19"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="8.009894"
+       stCamera:FocalLengthY="8.009894"
+       stCamera:ResidualMeanError="0.000098"
+       stCamera:ResidualStandardDeviation="0.000064"
+       stCamera:RadialDistortParam1="4.657334"
+       stCamera:RadialDistortParam2="33.898415"
+       stCamera:RadialDistortParam3="-714.186574"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="3.66"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="9.595892"
+       stCamera:FocalLengthY="9.595892"
+       stCamera:ResidualMeanError="0.00009"
+       stCamera:ResidualStandardDeviation="0.000061"
+       stCamera:RadialDistortParam1="6.785896"
+       stCamera:RadialDistortParam2="-2.173369"
+       stCamera:RadialDistortParam3="1409.546366"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="1.77"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="12.030434"
+       stCamera:FocalLengthY="12.030434"
+       stCamera:ResidualMeanError="0.000176"
+       stCamera:ResidualStandardDeviation="0.00009"
+       stCamera:RadialDistortParam1="5.430453"
+       stCamera:RadialDistortParam2="-111.572904"
+       stCamera:RadialDistortParam3="19559.333779"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="6.15"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="8.26786"
+       stCamera:FocalLengthY="8.26786"
+       stCamera:ResidualMeanError="0.000106"
+       stCamera:ResidualStandardDeviation="0.00007"
+       stCamera:RadialDistortParam1="2.879895"
+       stCamera:RadialDistortParam2="13.974141"
+       stCamera:RadialDistortParam3="-1962.889197"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="2.55"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="7.2144"
+       stCamera:FocalLengthY="7.2144"
+       stCamera:ResidualMeanError="0.000197"
+       stCamera:ResidualStandardDeviation="0.000158"
+       stCamera:RadialDistortParam1="2.285094"
+       stCamera:RadialDistortParam2="-145.021024"
+       stCamera:RadialDistortParam3="14433.721785"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.792764"
+        stCamera:FocalLengthY="0.792764"
+        stCamera:ImageXCenter="0.488024"
+        stCamera:ImageYCenter="0.494519"
+        stCamera:RadialDistortParam1="-0.15982"
+        stCamera:RadialDistortParam2="0.059816"
+        stCamera:RadialDistortParam3="0.039175">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.792764"
+        stCamera:FocalLengthY="0.792764"
+        stCamera:VignetteModelParam1="-1.378596"
+        stCamera:VignetteModelParam2="1.958902"
+        stCamera:VignetteModelParam3="-2.67847"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.792764"
+        stCamera:FocalLengthY="0.792764"
+        stCamera:ImageXCenter="0.488024"
+        stCamera:ImageYCenter="0.494519"
+        stCamera:RadialDistortParam1="-0.15982"
+        stCamera:RadialDistortParam2="0.059816"
+        stCamera:RadialDistortParam3="0.039175">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.792764"
+        stCamera:FocalLengthY="0.792764"
+        stCamera:VignetteModelParam1="-1.136192"
+        stCamera:VignetteModelParam2="1.316822"
+        stCamera:VignetteModelParam3="-2.08171"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.792764"
+        stCamera:FocalLengthY="0.792764"
+        stCamera:ImageXCenter="0.488024"
+        stCamera:ImageYCenter="0.494519"
+        stCamera:RadialDistortParam1="-0.15982"
+        stCamera:RadialDistortParam2="0.059816"
+        stCamera:RadialDistortParam3="0.039175">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.792764"
+        stCamera:FocalLengthY="0.792764"
+        stCamera:VignetteModelParam1="-0.733499"
+        stCamera:VignetteModelParam2="1.090761"
+        stCamera:VignetteModelParam3="-1.704235"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.792764"
+        stCamera:FocalLengthY="0.792764"
+        stCamera:ImageXCenter="0.488024"
+        stCamera:ImageYCenter="0.494519"
+        stCamera:RadialDistortParam1="-0.15982"
+        stCamera:RadialDistortParam2="0.059816"
+        stCamera:RadialDistortParam3="0.039175">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.792764"
+        stCamera:FocalLengthY="0.792764"
+        stCamera:VignetteModelParam1="-0.608687"
+        stCamera:VignetteModelParam2="-0.048264"
+        stCamera:VignetteModelParam3="0.456024"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.792764"
+        stCamera:FocalLengthY="0.792764"
+        stCamera:ImageXCenter="0.488024"
+        stCamera:ImageYCenter="0.494519"
+        stCamera:RadialDistortParam1="-0.15982"
+        stCamera:RadialDistortParam2="0.059816"
+        stCamera:RadialDistortParam3="0.039175">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.792764"
+        stCamera:FocalLengthY="0.792764"
+        stCamera:VignetteModelParam1="-0.617518"
+        stCamera:VignetteModelParam2="-0.017378"
+        stCamera:VignetteModelParam3="0.424982"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.792764"
+        stCamera:FocalLengthY="0.792764"
+        stCamera:ImageXCenter="0.488024"
+        stCamera:ImageYCenter="0.494519"
+        stCamera:RadialDistortParam1="-0.15982"
+        stCamera:RadialDistortParam2="0.059816"
+        stCamera:RadialDistortParam3="0.039175">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.792764"
+        stCamera:FocalLengthY="0.792764"
+        stCamera:VignetteModelParam1="-0.642398"
+        stCamera:VignetteModelParam2="0.058327"
+        stCamera:VignetteModelParam3="0.367176"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.792764"
+        stCamera:FocalLengthY="0.792764"
+        stCamera:ImageXCenter="0.488024"
+        stCamera:ImageYCenter="0.494519"
+        stCamera:RadialDistortParam1="-0.15982"
+        stCamera:RadialDistortParam2="0.059816"
+        stCamera:RadialDistortParam3="0.039175">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.792764"
+        stCamera:FocalLengthY="0.792764"
+        stCamera:VignetteModelParam1="-0.607585"
+        stCamera:VignetteModelParam2="-0.058598"
+        stCamera:VignetteModelParam3="0.467127"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.033698"
+        stCamera:FocalLengthY="1.033698"
+        stCamera:ImageXCenter="0.489052"
+        stCamera:ImageYCenter="0.502854"
+        stCamera:RadialDistortParam1="-0.054444"
+        stCamera:RadialDistortParam2="-0.088781"
+        stCamera:RadialDistortParam3="0.560726">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.033698"
+        stCamera:FocalLengthY="1.033698"
+        stCamera:VignetteModelParam1="-1.76879"
+        stCamera:VignetteModelParam2="2.785419"
+        stCamera:VignetteModelParam3="-1.830469"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.033698"
+        stCamera:FocalLengthY="1.033698"
+        stCamera:ImageXCenter="0.489052"
+        stCamera:ImageYCenter="0.502854"
+        stCamera:RadialDistortParam1="-0.054444"
+        stCamera:RadialDistortParam2="-0.088781"
+        stCamera:RadialDistortParam3="0.560726">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.033698"
+        stCamera:FocalLengthY="1.033698"
+        stCamera:VignetteModelParam1="-0.83647"
+        stCamera:VignetteModelParam2="0.330019"
+        stCamera:VignetteModelParam3="-0.354761"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.033698"
+        stCamera:FocalLengthY="1.033698"
+        stCamera:ImageXCenter="0.489052"
+        stCamera:ImageYCenter="0.502854"
+        stCamera:RadialDistortParam1="-0.054444"
+        stCamera:RadialDistortParam2="-0.088781"
+        stCamera:RadialDistortParam3="0.560726">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.033698"
+        stCamera:FocalLengthY="1.033698"
+        stCamera:VignetteModelParam1="-0.874701"
+        stCamera:VignetteModelParam2="0.459054"
+        stCamera:VignetteModelParam3="0.634957"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.033698"
+        stCamera:FocalLengthY="1.033698"
+        stCamera:ImageXCenter="0.489052"
+        stCamera:ImageYCenter="0.502854"
+        stCamera:RadialDistortParam1="-0.054444"
+        stCamera:RadialDistortParam2="-0.088781"
+        stCamera:RadialDistortParam3="0.560726">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.033698"
+        stCamera:FocalLengthY="1.033698"
+        stCamera:VignetteModelParam1="-0.860185"
+        stCamera:VignetteModelParam2="0.218976"
+        stCamera:VignetteModelParam3="1.389719"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.033698"
+        stCamera:FocalLengthY="1.033698"
+        stCamera:ImageXCenter="0.489052"
+        stCamera:ImageYCenter="0.502854"
+        stCamera:RadialDistortParam1="-0.054444"
+        stCamera:RadialDistortParam2="-0.088781"
+        stCamera:RadialDistortParam3="0.560726">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.033698"
+        stCamera:FocalLengthY="1.033698"
+        stCamera:VignetteModelParam1="-0.921267"
+        stCamera:VignetteModelParam2="0.553283"
+        stCamera:VignetteModelParam3="0.910104"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.033698"
+        stCamera:FocalLengthY="1.033698"
+        stCamera:ImageXCenter="0.489052"
+        stCamera:ImageYCenter="0.502854"
+        stCamera:RadialDistortParam1="-0.054444"
+        stCamera:RadialDistortParam2="-0.088781"
+        stCamera:RadialDistortParam3="0.560726">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.033698"
+        stCamera:FocalLengthY="1.033698"
+        stCamera:VignetteModelParam1="-0.817478"
+        stCamera:VignetteModelParam2="0.030699"
+        stCamera:VignetteModelParam3="1.520337"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.527085"
+        stCamera:FocalLengthY="1.527085"
+        stCamera:RadialDistortParam1="0.132816"
+        stCamera:RadialDistortParam2="-1.005119"
+        stCamera:RadialDistortParam3="6.675087">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.527085"
+        stCamera:FocalLengthY="1.527085"
+        stCamera:VignetteModelParam1="-2.610234"
+        stCamera:VignetteModelParam2="5.625188"
+        stCamera:VignetteModelParam3="1.23473"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.527085"
+        stCamera:FocalLengthY="1.527085"
+        stCamera:RadialDistortParam1="0.132816"
+        stCamera:RadialDistortParam2="-1.005119"
+        stCamera:RadialDistortParam3="6.675087">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.527085"
+        stCamera:FocalLengthY="1.527085"
+        stCamera:VignetteModelParam1="-1.361308"
+        stCamera:VignetteModelParam2="-10.388533"
+        stCamera:VignetteModelParam3="56.648699"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.527085"
+        stCamera:FocalLengthY="1.527085"
+        stCamera:RadialDistortParam1="0.132816"
+        stCamera:RadialDistortParam2="-1.005119"
+        stCamera:RadialDistortParam3="6.675087">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.527085"
+        stCamera:FocalLengthY="1.527085"
+        stCamera:VignetteModelParam1="-1.475471"
+        stCamera:VignetteModelParam2="1.717784"
+        stCamera:VignetteModelParam3="8.858755"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.527085"
+        stCamera:FocalLengthY="1.527085"
+        stCamera:RadialDistortParam1="0.132816"
+        stCamera:RadialDistortParam2="-1.005119"
+        stCamera:RadialDistortParam3="6.675087">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.527085"
+        stCamera:FocalLengthY="1.527085"
+        stCamera:VignetteModelParam1="-1.531466"
+        stCamera:VignetteModelParam2="3.047702"
+        stCamera:VignetteModelParam3="1.495423"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.527085"
+        stCamera:FocalLengthY="1.527085"
+        stCamera:RadialDistortParam1="0.132816"
+        stCamera:RadialDistortParam2="-1.005119"
+        stCamera:RadialDistortParam3="6.675087">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.527085"
+        stCamera:FocalLengthY="1.527085"
+        stCamera:VignetteModelParam1="-1.594269"
+        stCamera:VignetteModelParam2="3.65871"
+        stCamera:VignetteModelParam3="0.617484"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.527085"
+        stCamera:FocalLengthY="1.527085"
+        stCamera:RadialDistortParam1="0.132816"
+        stCamera:RadialDistortParam2="-1.005119"
+        stCamera:RadialDistortParam3="6.675087">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.527085"
+        stCamera:FocalLengthY="1.527085"
+        stCamera:VignetteModelParam1="-1.603558"
+        stCamera:VignetteModelParam2="3.841491"
+        stCamera:VignetteModelParam3="-0.330364"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.070581"
+        stCamera:FocalLengthY="2.070581"
+        stCamera:RadialDistortParam1="0.257528"
+        stCamera:RadialDistortParam2="-2.670165"
+        stCamera:RadialDistortParam3="29.839657">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.070581"
+        stCamera:FocalLengthY="2.070581"
+        stCamera:VignetteModelParam1="-3.273217"
+        stCamera:VignetteModelParam2="3.237962"
+        stCamera:VignetteModelParam3="102.254999"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.070581"
+        stCamera:FocalLengthY="2.070581"
+        stCamera:RadialDistortParam1="0.257528"
+        stCamera:RadialDistortParam2="-2.670165"
+        stCamera:RadialDistortParam3="29.839657">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.070581"
+        stCamera:FocalLengthY="2.070581"
+        stCamera:VignetteModelParam1="-1.902276"
+        stCamera:VignetteModelParam2="3.622111"
+        stCamera:VignetteModelParam3="41.281583"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.070581"
+        stCamera:FocalLengthY="2.070581"
+        stCamera:RadialDistortParam1="0.257528"
+        stCamera:RadialDistortParam2="-2.670165"
+        stCamera:RadialDistortParam3="29.839657">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.070581"
+        stCamera:FocalLengthY="2.070581"
+        stCamera:VignetteModelParam1="-1.875395"
+        stCamera:VignetteModelParam2="1.131301"
+        stCamera:VignetteModelParam3="76.39762"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.070581"
+        stCamera:FocalLengthY="2.070581"
+        stCamera:RadialDistortParam1="0.257528"
+        stCamera:RadialDistortParam2="-2.670165"
+        stCamera:RadialDistortParam3="29.839657">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.070581"
+        stCamera:FocalLengthY="2.070581"
+        stCamera:VignetteModelParam1="-1.812316"
+        stCamera:VignetteModelParam2="-0.917977"
+        stCamera:VignetteModelParam3="91.347661"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.070581"
+        stCamera:FocalLengthY="2.070581"
+        stCamera:RadialDistortParam1="0.257528"
+        stCamera:RadialDistortParam2="-2.670165"
+        stCamera:RadialDistortParam3="29.839657">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.070581"
+        stCamera:FocalLengthY="2.070581"
+        stCamera:VignetteModelParam1="-1.80267"
+        stCamera:VignetteModelParam2="-0.277803"
+        stCamera:VignetteModelParam3="80.77216"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.070581"
+        stCamera:FocalLengthY="2.070581"
+        stCamera:RadialDistortParam1="0.257528"
+        stCamera:RadialDistortParam2="-2.670165"
+        stCamera:RadialDistortParam3="29.839657">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.070581"
+        stCamera:FocalLengthY="2.070581"
+        stCamera:VignetteModelParam1="-1.733614"
+        stCamera:VignetteModelParam2="-0.680359"
+        stCamera:VignetteModelParam3="73.757966"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="9.715962">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.527085"
+        stCamera:FocalLengthY="1.527085"
+        stCamera:RadialDistortParam1="0.132816"
+        stCamera:RadialDistortParam2="-1.005119"
+        stCamera:RadialDistortParam3="6.675087">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.527085"
+        stCamera:FocalLengthY="1.527085"
+        stCamera:VignetteModelParam1="-1.283783"
+        stCamera:VignetteModelParam2="-0.154435"
+        stCamera:VignetteModelParam3="13.546961"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="5.310704">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.276276"
+        stCamera:FocalLengthY="10.276276"
+        stCamera:RadialDistortParam1="8.310645"
+        stCamera:RadialDistortParam2="-214.419533"
+        stCamera:RadialDistortParam3="23511.159403">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.276276"
+        stCamera:FocalLengthY="10.276276"
+        stCamera:VignetteModelParam1="-59.737746"
+        stCamera:VignetteModelParam2="-2523.428224"
+        stCamera:VignetteModelParam3="1901499.868532"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.276276"
+        stCamera:FocalLengthY="10.276276"
+        stCamera:RadialDistortParam1="8.310645"
+        stCamera:RadialDistortParam2="-214.419533"
+        stCamera:RadialDistortParam3="23511.159403">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.276276"
+        stCamera:FocalLengthY="10.276276"
+        stCamera:VignetteModelParam1="-27.631729"
+        stCamera:VignetteModelParam2="-9239.884895"
+        stCamera:VignetteModelParam3="1950451.935273"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.276276"
+        stCamera:FocalLengthY="10.276276"
+        stCamera:RadialDistortParam1="8.310645"
+        stCamera:RadialDistortParam2="-214.419533"
+        stCamera:RadialDistortParam3="23511.159403">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.276276"
+        stCamera:FocalLengthY="10.276276"
+        stCamera:VignetteModelParam1="-35.972666"
+        stCamera:VignetteModelParam2="-790.588536"
+        stCamera:VignetteModelParam3="1215903.216235"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.276276"
+        stCamera:FocalLengthY="10.276276"
+        stCamera:RadialDistortParam1="8.310645"
+        stCamera:RadialDistortParam2="-214.419533"
+        stCamera:RadialDistortParam3="23511.159403">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.276276"
+        stCamera:FocalLengthY="10.276276"
+        stCamera:VignetteModelParam1="-35.22344"
+        stCamera:VignetteModelParam2="-1241.090564"
+        stCamera:VignetteModelParam3="1280324.758319"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.276276"
+        stCamera:FocalLengthY="10.276276"
+        stCamera:RadialDistortParam1="8.310645"
+        stCamera:RadialDistortParam2="-214.419533"
+        stCamera:RadialDistortParam3="23511.159403">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.276276"
+        stCamera:FocalLengthY="10.276276"
+        stCamera:VignetteModelParam1="-41.972769"
+        stCamera:VignetteModelParam2="2169.39279"
+        stCamera:VignetteModelParam3="849580.667578"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.276276"
+        stCamera:FocalLengthY="10.276276"
+        stCamera:RadialDistortParam1="8.310645"
+        stCamera:RadialDistortParam2="-214.419533"
+        stCamera:RadialDistortParam3="23511.159403">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.276276"
+        stCamera:FocalLengthY="10.276276"
+        stCamera:VignetteModelParam1="-31.635531"
+        stCamera:VignetteModelParam2="-4362.922032"
+        stCamera:VignetteModelParam3="2021215.79944"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="10.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.276276"
+        stCamera:FocalLengthY="10.276276"
+        stCamera:RadialDistortParam1="8.310645"
+        stCamera:RadialDistortParam2="-214.419533"
+        stCamera:RadialDistortParam3="23511.159403">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.276276"
+        stCamera:FocalLengthY="10.276276"
+        stCamera:VignetteModelParam1="-40.296812"
+        stCamera:VignetteModelParam2="1172.26217"
+        stCamera:VignetteModelParam3="1033178.011473"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.34"
+       stCamera:ApertureValue="5.310704">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.405827"
+        stCamera:FocalLengthY="12.405827"
+        stCamera:RadialDistortParam1="10.086622"
+        stCamera:RadialDistortParam2="-81.173687"
+        stCamera:RadialDistortParam3="29668.114352">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.405827"
+        stCamera:FocalLengthY="12.405827"
+        stCamera:VignetteModelParam1="-85.379354"
+        stCamera:VignetteModelParam2="22783.448946"
+        stCamera:VignetteModelParam3="-7407588.315266"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.34"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.405827"
+        stCamera:FocalLengthY="12.405827"
+        stCamera:RadialDistortParam1="10.086622"
+        stCamera:RadialDistortParam2="-81.173687"
+        stCamera:RadialDistortParam3="29668.114352">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.405827"
+        stCamera:FocalLengthY="12.405827"
+        stCamera:VignetteModelParam1="-21.12367"
+        stCamera:VignetteModelParam2="-47381.931007"
+        stCamera:VignetteModelParam3="14680291.672762"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.34"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.405827"
+        stCamera:FocalLengthY="12.405827"
+        stCamera:RadialDistortParam1="10.086622"
+        stCamera:RadialDistortParam2="-81.173687"
+        stCamera:RadialDistortParam3="29668.114352">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.405827"
+        stCamera:FocalLengthY="12.405827"
+        stCamera:VignetteModelParam1="-46.407737"
+        stCamera:VignetteModelParam2="-3353.328161"
+        stCamera:VignetteModelParam3="4623775.628014"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.34"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.405827"
+        stCamera:FocalLengthY="12.405827"
+        stCamera:RadialDistortParam1="10.086622"
+        stCamera:RadialDistortParam2="-81.173687"
+        stCamera:RadialDistortParam3="29668.114352">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.405827"
+        stCamera:FocalLengthY="12.405827"
+        stCamera:VignetteModelParam1="-48.247501"
+        stCamera:VignetteModelParam2="-1049.485524"
+        stCamera:VignetteModelParam3="3902586.595532"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.34"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.405827"
+        stCamera:FocalLengthY="12.405827"
+        stCamera:RadialDistortParam1="10.086622"
+        stCamera:RadialDistortParam2="-81.173687"
+        stCamera:RadialDistortParam3="29668.114352">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.405827"
+        stCamera:FocalLengthY="12.405827"
+        stCamera:VignetteModelParam1="-52.759951"
+        stCamera:VignetteModelParam2="3622.397958"
+        stCamera:VignetteModelParam3="2345719.773433"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.34"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.405827"
+        stCamera:FocalLengthY="12.405827"
+        stCamera:RadialDistortParam1="10.086622"
+        stCamera:RadialDistortParam2="-81.173687"
+        stCamera:RadialDistortParam3="29668.114352">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.405827"
+        stCamera:FocalLengthY="12.405827"
+        stCamera:VignetteModelParam1="-58.717305"
+        stCamera:VignetteModelParam2="6846.006755"
+        stCamera:VignetteModelParam3="2362726.158383"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.34"
+       stCamera:ApertureValue="10.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.405827"
+        stCamera:FocalLengthY="12.405827"
+        stCamera:RadialDistortParam1="10.086622"
+        stCamera:RadialDistortParam2="-81.173687"
+        stCamera:RadialDistortParam3="29668.114352">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.405827"
+        stCamera:FocalLengthY="12.405827"
+        stCamera:VignetteModelParam1="-70.360221"
+        stCamera:VignetteModelParam2="15157.136286"
+        stCamera:VignetteModelParam3="814843.913458"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="0.44"
+       stCamera:ApertureValue="5.310704">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.030434"
+        stCamera:FocalLengthY="12.030434"
+        stCamera:RadialDistortParam1="5.430453"
+        stCamera:RadialDistortParam2="-111.572904"
+        stCamera:RadialDistortParam3="19559.333779">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.030434"
+        stCamera:FocalLengthY="12.030434"
+        stCamera:VignetteModelParam1="-95.352343"
+        stCamera:VignetteModelParam2="84030.957268"
+        stCamera:VignetteModelParam3="-41778014.85227"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="0.44"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.030434"
+        stCamera:FocalLengthY="12.030434"
+        stCamera:RadialDistortParam1="5.430453"
+        stCamera:RadialDistortParam2="-111.572904"
+        stCamera:RadialDistortParam3="19559.333779">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.030434"
+        stCamera:FocalLengthY="12.030434"
+        stCamera:VignetteModelParam1="-39.6516"
+        stCamera:VignetteModelParam2="9726.630192"
+        stCamera:VignetteModelParam3="-9015929.309445"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="0.44"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.030434"
+        stCamera:FocalLengthY="12.030434"
+        stCamera:RadialDistortParam1="5.430453"
+        stCamera:RadialDistortParam2="-111.572904"
+        stCamera:RadialDistortParam3="19559.333779">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.030434"
+        stCamera:FocalLengthY="12.030434"
+        stCamera:VignetteModelParam1="-34.208567"
+        stCamera:VignetteModelParam2="-2074.890134"
+        stCamera:VignetteModelParam3="3194128.42514"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="0.44"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.030434"
+        stCamera:FocalLengthY="12.030434"
+        stCamera:RadialDistortParam1="5.430453"
+        stCamera:RadialDistortParam2="-111.572904"
+        stCamera:RadialDistortParam3="19559.333779">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.030434"
+        stCamera:FocalLengthY="12.030434"
+        stCamera:VignetteModelParam1="-34.079461"
+        stCamera:VignetteModelParam2="-2198.758509"
+        stCamera:VignetteModelParam3="3071984.198674"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="0.44"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.030434"
+        stCamera:FocalLengthY="12.030434"
+        stCamera:RadialDistortParam1="5.430453"
+        stCamera:RadialDistortParam2="-111.572904"
+        stCamera:RadialDistortParam3="19559.333779">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.030434"
+        stCamera:FocalLengthY="12.030434"
+        stCamera:VignetteModelParam1="-39.57086"
+        stCamera:VignetteModelParam2="812.665677"
+        stCamera:VignetteModelParam3="2989063.327321"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="0.44"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.030434"
+        stCamera:FocalLengthY="12.030434"
+        stCamera:RadialDistortParam1="5.430453"
+        stCamera:RadialDistortParam2="-111.572904"
+        stCamera:RadialDistortParam3="19559.333779">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.030434"
+        stCamera:FocalLengthY="12.030434"
+        stCamera:VignetteModelParam1="-50.371512"
+        stCamera:VignetteModelParam2="6498.069062"
+        stCamera:VignetteModelParam3="2386197.030797"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4157"
+       stCamera:Lens="EF-M18-150mm f/3.5-6.3 IS STM"
+       stCamera:LensInfo="18/1 150/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 18-150mm f/3.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 18-150mm f/3.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="0.44"
+       stCamera:ApertureValue="10.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.030434"
+        stCamera:FocalLengthY="12.030434"
+        stCamera:RadialDistortParam1="5.430453"
+        stCamera:RadialDistortParam2="-111.572904"
+        stCamera:RadialDistortParam3="19559.333779">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.030434"
+        stCamera:FocalLengthY="12.030434"
+        stCamera:VignetteModelParam1="-48.842654"
+        stCamera:VignetteModelParam2="8753.468086"
+        stCamera:VignetteModelParam3="766979.278482"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

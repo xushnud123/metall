@@ -1,0 +1,1110 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.2-c004 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>13.500295</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>15.91936</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>15.91936</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.00007</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000044</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>4.521414</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>254.017394</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.510576</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>15.920265</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>15.920265</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000067</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000047</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999781</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.297782</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-358.449524</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>150052.759293</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>15.920265</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>15.920265</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000063</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000042</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>4.490053</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>267.644263</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.029892</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>15.920265</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>15.920265</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000078</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000039</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999993</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.259196</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>349.955499</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-151681.313746</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>35.857443</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.043466</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.043466</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000064</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000039</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>3.254288</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-349.741745</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.766297</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000062</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000039</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999856</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.057573</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-66.937187</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>36105.518396</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000057</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000036</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>3.257674</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-354.243926</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.009398</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000073</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000038</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999975</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.079659</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-13.88357</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>36580.102853</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.327559</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.217598</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.217598</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000062</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000033</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.166232</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>195.23896</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.441842</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.218075</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.218075</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000053</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000032</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999725</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.053228</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>17.668157</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>32.434978</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.218075</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.218075</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.00005</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000028</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.142605</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>194.947992</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.011314</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.218075</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.218075</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000067</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000034</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000077</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.185409</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>102.314548</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-69132.634022</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.218075</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.218075</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.142605</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>194.947992</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.011314</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.218075</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.218075</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-630.641683</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>440241.263282</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-173290753.740337</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.218075</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.218075</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.142605</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>194.947992</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.011314</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.218075</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.218075</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-14.342321</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-354972.645951</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>154652784.012026</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.218075</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.218075</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.142605</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>194.947992</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.011314</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.218075</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.218075</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-99.153029</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>102659.101416</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-89490474.612951</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.218075</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.218075</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.142605</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>194.947992</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.011314</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.218075</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.218075</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-88.192333</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-23122.459263</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>29719003.173916</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.218075</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.218075</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.142605</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>194.947992</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.011314</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.218075</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.218075</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-154.350034</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>35114.980287</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>15833754.139959</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>11.6</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>15.952068</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>15.952068</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>4.248561</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>264.912998</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.029135</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>15.952068</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>15.952068</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-812.849909</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>669789.669641</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-250038529.644813</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>11.6</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>15.952068</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>15.952068</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>4.248561</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>264.912998</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.029135</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>15.952068</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>15.952068</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-10.086513</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-343758.294655</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>143925210.452569</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>11.6</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>15.952068</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>15.952068</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>4.248561</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>264.912998</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.029135</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>15.952068</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>15.952068</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-108.449254</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>115569.813148</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-93120180.797523</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>11.6</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>15.952068</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>15.952068</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>4.248561</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>264.912998</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.029135</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>15.952068</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>15.952068</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-78.893309</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-34892.459878</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>34595458.552033</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>11.6</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>15.952068</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>15.952068</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>4.248561</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>264.912998</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.029135</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>15.952068</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>15.952068</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-148.366899</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>29906.373443</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>16411569.968341</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>21.8</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>15.996057</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>15.996057</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>3.519573</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-214.603817</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.000537</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>15.996057</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>15.996057</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-869.814262</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>745395.495336</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-277671974.589898</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>21.8</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>15.996057</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>15.996057</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>3.519573</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-214.603817</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.000537</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>15.996057</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>15.996057</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>1.751876</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-369816.099344</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>157864772.135685</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>21.8</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>15.996057</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>15.996057</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>3.519573</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-214.603817</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.000537</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>15.996057</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>15.996057</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-102.663148</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>106349.722325</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-90447313.101568</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>21.8</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>15.996057</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>15.996057</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>3.519573</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-214.603817</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.000537</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>15.996057</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>15.996057</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-93.606641</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-13363.14944</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>24965802.025729</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>21.8</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>15.996057</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>15.996057</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>3.519573</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-214.603817</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.000537</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>15.996057</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>15.996057</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-157.704676</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>40816.279401</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>13335342.084227</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>56.7</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>3.257674</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-354.243926</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.009398</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-867.67632</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>734599.985537</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-268205533.741202</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>56.7</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>3.257674</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-354.243926</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.009398</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.486452</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-370544.993497</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>158711973.413976</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>56.7</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>3.257674</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-354.243926</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.009398</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-94.130465</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>93536.993197</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-85508800.885388</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>56.7</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>3.257674</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-354.243926</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.009398</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-90.654283</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-22168.948292</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>31256773.431648</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>56.7</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>3.257674</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-354.243926</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.009398</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-156.16012</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>37494.541613</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>15305667.907745</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>3.257674</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-354.243926</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.009398</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-943.74451</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>854378.56931</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-323848507.938929</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>3.257674</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-354.243926</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.009398</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>10.226546</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-389246.847432</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>167630850.577659</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>3.257674</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-354.243926</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.009398</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-92.717538</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>92947.724899</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-86409304.038383</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>3.257674</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-354.243926</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.009398</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-95.483914</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-10161.368015</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>23244916.949358</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>185</stCamera:LensID>
+      <stCamera:Lens>EF600mm f/4L IS USM</stCamera:Lens>
+      <stCamera:LensInfo>600/1 600/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 600mm f/4 L IS USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 600mm f/4 L IS USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>600</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499867</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>3.257674</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-354.243926</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.009398</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>16.044389</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>16.044389</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-156.343448</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>38004.142289</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>15001937.053811</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

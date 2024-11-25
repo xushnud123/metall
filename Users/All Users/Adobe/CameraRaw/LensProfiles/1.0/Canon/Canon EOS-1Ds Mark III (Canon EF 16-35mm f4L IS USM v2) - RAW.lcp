@@ -1,0 +1,4392 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.377966"
+       stCamera:FocalLengthY="0.377966"
+       stCamera:ImageXCenter="0.496712"
+       stCamera:ImageYCenter="0.502117"
+       stCamera:ResidualMeanError="0.000268"
+       stCamera:ResidualStandardDeviation="0.000257"
+       stCamera:RadialDistortParam1="-0.046408"
+       stCamera:RadialDistortParam2="0.004237"
+       stCamera:RadialDistortParam3="0.000362"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="1.02"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.44667"
+       stCamera:FocalLengthY="0.44667"
+       stCamera:ImageXCenter="0.495268"
+       stCamera:ImageYCenter="0.500572"
+       stCamera:ResidualMeanError="0.000235"
+       stCamera:ResidualStandardDeviation="0.000359"
+       stCamera:RadialDistortParam1="-0.035592"
+       stCamera:RadialDistortParam2="0.004597"
+       stCamera:RadialDistortParam3="0.001737"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="1.83"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.44426"
+       stCamera:FocalLengthY="0.44426"
+       stCamera:ImageXCenter="0.496311"
+       stCamera:ImageYCenter="0.499494"
+       stCamera:ResidualMeanError="0.00018"
+       stCamera:ResidualStandardDeviation="0.000167"
+       stCamera:RadialDistortParam1="-0.043164"
+       stCamera:RadialDistortParam2="0.007851"
+       stCamera:RadialDistortParam3="0.000499"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.29"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.442173"
+       stCamera:FocalLengthY="0.442173"
+       stCamera:ImageXCenter="0.496241"
+       stCamera:ImageYCenter="0.505008"
+       stCamera:ResidualMeanError="0.000331"
+       stCamera:ResidualStandardDeviation="0.000438"
+       stCamera:RadialDistortParam1="-0.028858"
+       stCamera:RadialDistortParam2="-0.001355"
+       stCamera:RadialDistortParam3="0.002249"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.58"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.546571"
+       stCamera:FocalLengthY="0.546571"
+       stCamera:ImageXCenter="0.496802"
+       stCamera:ImageYCenter="0.500955"
+       stCamera:ResidualMeanError="0.000522"
+       stCamera:ResidualStandardDeviation="0.00104"
+       stCamera:RadialDistortParam1="-0.022945"
+       stCamera:RadialDistortParam2="-0.020984"
+       stCamera:RadialDistortParam3="0.016836"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="1.81"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.536968"
+       stCamera:FocalLengthY="0.536968"
+       stCamera:ImageXCenter="0.49658"
+       stCamera:ImageYCenter="0.498813"
+       stCamera:ResidualMeanError="0.00021"
+       stCamera:ResidualStandardDeviation="0.000247"
+       stCamera:RadialDistortParam1="-0.02384"
+       stCamera:RadialDistortParam2="0.002442"
+       stCamera:RadialDistortParam3="0.003222"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="23"
+       stCamera:FocusDistance="3.4"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.622665"
+       stCamera:FocalLengthY="0.622665"
+       stCamera:ImageXCenter="0.496031"
+       stCamera:ImageYCenter="0.497356"
+       stCamera:ResidualMeanError="0.000116"
+       stCamera:ResidualStandardDeviation="0.000081"
+       stCamera:RadialDistortParam1="-0.012573"
+       stCamera:RadialDistortParam2="0.008481"
+       stCamera:RadialDistortParam3="0.000359"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.634964"
+       stCamera:FocalLengthY="0.634964"
+       stCamera:ImageXCenter="0.495988"
+       stCamera:ImageYCenter="0.497671"
+       stCamera:ResidualMeanError="0.000145"
+       stCamera:ResidualStandardDeviation="0.000103"
+       stCamera:RadialDistortParam1="0.000508"
+       stCamera:RadialDistortParam2="0.003337"
+       stCamera:RadialDistortParam3="0.00444"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.403195"
+       stCamera:FocalLengthY="0.403195"
+       stCamera:ImageXCenter="0.497676"
+       stCamera:ImageYCenter="0.501091"
+       stCamera:ResidualMeanError="0.000293"
+       stCamera:ResidualStandardDeviation="0.000291"
+       stCamera:RadialDistortParam1="-0.011079"
+       stCamera:RadialDistortParam2="-0.001367"
+       stCamera:RadialDistortParam3="0.001078"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.29"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.285842"
+       stCamera:FocalLengthY="0.285842"
+       stCamera:ImageXCenter="0.477263"
+       stCamera:ImageYCenter="0.496318"
+       stCamera:ResidualMeanError="0.000312"
+       stCamera:ResidualStandardDeviation="0.000263"
+       stCamera:RadialDistortParam1="-0.001771"
+       stCamera:RadialDistortParam2="-0.000392"
+       stCamera:RadialDistortParam3="0.000111"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.66"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.787764"
+       stCamera:FocalLengthY="0.787764"
+       stCamera:ImageXCenter="0.498936"
+       stCamera:ImageYCenter="0.500498"
+       stCamera:ResidualMeanError="0.000269"
+       stCamera:ResidualStandardDeviation="0.000417"
+       stCamera:RadialDistortParam1="0.011118"
+       stCamera:RadialDistortParam2="-0.052237"
+       stCamera:RadialDistortParam3="0.08008"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="1.88"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.741046"
+       stCamera:FocalLengthY="0.741046"
+       stCamera:ImageXCenter="0.495676"
+       stCamera:ImageYCenter="0.497742"
+       stCamera:ResidualMeanError="0.000109"
+       stCamera:ResidualStandardDeviation="0.000088"
+       stCamera:RadialDistortParam1="0.007298"
+       stCamera:RadialDistortParam2="0.015269"
+       stCamera:RadialDistortParam3="-0.005435"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.384067"
+       stCamera:FocalLengthY="0.384067"
+       stCamera:ImageXCenter="0.482013"
+       stCamera:ImageYCenter="0.495626"
+       stCamera:ResidualMeanError="0.000215"
+       stCamera:ResidualStandardDeviation="0.000129"
+       stCamera:RadialDistortParam1="0.000738"
+       stCamera:RadialDistortParam2="0.000037"
+       stCamera:RadialDistortParam3="0.00009"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.09"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.95733"
+       stCamera:FocalLengthY="0.95733"
+       stCamera:ImageXCenter="0.493887"
+       stCamera:ImageYCenter="0.498049"
+       stCamera:ResidualMeanError="0.000222"
+       stCamera:ResidualStandardDeviation="0.000333"
+       stCamera:RadialDistortParam1="0.042097"
+       stCamera:RadialDistortParam2="-0.104895"
+       stCamera:RadialDistortParam3="0.190471"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3.65"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.88557"
+       stCamera:FocalLengthY="0.88557"
+       stCamera:ImageXCenter="0.495568"
+       stCamera:ImageYCenter="0.498054"
+       stCamera:ResidualMeanError="0.000162"
+       stCamera:ResidualStandardDeviation="0.000217"
+       stCamera:RadialDistortParam1="0.017664"
+       stCamera:RadialDistortParam2="0.049933"
+       stCamera:RadialDistortParam3="-0.062601"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.377966"
+        stCamera:FocalLengthY="0.377966"
+        stCamera:ImageXCenter="0.496712"
+        stCamera:ImageYCenter="0.502117"
+        stCamera:RadialDistortParam1="-0.046408"
+        stCamera:RadialDistortParam2="0.004237"
+        stCamera:RadialDistortParam3="0.000362">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.377966"
+        stCamera:FocalLengthY="0.377966"
+        stCamera:VignetteModelParam1="-0.214886"
+        stCamera:VignetteModelParam2="-0.012698"
+        stCamera:VignetteModelParam3="-0.008633"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.377966"
+        stCamera:FocalLengthY="0.377966"
+        stCamera:ImageXCenter="0.496712"
+        stCamera:ImageYCenter="0.502117"
+        stCamera:RadialDistortParam1="-0.046408"
+        stCamera:RadialDistortParam2="0.004237"
+        stCamera:RadialDistortParam3="0.000362">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.377966"
+        stCamera:FocalLengthY="0.377966"
+        stCamera:VignetteModelParam1="-0.355782"
+        stCamera:VignetteModelParam2="0.131587"
+        stCamera:VignetteModelParam3="-0.035337"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.377966"
+        stCamera:FocalLengthY="0.377966"
+        stCamera:ImageXCenter="0.496712"
+        stCamera:ImageYCenter="0.502117"
+        stCamera:RadialDistortParam1="-0.046408"
+        stCamera:RadialDistortParam2="0.004237"
+        stCamera:RadialDistortParam3="0.000362">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.377966"
+        stCamera:FocalLengthY="0.377966"
+        stCamera:VignetteModelParam1="-0.326538"
+        stCamera:VignetteModelParam2="0.070119"
+        stCamera:VignetteModelParam3="-0.008346"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.377966"
+        stCamera:FocalLengthY="0.377966"
+        stCamera:ImageXCenter="0.496712"
+        stCamera:ImageYCenter="0.502117"
+        stCamera:RadialDistortParam1="-0.046408"
+        stCamera:RadialDistortParam2="0.004237"
+        stCamera:RadialDistortParam3="0.000362">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.377966"
+        stCamera:FocalLengthY="0.377966"
+        stCamera:VignetteModelParam1="-0.320466"
+        stCamera:VignetteModelParam2="0.061656"
+        stCamera:VignetteModelParam3="-0.005498"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.377966"
+        stCamera:FocalLengthY="0.377966"
+        stCamera:ImageXCenter="0.496712"
+        stCamera:ImageYCenter="0.502117"
+        stCamera:RadialDistortParam1="-0.046408"
+        stCamera:RadialDistortParam2="0.004237"
+        stCamera:RadialDistortParam3="0.000362">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.377966"
+        stCamera:FocalLengthY="0.377966"
+        stCamera:VignetteModelParam1="-0.309664"
+        stCamera:VignetteModelParam2="0.051758"
+        stCamera:VignetteModelParam3="-0.003376"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.420947"
+        stCamera:FocalLengthY="0.420947"
+        stCamera:ImageXCenter="0.495809"
+        stCamera:ImageYCenter="0.50115"
+        stCamera:RadialDistortParam1="-0.036418"
+        stCamera:RadialDistortParam2="0.004162"
+        stCamera:RadialDistortParam3="0.001119">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.420947"
+        stCamera:FocalLengthY="0.420947"
+        stCamera:VignetteModelParam1="-0.305628"
+        stCamera:VignetteModelParam2="0.001249"
+        stCamera:VignetteModelParam3="-0.015391"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.420947"
+        stCamera:FocalLengthY="0.420947"
+        stCamera:ImageXCenter="0.495809"
+        stCamera:ImageYCenter="0.50115"
+        stCamera:RadialDistortParam1="-0.036418"
+        stCamera:RadialDistortParam2="0.004162"
+        stCamera:RadialDistortParam3="0.001119">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.420947"
+        stCamera:FocalLengthY="0.420947"
+        stCamera:VignetteModelParam1="-0.440489"
+        stCamera:VignetteModelParam2="0.194349"
+        stCamera:VignetteModelParam3="-0.061556"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.420947"
+        stCamera:FocalLengthY="0.420947"
+        stCamera:ImageXCenter="0.495809"
+        stCamera:ImageYCenter="0.50115"
+        stCamera:RadialDistortParam1="-0.036418"
+        stCamera:RadialDistortParam2="0.004162"
+        stCamera:RadialDistortParam3="0.001119">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.420947"
+        stCamera:FocalLengthY="0.420947"
+        stCamera:VignetteModelParam1="-0.422236"
+        stCamera:VignetteModelParam2="0.124046"
+        stCamera:VignetteModelParam3="-0.019304"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.420947"
+        stCamera:FocalLengthY="0.420947"
+        stCamera:ImageXCenter="0.495809"
+        stCamera:ImageYCenter="0.50115"
+        stCamera:RadialDistortParam1="-0.036418"
+        stCamera:RadialDistortParam2="0.004162"
+        stCamera:RadialDistortParam3="0.001119">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.420947"
+        stCamera:FocalLengthY="0.420947"
+        stCamera:VignetteModelParam1="-0.41935"
+        stCamera:VignetteModelParam2="0.118378"
+        stCamera:VignetteModelParam3="-0.016961"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.420947"
+        stCamera:FocalLengthY="0.420947"
+        stCamera:ImageXCenter="0.495809"
+        stCamera:ImageYCenter="0.50115"
+        stCamera:RadialDistortParam1="-0.036418"
+        stCamera:RadialDistortParam2="0.004162"
+        stCamera:RadialDistortParam3="0.001119">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.420947"
+        stCamera:FocalLengthY="0.420947"
+        stCamera:VignetteModelParam1="-0.416707"
+        stCamera:VignetteModelParam2="0.112629"
+        stCamera:VignetteModelParam3="-0.01513"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="1.3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.445497"
+        stCamera:FocalLengthY="0.445497"
+        stCamera:ImageXCenter="0.495776"
+        stCamera:ImageYCenter="0.500047"
+        stCamera:RadialDistortParam1="-0.040978"
+        stCamera:RadialDistortParam2="0.00691"
+        stCamera:RadialDistortParam3="0.000872">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.445497"
+        stCamera:FocalLengthY="0.445497"
+        stCamera:VignetteModelParam1="-0.33905"
+        stCamera:VignetteModelParam2="-0.01611"
+        stCamera:VignetteModelParam3="-0.011824"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="1.3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.445497"
+        stCamera:FocalLengthY="0.445497"
+        stCamera:ImageXCenter="0.495776"
+        stCamera:ImageYCenter="0.500047"
+        stCamera:RadialDistortParam1="-0.040978"
+        stCamera:RadialDistortParam2="0.00691"
+        stCamera:RadialDistortParam3="0.000872">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.445497"
+        stCamera:FocalLengthY="0.445497"
+        stCamera:VignetteModelParam1="-0.483536"
+        stCamera:VignetteModelParam2="0.229739"
+        stCamera:VignetteModelParam3="-0.080407"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="1.3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.445497"
+        stCamera:FocalLengthY="0.445497"
+        stCamera:ImageXCenter="0.495776"
+        stCamera:ImageYCenter="0.500047"
+        stCamera:RadialDistortParam1="-0.040978"
+        stCamera:RadialDistortParam2="0.00691"
+        stCamera:RadialDistortParam3="0.000872">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.445497"
+        stCamera:FocalLengthY="0.445497"
+        stCamera:VignetteModelParam1="-0.461021"
+        stCamera:VignetteModelParam2="0.142757"
+        stCamera:VignetteModelParam3="-0.0235"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="1.3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.445497"
+        stCamera:FocalLengthY="0.445497"
+        stCamera:ImageXCenter="0.495776"
+        stCamera:ImageYCenter="0.500047"
+        stCamera:RadialDistortParam1="-0.040978"
+        stCamera:RadialDistortParam2="0.00691"
+        stCamera:RadialDistortParam3="0.000872">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.445497"
+        stCamera:FocalLengthY="0.445497"
+        stCamera:VignetteModelParam1="-0.460662"
+        stCamera:VignetteModelParam2="0.139371"
+        stCamera:VignetteModelParam3="-0.02157"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="1.3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.445497"
+        stCamera:FocalLengthY="0.445497"
+        stCamera:ImageXCenter="0.495776"
+        stCamera:ImageYCenter="0.500047"
+        stCamera:RadialDistortParam1="-0.040978"
+        stCamera:RadialDistortParam2="0.00691"
+        stCamera:RadialDistortParam3="0.000872">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.445497"
+        stCamera:FocalLengthY="0.445497"
+        stCamera:VignetteModelParam1="-0.4685"
+        stCamera:VignetteModelParam2="0.145343"
+        stCamera:VignetteModelParam3="-0.023181"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.44426"
+        stCamera:FocalLengthY="0.44426"
+        stCamera:ImageXCenter="0.496311"
+        stCamera:ImageYCenter="0.499494"
+        stCamera:RadialDistortParam1="-0.043164"
+        stCamera:RadialDistortParam2="0.007851"
+        stCamera:RadialDistortParam3="0.000499">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.44426"
+        stCamera:FocalLengthY="0.44426"
+        stCamera:VignetteModelParam1="-0.352366"
+        stCamera:VignetteModelParam2="-0.014245"
+        stCamera:VignetteModelParam3="-0.007371"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.44426"
+        stCamera:FocalLengthY="0.44426"
+        stCamera:ImageXCenter="0.496311"
+        stCamera:ImageYCenter="0.499494"
+        stCamera:RadialDistortParam1="-0.043164"
+        stCamera:RadialDistortParam2="0.007851"
+        stCamera:RadialDistortParam3="0.000499">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.44426"
+        stCamera:FocalLengthY="0.44426"
+        stCamera:VignetteModelParam1="-0.472561"
+        stCamera:VignetteModelParam2="0.217429"
+        stCamera:VignetteModelParam3="-0.075754"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.44426"
+        stCamera:FocalLengthY="0.44426"
+        stCamera:ImageXCenter="0.496311"
+        stCamera:ImageYCenter="0.499494"
+        stCamera:RadialDistortParam1="-0.043164"
+        stCamera:RadialDistortParam2="0.007851"
+        stCamera:RadialDistortParam3="0.000499">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.44426"
+        stCamera:FocalLengthY="0.44426"
+        stCamera:VignetteModelParam1="-0.448494"
+        stCamera:VignetteModelParam2="0.132624"
+        stCamera:VignetteModelParam3="-0.021306"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.44426"
+        stCamera:FocalLengthY="0.44426"
+        stCamera:ImageXCenter="0.496311"
+        stCamera:ImageYCenter="0.499494"
+        stCamera:RadialDistortParam1="-0.043164"
+        stCamera:RadialDistortParam2="0.007851"
+        stCamera:RadialDistortParam3="0.000499">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.44426"
+        stCamera:FocalLengthY="0.44426"
+        stCamera:VignetteModelParam1="-0.442407"
+        stCamera:VignetteModelParam2="0.122412"
+        stCamera:VignetteModelParam3="-0.017367"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.44426"
+        stCamera:FocalLengthY="0.44426"
+        stCamera:ImageXCenter="0.496311"
+        stCamera:ImageYCenter="0.499494"
+        stCamera:RadialDistortParam1="-0.043164"
+        stCamera:RadialDistortParam2="0.007851"
+        stCamera:RadialDistortParam3="0.000499">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.44426"
+        stCamera:FocalLengthY="0.44426"
+        stCamera:VignetteModelParam1="-0.450061"
+        stCamera:VignetteModelParam2="0.13079"
+        stCamera:VignetteModelParam3="-0.020381"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.442173"
+        stCamera:FocalLengthY="0.442173"
+        stCamera:ImageXCenter="0.496241"
+        stCamera:ImageYCenter="0.505008"
+        stCamera:RadialDistortParam1="-0.028858"
+        stCamera:RadialDistortParam2="-0.001355"
+        stCamera:RadialDistortParam3="0.002249">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.442173"
+        stCamera:FocalLengthY="0.442173"
+        stCamera:VignetteModelParam1="-0.261304"
+        stCamera:VignetteModelParam2="-0.079692"
+        stCamera:VignetteModelParam3="0.039817"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.442173"
+        stCamera:FocalLengthY="0.442173"
+        stCamera:ImageXCenter="0.496241"
+        stCamera:ImageYCenter="0.505008"
+        stCamera:RadialDistortParam1="-0.028858"
+        stCamera:RadialDistortParam2="-0.001355"
+        stCamera:RadialDistortParam3="0.002249">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.442173"
+        stCamera:FocalLengthY="0.442173"
+        stCamera:VignetteModelParam1="-0.372497"
+        stCamera:VignetteModelParam2="0.077217"
+        stCamera:VignetteModelParam3="-0.012823"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.442173"
+        stCamera:FocalLengthY="0.442173"
+        stCamera:ImageXCenter="0.496241"
+        stCamera:ImageYCenter="0.505008"
+        stCamera:RadialDistortParam1="-0.028858"
+        stCamera:RadialDistortParam2="-0.001355"
+        stCamera:RadialDistortParam3="0.002249">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.442173"
+        stCamera:FocalLengthY="0.442173"
+        stCamera:VignetteModelParam1="-0.376936"
+        stCamera:VignetteModelParam2="0.087795"
+        stCamera:VignetteModelParam3="-0.011022"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.442173"
+        stCamera:FocalLengthY="0.442173"
+        stCamera:ImageXCenter="0.496241"
+        stCamera:ImageYCenter="0.505008"
+        stCamera:RadialDistortParam1="-0.028858"
+        stCamera:RadialDistortParam2="-0.001355"
+        stCamera:RadialDistortParam3="0.002249">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.442173"
+        stCamera:FocalLengthY="0.442173"
+        stCamera:VignetteModelParam1="-0.374049"
+        stCamera:VignetteModelParam2="0.08457"
+        stCamera:VignetteModelParam3="-0.010341"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.442173"
+        stCamera:FocalLengthY="0.442173"
+        stCamera:ImageXCenter="0.496241"
+        stCamera:ImageYCenter="0.505008"
+        stCamera:RadialDistortParam1="-0.028858"
+        stCamera:RadialDistortParam2="-0.001355"
+        stCamera:RadialDistortParam3="0.002249">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.442173"
+        stCamera:FocalLengthY="0.442173"
+        stCamera:VignetteModelParam1="-0.373101"
+        stCamera:VignetteModelParam2="0.079487"
+        stCamera:VignetteModelParam3="-0.008217"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.46"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.519337"
+        stCamera:FocalLengthY="0.519337"
+        stCamera:ImageXCenter="0.496656"
+        stCamera:ImageYCenter="0.502012"
+        stCamera:RadialDistortParam1="-0.022969"
+        stCamera:RadialDistortParam2="-0.01539"
+        stCamera:RadialDistortParam3="0.011624">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.519337"
+        stCamera:FocalLengthY="0.519337"
+        stCamera:VignetteModelParam1="-0.387102"
+        stCamera:VignetteModelParam2="-0.18681"
+        stCamera:VignetteModelParam3="0.129482"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.46"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.519337"
+        stCamera:FocalLengthY="0.519337"
+        stCamera:ImageXCenter="0.496656"
+        stCamera:ImageYCenter="0.502012"
+        stCamera:RadialDistortParam1="-0.022969"
+        stCamera:RadialDistortParam2="-0.01539"
+        stCamera:RadialDistortParam3="0.011624">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.519337"
+        stCamera:FocalLengthY="0.519337"
+        stCamera:VignetteModelParam1="-0.51019"
+        stCamera:VignetteModelParam2="0.141389"
+        stCamera:VignetteModelParam3="-0.030703"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.46"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.519337"
+        stCamera:FocalLengthY="0.519337"
+        stCamera:ImageXCenter="0.496656"
+        stCamera:ImageYCenter="0.502012"
+        stCamera:RadialDistortParam1="-0.022969"
+        stCamera:RadialDistortParam2="-0.01539"
+        stCamera:RadialDistortParam3="0.011624">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.519337"
+        stCamera:FocalLengthY="0.519337"
+        stCamera:VignetteModelParam1="-0.518099"
+        stCamera:VignetteModelParam2="0.165938"
+        stCamera:VignetteModelParam3="-0.028342"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.46"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.519337"
+        stCamera:FocalLengthY="0.519337"
+        stCamera:ImageXCenter="0.496656"
+        stCamera:ImageYCenter="0.502012"
+        stCamera:RadialDistortParam1="-0.022969"
+        stCamera:RadialDistortParam2="-0.01539"
+        stCamera:RadialDistortParam3="0.011624">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.519337"
+        stCamera:FocalLengthY="0.519337"
+        stCamera:VignetteModelParam1="-0.5128"
+        stCamera:VignetteModelParam2="0.155171"
+        stCamera:VignetteModelParam3="-0.023558"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.46"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.519337"
+        stCamera:FocalLengthY="0.519337"
+        stCamera:ImageXCenter="0.496656"
+        stCamera:ImageYCenter="0.502012"
+        stCamera:RadialDistortParam1="-0.022969"
+        stCamera:RadialDistortParam2="-0.01539"
+        stCamera:RadialDistortParam3="0.011624">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.519337"
+        stCamera:FocalLengthY="0.519337"
+        stCamera:VignetteModelParam1="-0.504772"
+        stCamera:VignetteModelParam2="0.138749"
+        stCamera:VignetteModelParam3="-0.016588"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="1.01"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.540555"
+        stCamera:FocalLengthY="0.540555"
+        stCamera:ImageXCenter="0.496663"
+        stCamera:ImageYCenter="0.499613"
+        stCamera:RadialDistortParam1="-0.023797"
+        stCamera:RadialDistortParam2="-0.00226"
+        stCamera:RadialDistortParam3="0.005971">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.540555"
+        stCamera:FocalLengthY="0.540555"
+        stCamera:VignetteModelParam1="-0.46536"
+        stCamera:VignetteModelParam2="-0.176835"
+        stCamera:VignetteModelParam3="0.151302"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="1.01"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.540555"
+        stCamera:FocalLengthY="0.540555"
+        stCamera:ImageXCenter="0.496663"
+        stCamera:ImageYCenter="0.499613"
+        stCamera:RadialDistortParam1="-0.023797"
+        stCamera:RadialDistortParam2="-0.00226"
+        stCamera:RadialDistortParam3="0.005971">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.540555"
+        stCamera:FocalLengthY="0.540555"
+        stCamera:VignetteModelParam1="-0.57185"
+        stCamera:VignetteModelParam2="0.198822"
+        stCamera:VignetteModelParam3="-0.053794"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="1.01"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.540555"
+        stCamera:FocalLengthY="0.540555"
+        stCamera:ImageXCenter="0.496663"
+        stCamera:ImageYCenter="0.499613"
+        stCamera:RadialDistortParam1="-0.023797"
+        stCamera:RadialDistortParam2="-0.00226"
+        stCamera:RadialDistortParam3="0.005971">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.540555"
+        stCamera:FocalLengthY="0.540555"
+        stCamera:VignetteModelParam1="-0.599741"
+        stCamera:VignetteModelParam2="0.259022"
+        stCamera:VignetteModelParam3="-0.063958"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="1.01"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.540555"
+        stCamera:FocalLengthY="0.540555"
+        stCamera:ImageXCenter="0.496663"
+        stCamera:ImageYCenter="0.499613"
+        stCamera:RadialDistortParam1="-0.023797"
+        stCamera:RadialDistortParam2="-0.00226"
+        stCamera:RadialDistortParam3="0.005971">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.540555"
+        stCamera:FocalLengthY="0.540555"
+        stCamera:VignetteModelParam1="-0.603959"
+        stCamera:VignetteModelParam2="0.263547"
+        stCamera:VignetteModelParam3="-0.065549"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="1.01"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.540555"
+        stCamera:FocalLengthY="0.540555"
+        stCamera:ImageXCenter="0.496663"
+        stCamera:ImageYCenter="0.499613"
+        stCamera:RadialDistortParam1="-0.023797"
+        stCamera:RadialDistortParam2="-0.00226"
+        stCamera:RadialDistortParam3="0.005971">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.540555"
+        stCamera:FocalLengthY="0.540555"
+        stCamera:VignetteModelParam1="-0.604852"
+        stCamera:VignetteModelParam2="0.260106"
+        stCamera:VignetteModelParam3="-0.063993"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.536968"
+        stCamera:FocalLengthY="0.536968"
+        stCamera:ImageXCenter="0.49658"
+        stCamera:ImageYCenter="0.498813"
+        stCamera:RadialDistortParam1="-0.02384"
+        stCamera:RadialDistortParam2="0.002442"
+        stCamera:RadialDistortParam3="0.003222">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.536968"
+        stCamera:FocalLengthY="0.536968"
+        stCamera:VignetteModelParam1="-0.476716"
+        stCamera:VignetteModelParam2="-0.180844"
+        stCamera:VignetteModelParam3="0.155768"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.536968"
+        stCamera:FocalLengthY="0.536968"
+        stCamera:ImageXCenter="0.49658"
+        stCamera:ImageYCenter="0.498813"
+        stCamera:RadialDistortParam1="-0.02384"
+        stCamera:RadialDistortParam2="0.002442"
+        stCamera:RadialDistortParam3="0.003222">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.536968"
+        stCamera:FocalLengthY="0.536968"
+        stCamera:VignetteModelParam1="-0.553044"
+        stCamera:VignetteModelParam2="0.173872"
+        stCamera:VignetteModelParam3="-0.041764"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.536968"
+        stCamera:FocalLengthY="0.536968"
+        stCamera:ImageXCenter="0.49658"
+        stCamera:ImageYCenter="0.498813"
+        stCamera:RadialDistortParam1="-0.02384"
+        stCamera:RadialDistortParam2="0.002442"
+        stCamera:RadialDistortParam3="0.003222">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.536968"
+        stCamera:FocalLengthY="0.536968"
+        stCamera:VignetteModelParam1="-0.580736"
+        stCamera:VignetteModelParam2="0.233642"
+        stCamera:VignetteModelParam3="-0.051852"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.536968"
+        stCamera:FocalLengthY="0.536968"
+        stCamera:ImageXCenter="0.49658"
+        stCamera:ImageYCenter="0.498813"
+        stCamera:RadialDistortParam1="-0.02384"
+        stCamera:RadialDistortParam2="0.002442"
+        stCamera:RadialDistortParam3="0.003222">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.536968"
+        stCamera:FocalLengthY="0.536968"
+        stCamera:VignetteModelParam1="-0.570778"
+        stCamera:VignetteModelParam2="0.21601"
+        stCamera:VignetteModelParam3="-0.045515"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.536968"
+        stCamera:FocalLengthY="0.536968"
+        stCamera:ImageXCenter="0.49658"
+        stCamera:ImageYCenter="0.498813"
+        stCamera:RadialDistortParam1="-0.02384"
+        stCamera:RadialDistortParam2="0.002442"
+        stCamera:RadialDistortParam3="0.003222">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.536968"
+        stCamera:FocalLengthY="0.536968"
+        stCamera:VignetteModelParam1="-0.560045"
+        stCamera:VignetteModelParam2="0.194682"
+        stCamera:VignetteModelParam3="-0.036356"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.403195"
+        stCamera:FocalLengthY="0.403195"
+        stCamera:ImageXCenter="0.497676"
+        stCamera:ImageYCenter="0.501091"
+        stCamera:RadialDistortParam1="-0.011079"
+        stCamera:RadialDistortParam2="-0.001367"
+        stCamera:RadialDistortParam3="0.001078">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.403195"
+        stCamera:FocalLengthY="0.403195"
+        stCamera:VignetteModelParam1="-0.27574"
+        stCamera:VignetteModelParam2="-0.01209"
+        stCamera:VignetteModelParam3="0.0126"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.403195"
+        stCamera:FocalLengthY="0.403195"
+        stCamera:ImageXCenter="0.497676"
+        stCamera:ImageYCenter="0.501091"
+        stCamera:RadialDistortParam1="-0.011079"
+        stCamera:RadialDistortParam2="-0.001367"
+        stCamera:RadialDistortParam3="0.001078">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.403195"
+        stCamera:FocalLengthY="0.403195"
+        stCamera:VignetteModelParam1="-0.278973"
+        stCamera:VignetteModelParam2="0.043521"
+        stCamera:VignetteModelParam3="-0.008001"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.403195"
+        stCamera:FocalLengthY="0.403195"
+        stCamera:ImageXCenter="0.497676"
+        stCamera:ImageYCenter="0.501091"
+        stCamera:RadialDistortParam1="-0.011079"
+        stCamera:RadialDistortParam2="-0.001367"
+        stCamera:RadialDistortParam3="0.001078">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.403195"
+        stCamera:FocalLengthY="0.403195"
+        stCamera:VignetteModelParam1="-0.296263"
+        stCamera:VignetteModelParam2="0.067165"
+        stCamera:VignetteModelParam3="-0.00912"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.403195"
+        stCamera:FocalLengthY="0.403195"
+        stCamera:ImageXCenter="0.497676"
+        stCamera:ImageYCenter="0.501091"
+        stCamera:RadialDistortParam1="-0.011079"
+        stCamera:RadialDistortParam2="-0.001367"
+        stCamera:RadialDistortParam3="0.001078">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.403195"
+        stCamera:FocalLengthY="0.403195"
+        stCamera:VignetteModelParam1="-0.298501"
+        stCamera:VignetteModelParam2="0.067672"
+        stCamera:VignetteModelParam3="-0.008966"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.403195"
+        stCamera:FocalLengthY="0.403195"
+        stCamera:ImageXCenter="0.497676"
+        stCamera:ImageYCenter="0.501091"
+        stCamera:RadialDistortParam1="-0.011079"
+        stCamera:RadialDistortParam2="-0.001367"
+        stCamera:RadialDistortParam3="0.001078">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.403195"
+        stCamera:FocalLengthY="0.403195"
+        stCamera:VignetteModelParam1="-0.298226"
+        stCamera:VignetteModelParam2="0.065218"
+        stCamera:VignetteModelParam3="-0.008204"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.522609"
+        stCamera:FocalLengthY="0.522609"
+        stCamera:ImageXCenter="0.496806"
+        stCamera:ImageYCenter="0.499329"
+        stCamera:RadialDistortParam1="-0.003614"
+        stCamera:RadialDistortParam2="0.000406"
+        stCamera:RadialDistortParam3="0.002159">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.522609"
+        stCamera:FocalLengthY="0.522609"
+        stCamera:VignetteModelParam1="-0.52019"
+        stCamera:VignetteModelParam2="0.001896"
+        stCamera:VignetteModelParam3="0.052565"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.522609"
+        stCamera:FocalLengthY="0.522609"
+        stCamera:ImageXCenter="0.496806"
+        stCamera:ImageYCenter="0.499329"
+        stCamera:RadialDistortParam1="-0.003614"
+        stCamera:RadialDistortParam2="0.000406"
+        stCamera:RadialDistortParam3="0.002159">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.522609"
+        stCamera:FocalLengthY="0.522609"
+        stCamera:VignetteModelParam1="-0.459668"
+        stCamera:VignetteModelParam2="0.11312"
+        stCamera:VignetteModelParam3="-0.035057"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.522609"
+        stCamera:FocalLengthY="0.522609"
+        stCamera:ImageXCenter="0.496806"
+        stCamera:ImageYCenter="0.499329"
+        stCamera:RadialDistortParam1="-0.003614"
+        stCamera:RadialDistortParam2="0.000406"
+        stCamera:RadialDistortParam3="0.002159">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.522609"
+        stCamera:FocalLengthY="0.522609"
+        stCamera:VignetteModelParam1="-0.4898"
+        stCamera:VignetteModelParam2="0.180183"
+        stCamera:VignetteModelParam3="-0.039765"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.522609"
+        stCamera:FocalLengthY="0.522609"
+        stCamera:ImageXCenter="0.496806"
+        stCamera:ImageYCenter="0.499329"
+        stCamera:RadialDistortParam1="-0.003614"
+        stCamera:RadialDistortParam2="0.000406"
+        stCamera:RadialDistortParam3="0.002159">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.522609"
+        stCamera:FocalLengthY="0.522609"
+        stCamera:VignetteModelParam1="-0.494589"
+        stCamera:VignetteModelParam2="0.182136"
+        stCamera:VignetteModelParam3="-0.038868"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.522609"
+        stCamera:FocalLengthY="0.522609"
+        stCamera:ImageXCenter="0.496806"
+        stCamera:ImageYCenter="0.499329"
+        stCamera:RadialDistortParam1="-0.003614"
+        stCamera:RadialDistortParam2="0.000406"
+        stCamera:RadialDistortParam3="0.002159">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.522609"
+        stCamera:FocalLengthY="0.522609"
+        stCamera:VignetteModelParam1="-0.494408"
+        stCamera:VignetteModelParam2="0.177933"
+        stCamera:VignetteModelParam3="-0.037048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.02"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.617499"
+        stCamera:FocalLengthY="0.617499"
+        stCamera:ImageXCenter="0.496115"
+        stCamera:ImageYCenter="0.497929"
+        stCamera:RadialDistortParam1="-0.000179"
+        stCamera:RadialDistortParam2="0.002723"
+        stCamera:RadialDistortParam3="0.004009">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.617499"
+        stCamera:FocalLengthY="0.617499"
+        stCamera:VignetteModelParam1="-0.773321"
+        stCamera:VignetteModelParam2="0.062438"
+        stCamera:VignetteModelParam3="0.115338"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.02"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.617499"
+        stCamera:FocalLengthY="0.617499"
+        stCamera:ImageXCenter="0.496115"
+        stCamera:ImageYCenter="0.497929"
+        stCamera:RadialDistortParam1="-0.000179"
+        stCamera:RadialDistortParam2="0.002723"
+        stCamera:RadialDistortParam3="0.004009">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.617499"
+        stCamera:FocalLengthY="0.617499"
+        stCamera:VignetteModelParam1="-0.640456"
+        stCamera:VignetteModelParam2="0.216976"
+        stCamera:VignetteModelParam3="-0.092339"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.02"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.617499"
+        stCamera:FocalLengthY="0.617499"
+        stCamera:ImageXCenter="0.496115"
+        stCamera:ImageYCenter="0.497929"
+        stCamera:RadialDistortParam1="-0.000179"
+        stCamera:RadialDistortParam2="0.002723"
+        stCamera:RadialDistortParam3="0.004009">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.617499"
+        stCamera:FocalLengthY="0.617499"
+        stCamera:VignetteModelParam1="-0.684641"
+        stCamera:VignetteModelParam2="0.351482"
+        stCamera:VignetteModelParam3="-0.106657"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.02"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.617499"
+        stCamera:FocalLengthY="0.617499"
+        stCamera:ImageXCenter="0.496115"
+        stCamera:ImageYCenter="0.497929"
+        stCamera:RadialDistortParam1="-0.000179"
+        stCamera:RadialDistortParam2="0.002723"
+        stCamera:RadialDistortParam3="0.004009">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.617499"
+        stCamera:FocalLengthY="0.617499"
+        stCamera:VignetteModelParam1="-0.686804"
+        stCamera:VignetteModelParam2="0.34652"
+        stCamera:VignetteModelParam3="-0.09933"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.02"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.617499"
+        stCamera:FocalLengthY="0.617499"
+        stCamera:ImageXCenter="0.496115"
+        stCamera:ImageYCenter="0.497929"
+        stCamera:RadialDistortParam1="-0.000179"
+        stCamera:RadialDistortParam2="0.002723"
+        stCamera:RadialDistortParam3="0.004009">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.617499"
+        stCamera:FocalLengthY="0.617499"
+        stCamera:VignetteModelParam1="-0.700334"
+        stCamera:VignetteModelParam2="0.367392"
+        stCamera:VignetteModelParam3="-0.110188"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.634964"
+        stCamera:FocalLengthY="0.634964"
+        stCamera:ImageXCenter="0.495988"
+        stCamera:ImageYCenter="0.497671"
+        stCamera:RadialDistortParam1="0.000508"
+        stCamera:RadialDistortParam2="0.003337"
+        stCamera:RadialDistortParam3="0.00444">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.634964"
+        stCamera:FocalLengthY="0.634964"
+        stCamera:VignetteModelParam1="-0.845772"
+        stCamera:VignetteModelParam2="0.077998"
+        stCamera:VignetteModelParam3="0.143952"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.634964"
+        stCamera:FocalLengthY="0.634964"
+        stCamera:ImageXCenter="0.495988"
+        stCamera:ImageYCenter="0.497671"
+        stCamera:RadialDistortParam1="0.000508"
+        stCamera:RadialDistortParam2="0.003337"
+        stCamera:RadialDistortParam3="0.00444">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.634964"
+        stCamera:FocalLengthY="0.634964"
+        stCamera:VignetteModelParam1="-0.652891"
+        stCamera:VignetteModelParam2="0.179314"
+        stCamera:VignetteModelParam3="-0.068028"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.634964"
+        stCamera:FocalLengthY="0.634964"
+        stCamera:ImageXCenter="0.495988"
+        stCamera:ImageYCenter="0.497671"
+        stCamera:RadialDistortParam1="0.000508"
+        stCamera:RadialDistortParam2="0.003337"
+        stCamera:RadialDistortParam3="0.00444">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.634964"
+        stCamera:FocalLengthY="0.634964"
+        stCamera:VignetteModelParam1="-0.695366"
+        stCamera:VignetteModelParam2="0.326429"
+        stCamera:VignetteModelParam3="-0.086675"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.634964"
+        stCamera:FocalLengthY="0.634964"
+        stCamera:ImageXCenter="0.495988"
+        stCamera:ImageYCenter="0.497671"
+        stCamera:RadialDistortParam1="0.000508"
+        stCamera:RadialDistortParam2="0.003337"
+        stCamera:RadialDistortParam3="0.00444">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.634964"
+        stCamera:FocalLengthY="0.634964"
+        stCamera:VignetteModelParam1="-0.692329"
+        stCamera:VignetteModelParam2="0.311007"
+        stCamera:VignetteModelParam3="-0.073669"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.634964"
+        stCamera:FocalLengthY="0.634964"
+        stCamera:ImageXCenter="0.495988"
+        stCamera:ImageYCenter="0.497671"
+        stCamera:RadialDistortParam1="0.000508"
+        stCamera:RadialDistortParam2="0.003337"
+        stCamera:RadialDistortParam3="0.00444">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.634964"
+        stCamera:FocalLengthY="0.634964"
+        stCamera:VignetteModelParam1="-0.670073"
+        stCamera:VignetteModelParam2="0.252629"
+        stCamera:VignetteModelParam3="-0.03938"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.285842"
+        stCamera:FocalLengthY="0.285842"
+        stCamera:ImageXCenter="0.477263"
+        stCamera:ImageYCenter="0.496318"
+        stCamera:RadialDistortParam1="-0.001771"
+        stCamera:RadialDistortParam2="-0.000392"
+        stCamera:RadialDistortParam3="0.000111">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.285842"
+        stCamera:FocalLengthY="0.285842"
+        stCamera:VignetteModelParam1="-0.193859"
+        stCamera:VignetteModelParam2="0.017978"
+        stCamera:VignetteModelParam3="-0.000604"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.285842"
+        stCamera:FocalLengthY="0.285842"
+        stCamera:ImageXCenter="0.477263"
+        stCamera:ImageYCenter="0.496318"
+        stCamera:RadialDistortParam1="-0.001771"
+        stCamera:RadialDistortParam2="-0.000392"
+        stCamera:RadialDistortParam3="0.000111">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.285842"
+        stCamera:FocalLengthY="0.285842"
+        stCamera:VignetteModelParam1="-0.109196"
+        stCamera:VignetteModelParam2="-0.006636"
+        stCamera:VignetteModelParam3="0.001574"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.285842"
+        stCamera:FocalLengthY="0.285842"
+        stCamera:ImageXCenter="0.477263"
+        stCamera:ImageYCenter="0.496318"
+        stCamera:RadialDistortParam1="-0.001771"
+        stCamera:RadialDistortParam2="-0.000392"
+        stCamera:RadialDistortParam3="0.000111">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.285842"
+        stCamera:FocalLengthY="0.285842"
+        stCamera:VignetteModelParam1="-0.130859"
+        stCamera:VignetteModelParam2="0.015549"
+        stCamera:VignetteModelParam3="-0.001513"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.285842"
+        stCamera:FocalLengthY="0.285842"
+        stCamera:ImageXCenter="0.477263"
+        stCamera:ImageYCenter="0.496318"
+        stCamera:RadialDistortParam1="-0.001771"
+        stCamera:RadialDistortParam2="-0.000392"
+        stCamera:RadialDistortParam3="0.000111">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.285842"
+        stCamera:FocalLengthY="0.285842"
+        stCamera:VignetteModelParam1="-0.127659"
+        stCamera:VignetteModelParam2="0.011318"
+        stCamera:VignetteModelParam3="-0.000513"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.26"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.285842"
+        stCamera:FocalLengthY="0.285842"
+        stCamera:ImageXCenter="0.477263"
+        stCamera:ImageYCenter="0.496318"
+        stCamera:RadialDistortParam1="-0.001771"
+        stCamera:RadialDistortParam2="-0.000392"
+        stCamera:RadialDistortParam3="0.000111">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.285842"
+        stCamera:FocalLengthY="0.285842"
+        stCamera:VignetteModelParam1="-0.129516"
+        stCamera:VignetteModelParam2="0.01178"
+        stCamera:VignetteModelParam3="-0.000553"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.628731"
+        stCamera:FocalLengthY="0.628731"
+        stCamera:ImageXCenter="0.492069"
+        stCamera:ImageYCenter="0.499174"
+        stCamera:RadialDistortParam1="0.005911"
+        stCamera:RadialDistortParam2="-0.020297"
+        stCamera:RadialDistortParam3="0.02009">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.628731"
+        stCamera:FocalLengthY="0.628731"
+        stCamera:VignetteModelParam1="-1.012444"
+        stCamera:VignetteModelParam2="0.506976"
+        stCamera:VignetteModelParam3="-0.106794"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.628731"
+        stCamera:FocalLengthY="0.628731"
+        stCamera:ImageXCenter="0.492069"
+        stCamera:ImageYCenter="0.499174"
+        stCamera:RadialDistortParam1="0.005911"
+        stCamera:RadialDistortParam2="-0.020297"
+        stCamera:RadialDistortParam3="0.02009">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.628731"
+        stCamera:FocalLengthY="0.628731"
+        stCamera:VignetteModelParam1="-0.544024"
+        stCamera:VignetteModelParam2="-0.122664"
+        stCamera:VignetteModelParam3="0.160628"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.628731"
+        stCamera:FocalLengthY="0.628731"
+        stCamera:ImageXCenter="0.492069"
+        stCamera:ImageYCenter="0.499174"
+        stCamera:RadialDistortParam1="0.005911"
+        stCamera:RadialDistortParam2="-0.020297"
+        stCamera:RadialDistortParam3="0.02009">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.628731"
+        stCamera:FocalLengthY="0.628731"
+        stCamera:VignetteModelParam1="-0.657132"
+        stCamera:VignetteModelParam2="0.427242"
+        stCamera:VignetteModelParam3="-0.212374"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.628731"
+        stCamera:FocalLengthY="0.628731"
+        stCamera:ImageXCenter="0.492069"
+        stCamera:ImageYCenter="0.499174"
+        stCamera:RadialDistortParam1="0.005911"
+        stCamera:RadialDistortParam2="-0.020297"
+        stCamera:RadialDistortParam3="0.02009">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.628731"
+        stCamera:FocalLengthY="0.628731"
+        stCamera:VignetteModelParam1="-0.653294"
+        stCamera:VignetteModelParam2="0.348301"
+        stCamera:VignetteModelParam3="-0.106353"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.628731"
+        stCamera:FocalLengthY="0.628731"
+        stCamera:ImageXCenter="0.492069"
+        stCamera:ImageYCenter="0.499174"
+        stCamera:RadialDistortParam1="0.005911"
+        stCamera:RadialDistortParam2="-0.020297"
+        stCamera:RadialDistortParam3="0.02009">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.628731"
+        stCamera:FocalLengthY="0.628731"
+        stCamera:VignetteModelParam1="-0.627342"
+        stCamera:VignetteModelParam2="0.280932"
+        stCamera:VignetteModelParam3="-0.065426"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="1.04"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.761459"
+        stCamera:FocalLengthY="0.761459"
+        stCamera:ImageXCenter="0.4971"
+        stCamera:ImageYCenter="0.498946"
+        stCamera:RadialDistortParam1="0.008402"
+        stCamera:RadialDistortParam2="0.000755"
+        stCamera:RadialDistortParam3="0.012231">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.761459"
+        stCamera:FocalLengthY="0.761459"
+        stCamera:VignetteModelParam1="-1.527333"
+        stCamera:VignetteModelParam2="1.146215"
+        stCamera:VignetteModelParam3="-0.357658"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="1.04"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.761459"
+        stCamera:FocalLengthY="0.761459"
+        stCamera:ImageXCenter="0.4971"
+        stCamera:ImageYCenter="0.498946"
+        stCamera:RadialDistortParam1="0.008402"
+        stCamera:RadialDistortParam2="0.000755"
+        stCamera:RadialDistortParam3="0.012231">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.761459"
+        stCamera:FocalLengthY="0.761459"
+        stCamera:VignetteModelParam1="-0.791017"
+        stCamera:VignetteModelParam2="-0.263918"
+        stCamera:VignetteModelParam3="0.494617"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="1.04"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.761459"
+        stCamera:FocalLengthY="0.761459"
+        stCamera:ImageXCenter="0.4971"
+        stCamera:ImageYCenter="0.498946"
+        stCamera:RadialDistortParam1="0.008402"
+        stCamera:RadialDistortParam2="0.000755"
+        stCamera:RadialDistortParam3="0.012231">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.761459"
+        stCamera:FocalLengthY="0.761459"
+        stCamera:VignetteModelParam1="-0.931855"
+        stCamera:VignetteModelParam2="0.82147"
+        stCamera:VignetteModelParam3="-0.587077"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="1.04"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.761459"
+        stCamera:FocalLengthY="0.761459"
+        stCamera:ImageXCenter="0.4971"
+        stCamera:ImageYCenter="0.498946"
+        stCamera:RadialDistortParam1="0.008402"
+        stCamera:RadialDistortParam2="0.000755"
+        stCamera:RadialDistortParam3="0.012231">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.761459"
+        stCamera:FocalLengthY="0.761459"
+        stCamera:VignetteModelParam1="-0.907417"
+        stCamera:VignetteModelParam2="0.602969"
+        stCamera:VignetteModelParam3="-0.227095"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="1.04"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.761459"
+        stCamera:FocalLengthY="0.761459"
+        stCamera:ImageXCenter="0.4971"
+        stCamera:ImageYCenter="0.498946"
+        stCamera:RadialDistortParam1="0.008402"
+        stCamera:RadialDistortParam2="0.000755"
+        stCamera:RadialDistortParam3="0.012231">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.761459"
+        stCamera:FocalLengthY="0.761459"
+        stCamera:VignetteModelParam1="-0.933224"
+        stCamera:VignetteModelParam2="0.657264"
+        stCamera:VignetteModelParam3="-0.260557"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.741046"
+        stCamera:FocalLengthY="0.741046"
+        stCamera:ImageXCenter="0.495676"
+        stCamera:ImageYCenter="0.497742"
+        stCamera:RadialDistortParam1="0.007298"
+        stCamera:RadialDistortParam2="0.015269"
+        stCamera:RadialDistortParam3="-0.005435">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.741046"
+        stCamera:FocalLengthY="0.741046"
+        stCamera:VignetteModelParam1="-1.500832"
+        stCamera:VignetteModelParam2="1.123206"
+        stCamera:VignetteModelParam3="-0.365304"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.741046"
+        stCamera:FocalLengthY="0.741046"
+        stCamera:ImageXCenter="0.495676"
+        stCamera:ImageYCenter="0.497742"
+        stCamera:RadialDistortParam1="0.007298"
+        stCamera:RadialDistortParam2="0.015269"
+        stCamera:RadialDistortParam3="-0.005435">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.741046"
+        stCamera:FocalLengthY="0.741046"
+        stCamera:VignetteModelParam1="-0.719361"
+        stCamera:VignetteModelParam2="-0.351318"
+        stCamera:VignetteModelParam3="0.524942"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.741046"
+        stCamera:FocalLengthY="0.741046"
+        stCamera:ImageXCenter="0.495676"
+        stCamera:ImageYCenter="0.497742"
+        stCamera:RadialDistortParam1="0.007298"
+        stCamera:RadialDistortParam2="0.015269"
+        stCamera:RadialDistortParam3="-0.005435">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.741046"
+        stCamera:FocalLengthY="0.741046"
+        stCamera:VignetteModelParam1="-0.862451"
+        stCamera:VignetteModelParam2="0.68998"
+        stCamera:VignetteModelParam3="-0.475151"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.741046"
+        stCamera:FocalLengthY="0.741046"
+        stCamera:ImageXCenter="0.495676"
+        stCamera:ImageYCenter="0.497742"
+        stCamera:RadialDistortParam1="0.007298"
+        stCamera:RadialDistortParam2="0.015269"
+        stCamera:RadialDistortParam3="-0.005435">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.741046"
+        stCamera:FocalLengthY="0.741046"
+        stCamera:VignetteModelParam1="-0.829206"
+        stCamera:VignetteModelParam2="0.466229"
+        stCamera:VignetteModelParam3="-0.149021"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.741046"
+        stCamera:FocalLengthY="0.741046"
+        stCamera:ImageXCenter="0.495676"
+        stCamera:ImageYCenter="0.497742"
+        stCamera:RadialDistortParam1="0.007298"
+        stCamera:RadialDistortParam2="0.015269"
+        stCamera:RadialDistortParam3="-0.005435">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.741046"
+        stCamera:FocalLengthY="0.741046"
+        stCamera:VignetteModelParam1="-0.80984"
+        stCamera:VignetteModelParam2="0.40161"
+        stCamera:VignetteModelParam3="-0.107085"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.384067"
+        stCamera:FocalLengthY="0.384067"
+        stCamera:ImageXCenter="0.482013"
+        stCamera:ImageYCenter="0.495626"
+        stCamera:RadialDistortParam1="0.000738"
+        stCamera:RadialDistortParam2="0.000037"
+        stCamera:RadialDistortParam3="0.00009">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.384067"
+        stCamera:FocalLengthY="0.384067"
+        stCamera:VignetteModelParam1="-0.612553"
+        stCamera:VignetteModelParam2="0.283805"
+        stCamera:VignetteModelParam3="-0.053291"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.384067"
+        stCamera:FocalLengthY="0.384067"
+        stCamera:ImageXCenter="0.482013"
+        stCamera:ImageYCenter="0.495626"
+        stCamera:RadialDistortParam1="0.000738"
+        stCamera:RadialDistortParam2="0.000037"
+        stCamera:RadialDistortParam3="0.00009">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.384067"
+        stCamera:FocalLengthY="0.384067"
+        stCamera:VignetteModelParam1="-0.16577"
+        stCamera:VignetteModelParam2="-0.053258"
+        stCamera:VignetteModelParam3="0.018215"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.384067"
+        stCamera:FocalLengthY="0.384067"
+        stCamera:ImageXCenter="0.482013"
+        stCamera:ImageYCenter="0.495626"
+        stCamera:RadialDistortParam1="0.000738"
+        stCamera:RadialDistortParam2="0.000037"
+        stCamera:RadialDistortParam3="0.00009">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.384067"
+        stCamera:FocalLengthY="0.384067"
+        stCamera:VignetteModelParam1="-0.215274"
+        stCamera:VignetteModelParam2="0.066465"
+        stCamera:VignetteModelParam3="-0.017981"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.384067"
+        stCamera:FocalLengthY="0.384067"
+        stCamera:ImageXCenter="0.482013"
+        stCamera:ImageYCenter="0.495626"
+        stCamera:RadialDistortParam1="0.000738"
+        stCamera:RadialDistortParam2="0.000037"
+        stCamera:RadialDistortParam3="0.00009">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.384067"
+        stCamera:FocalLengthY="0.384067"
+        stCamera:VignetteModelParam1="-0.206401"
+        stCamera:VignetteModelParam2="0.040719"
+        stCamera:VignetteModelParam3="-0.005044"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.384067"
+        stCamera:FocalLengthY="0.384067"
+        stCamera:ImageXCenter="0.482013"
+        stCamera:ImageYCenter="0.495626"
+        stCamera:RadialDistortParam1="0.000738"
+        stCamera:RadialDistortParam2="0.000037"
+        stCamera:RadialDistortParam3="0.00009">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.384067"
+        stCamera:FocalLengthY="0.384067"
+        stCamera:VignetteModelParam1="-0.214723"
+        stCamera:VignetteModelParam2="0.045637"
+        stCamera:VignetteModelParam3="-0.005928"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.49"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.581636"
+        stCamera:FocalLengthY="0.581636"
+        stCamera:ImageXCenter="0.486105"
+        stCamera:ImageYCenter="0.496461"
+        stCamera:RadialDistortParam1="0.012121"
+        stCamera:RadialDistortParam2="-0.010717"
+        stCamera:RadialDistortParam3="0.007483">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.581636"
+        stCamera:FocalLengthY="0.581636"
+        stCamera:VignetteModelParam1="-1.496967"
+        stCamera:VignetteModelParam2="1.623977"
+        stCamera:VignetteModelParam3="-0.704855"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.49"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.581636"
+        stCamera:FocalLengthY="0.581636"
+        stCamera:ImageXCenter="0.486105"
+        stCamera:ImageYCenter="0.496461"
+        stCamera:RadialDistortParam1="0.012121"
+        stCamera:RadialDistortParam2="-0.010717"
+        stCamera:RadialDistortParam3="0.007483">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.581636"
+        stCamera:FocalLengthY="0.581636"
+        stCamera:VignetteModelParam1="-0.364733"
+        stCamera:VignetteModelParam2="-0.308177"
+        stCamera:VignetteModelParam3="0.234349"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.49"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.581636"
+        stCamera:FocalLengthY="0.581636"
+        stCamera:ImageXCenter="0.486105"
+        stCamera:ImageYCenter="0.496461"
+        stCamera:RadialDistortParam1="0.012121"
+        stCamera:RadialDistortParam2="-0.010717"
+        stCamera:RadialDistortParam3="0.007483">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.581636"
+        stCamera:FocalLengthY="0.581636"
+        stCamera:VignetteModelParam1="-0.47244"
+        stCamera:VignetteModelParam2="0.313334"
+        stCamera:VignetteModelParam3="-0.199638"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.49"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.581636"
+        stCamera:FocalLengthY="0.581636"
+        stCamera:ImageXCenter="0.486105"
+        stCamera:ImageYCenter="0.496461"
+        stCamera:RadialDistortParam1="0.012121"
+        stCamera:RadialDistortParam2="-0.010717"
+        stCamera:RadialDistortParam3="0.007483">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.581636"
+        stCamera:FocalLengthY="0.581636"
+        stCamera:VignetteModelParam1="-0.436336"
+        stCamera:VignetteModelParam2="0.145483"
+        stCamera:VignetteModelParam3="-0.026466"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.49"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.581636"
+        stCamera:FocalLengthY="0.581636"
+        stCamera:ImageXCenter="0.486105"
+        stCamera:ImageYCenter="0.496461"
+        stCamera:RadialDistortParam1="0.012121"
+        stCamera:RadialDistortParam2="-0.010717"
+        stCamera:RadialDistortParam3="0.007483">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.581636"
+        stCamera:FocalLengthY="0.581636"
+        stCamera:VignetteModelParam1="-0.439602"
+        stCamera:VignetteModelParam2="0.139873"
+        stCamera:VignetteModelParam3="-0.020189"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.09"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.95733"
+        stCamera:FocalLengthY="0.95733"
+        stCamera:ImageXCenter="0.493887"
+        stCamera:ImageYCenter="0.498049"
+        stCamera:RadialDistortParam1="0.042097"
+        stCamera:RadialDistortParam2="-0.104895"
+        stCamera:RadialDistortParam3="0.190471">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.95733"
+        stCamera:FocalLengthY="0.95733"
+        stCamera:VignetteModelParam1="-4.02911"
+        stCamera:VignetteModelParam2="11.603215"
+        stCamera:VignetteModelParam3="-13.491147"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.09"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.95733"
+        stCamera:FocalLengthY="0.95733"
+        stCamera:ImageXCenter="0.493887"
+        stCamera:ImageYCenter="0.498049"
+        stCamera:RadialDistortParam1="0.042097"
+        stCamera:RadialDistortParam2="-0.104895"
+        stCamera:RadialDistortParam3="0.190471">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.95733"
+        stCamera:FocalLengthY="0.95733"
+        stCamera:VignetteModelParam1="-1.01301"
+        stCamera:VignetteModelParam2="-2.133134"
+        stCamera:VignetteModelParam3="4.453582"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.09"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.95733"
+        stCamera:FocalLengthY="0.95733"
+        stCamera:ImageXCenter="0.493887"
+        stCamera:ImageYCenter="0.498049"
+        stCamera:RadialDistortParam1="0.042097"
+        stCamera:RadialDistortParam2="-0.104895"
+        stCamera:RadialDistortParam3="0.190471">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.95733"
+        stCamera:FocalLengthY="0.95733"
+        stCamera:VignetteModelParam1="-1.296569"
+        stCamera:VignetteModelParam2="2.365896"
+        stCamera:VignetteModelParam3="-4.020842"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.09"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.95733"
+        stCamera:FocalLengthY="0.95733"
+        stCamera:ImageXCenter="0.493887"
+        stCamera:ImageYCenter="0.498049"
+        stCamera:RadialDistortParam1="0.042097"
+        stCamera:RadialDistortParam2="-0.104895"
+        stCamera:RadialDistortParam3="0.190471">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.95733"
+        stCamera:FocalLengthY="0.95733"
+        stCamera:VignetteModelParam1="-1.242811"
+        stCamera:VignetteModelParam2="1.326892"
+        stCamera:VignetteModelParam3="-0.776459"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.09"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.95733"
+        stCamera:FocalLengthY="0.95733"
+        stCamera:ImageXCenter="0.493887"
+        stCamera:ImageYCenter="0.498049"
+        stCamera:RadialDistortParam1="0.042097"
+        stCamera:RadialDistortParam2="-0.104895"
+        stCamera:RadialDistortParam3="0.190471">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.95733"
+        stCamera:FocalLengthY="0.95733"
+        stCamera:VignetteModelParam1="-1.255192"
+        stCamera:VignetteModelParam2="1.298261"
+        stCamera:VignetteModelParam3="-0.656234"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.88557"
+        stCamera:FocalLengthY="0.88557"
+        stCamera:ImageXCenter="0.495568"
+        stCamera:ImageYCenter="0.498054"
+        stCamera:RadialDistortParam1="0.017664"
+        stCamera:RadialDistortParam2="0.049933"
+        stCamera:RadialDistortParam3="-0.062601">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.88557"
+        stCamera:FocalLengthY="0.88557"
+        stCamera:VignetteModelParam1="-3.5033"
+        stCamera:VignetteModelParam2="8.604908"
+        stCamera:VignetteModelParam3="-8.538554"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.88557"
+        stCamera:FocalLengthY="0.88557"
+        stCamera:ImageXCenter="0.495568"
+        stCamera:ImageYCenter="0.498054"
+        stCamera:RadialDistortParam1="0.017664"
+        stCamera:RadialDistortParam2="0.049933"
+        stCamera:RadialDistortParam3="-0.062601">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.88557"
+        stCamera:FocalLengthY="0.88557"
+        stCamera:VignetteModelParam1="-0.84879"
+        stCamera:VignetteModelParam2="-1.605047"
+        stCamera:VignetteModelParam3="2.831117"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.88557"
+        stCamera:FocalLengthY="0.88557"
+        stCamera:ImageXCenter="0.495568"
+        stCamera:ImageYCenter="0.498054"
+        stCamera:RadialDistortParam1="0.017664"
+        stCamera:RadialDistortParam2="0.049933"
+        stCamera:RadialDistortParam3="-0.062601">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.88557"
+        stCamera:FocalLengthY="0.88557"
+        stCamera:VignetteModelParam1="-1.129671"
+        stCamera:VignetteModelParam2="1.790128"
+        stCamera:VignetteModelParam3="-2.543707"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.88557"
+        stCamera:FocalLengthY="0.88557"
+        stCamera:ImageXCenter="0.495568"
+        stCamera:ImageYCenter="0.498054"
+        stCamera:RadialDistortParam1="0.017664"
+        stCamera:RadialDistortParam2="0.049933"
+        stCamera:RadialDistortParam3="-0.062601">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.88557"
+        stCamera:FocalLengthY="0.88557"
+        stCamera:VignetteModelParam1="-1.097042"
+        stCamera:VignetteModelParam2="1.08672"
+        stCamera:VignetteModelParam3="-0.589909"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="507"
+       stCamera:Lens="EF16-35mm f/4L IS USM"
+       stCamera:LensInfo="16/1 35/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 16-35mm f/4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 16-35mm f/4L IS USM) v2"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.88557"
+        stCamera:FocalLengthY="0.88557"
+        stCamera:ImageXCenter="0.495568"
+        stCamera:ImageYCenter="0.498054"
+        stCamera:RadialDistortParam1="0.017664"
+        stCamera:RadialDistortParam2="0.049933"
+        stCamera:RadialDistortParam3="-0.062601">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.88557"
+        stCamera:FocalLengthY="0.88557"
+        stCamera:VignetteModelParam1="-1.070051"
+        stCamera:VignetteModelParam2="0.894985"
+        stCamera:VignetteModelParam3="-0.305537"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

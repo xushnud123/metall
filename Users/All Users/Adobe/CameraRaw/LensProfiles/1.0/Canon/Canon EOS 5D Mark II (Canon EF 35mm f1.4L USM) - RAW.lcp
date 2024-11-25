@@ -1,0 +1,1896 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.2-c020 1.124078, Tue Sep 11 2007 23:21:40        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.29</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.028017</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.028017</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500756</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.486652</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000114</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000109</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.117221</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.156221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.056887</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.500769</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.486656</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000096</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00011</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000516</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001037</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.001842</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.000924</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.500769</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.486656</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000095</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000111</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.117369</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.156211</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.057423</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.500769</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.486656</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000096</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000111</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999566</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001224</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.004552</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.003959</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.67</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.012572</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.012572</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501001</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.485452</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000255</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000304</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.106675</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.219741</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.150239</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.012625</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.012625</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501009</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.485452</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000252</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000306</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000456</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001083</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.002287</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.000531</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.012625</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.012625</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501009</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.485452</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000252</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000307</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.106901</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.220076</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.151602</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.012625</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.012625</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501009</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.485452</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000252</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000308</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999609</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001674</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.00269</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.001356</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.947953</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.966814</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.966814</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501825</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.48654</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000092</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.0001</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.104844</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.153396</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.031801</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.966873</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.966873</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501788</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.486492</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000085</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000109</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000454</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001291</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.00144</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.000298</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.966873</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.966873</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501788</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.486492</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000085</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00011</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.105238</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.154735</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.034838</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.966873</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.966873</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501788</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.486492</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000086</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00011</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999601</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.00217</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000594</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.007249</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.073536</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932528</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932528</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502771</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488487</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000086</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000074</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.107528</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.132898</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.016173</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.502758</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.488457</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000082</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00008</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.00056</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001642</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000676</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.002658</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.502758</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.488457</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000082</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00008</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.107866</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.13412</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.018884</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.502758</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.488457</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000082</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000081</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999483</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.002866</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.002261</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.011539</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.29</stCamera:FocusDistance>
+      <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500769</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.486656</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.117369</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.156211</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.057423</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.440945</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>3.237354</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3.900391</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.29</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500769</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.486656</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.117369</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.156211</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.057423</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.922888</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-4.667204</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>7.535327</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.29</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.695994</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500769</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.486656</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.117369</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.156211</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.057423</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.215031</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-6.355641</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>8.122091</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.29</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500769</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.486656</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.117369</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.156211</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.057423</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.198281</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-2.106902</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1.2835</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.29</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500769</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.486656</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.117369</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.156211</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.057423</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.405671</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.616518</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3.255913</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.29</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500769</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.486656</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.117369</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.156211</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.057423</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.295302</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-1.009312</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1.708459</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.29</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500769</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.486656</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.117369</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.156211</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.057423</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.305739</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.961649</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1.654767</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.29</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500769</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.486656</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.117369</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.156211</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.057423</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.312893</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.916589</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1.564224</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.29</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500769</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.486656</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.117369</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.156211</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.057423</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.028073</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.028073</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.315973</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.852212</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1.405688</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.43</stCamera:FocusDistance>
+      <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500907</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.485965</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.110023</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.207503</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.132373</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.028211</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>6.175797</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-8.190474</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.43</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500907</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.485965</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.110023</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.207503</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.132373</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.238872</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-3.572778</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>6.213418</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.43</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.695994</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500907</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.485965</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.110023</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.207503</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.132373</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.362712</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-6.21023</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>8.194456</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.43</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500907</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.485965</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.110023</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.207503</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.132373</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.10833</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-4.129399</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>2.809816</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.43</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500907</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.485965</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.110023</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.207503</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.132373</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.445542</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1.253082</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-6.119482</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.43</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500907</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.485965</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.110023</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.207503</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.132373</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.318233</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.871359</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1.140756</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.43</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500907</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.485965</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.110023</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.207503</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.132373</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.315541</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.990746</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1.541829</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.43</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500907</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.485965</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.110023</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.207503</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.132373</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.312103</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-1.007172</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1.555629</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.43</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500907</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.485965</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.110023</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.207503</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.132373</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.019205</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.019205</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.317473</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.996227</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1.551994</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501861</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.48664</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107548</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.153145</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.03126</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.469784</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>8.309689</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-10.260386</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501861</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.48664</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107548</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.153145</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.03126</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.622121</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-1.04569</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>2.395264</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.695994</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501861</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.48664</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107548</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.153145</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.03126</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.713705</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-4.174495</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>5.408261</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501861</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.48664</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107548</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.153145</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.03126</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.142951</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-4.448146</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>4.345279</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501861</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.48664</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107548</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.153145</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.03126</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.36622</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.260945</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3.904637</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501861</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.48664</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107548</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.153145</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.03126</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.444024</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.55302</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.382961</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501861</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.48664</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107548</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.153145</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.03126</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.355456</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.670366</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.920465</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501861</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.48664</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107548</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.153145</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.03126</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.363973</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.629126</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.867338</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501861</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.48664</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107548</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.153145</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.03126</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.964295</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.964295</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.368865</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.601355</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.811233</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502747</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488436</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107896</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.134335</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018982</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.43277</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>8.051221</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-9.388064</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502747</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488436</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107896</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.134335</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018982</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.676514</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.297444</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1.187675</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.695994</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502747</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488436</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107896</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.134335</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018982</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.7847</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-3.393256</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>4.218132</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502747</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488436</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107896</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.134335</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018982</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.109954</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-4.394061</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>4.394799</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502747</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488436</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107896</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.134335</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018982</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.251006</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.531381</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.238776</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502747</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488436</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107896</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.134335</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018982</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.432592</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.839071</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3.105783</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502747</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488436</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107896</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.134335</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018982</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.325752</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.602821</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.614983</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502747</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488436</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107896</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.134335</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018982</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.34731</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.564854</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.657986</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502747</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488436</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107896</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.134335</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018982</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932995</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932995</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.37812</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.45268</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.515847</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502758</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488457</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107866</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.13412</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018884</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.571089</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>8.54672</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-9.94005</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502758</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488457</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107866</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.13412</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018884</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.876574</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.427298</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.391519</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.695994</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502758</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488457</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107866</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.13412</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018884</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.966519</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-2.788111</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>3.576011</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502758</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488457</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107866</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.13412</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018884</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.247761</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-4.218839</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>4.317167</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502758</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488457</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107866</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.13412</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018884</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.259126</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.958872</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1.498031</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502758</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488457</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107866</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.13412</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018884</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.507335</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1.208804</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-4.004464</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502758</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488457</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107866</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.13412</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018884</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.384976</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.411085</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.23928</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502758</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488457</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107866</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.13412</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018884</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.384774</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.570162</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.717821</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 5D Mark II</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 5D Mark II</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>180</stCamera:LensID>
+      <stCamera:Lens>EF35mm f/1.4L USM</stCamera:Lens>
+      <stCamera:LensInfo>35/1 35/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 5D Mark II</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF 35mm f/1.4 L USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF 35mm f/1.4 L USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>0.973055</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5634</stCamera:ImageWidth>
+      <stCamera:ImageLength>3753</stCamera:ImageLength>
+      <stCamera:FocalLength>35</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502758</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.488457</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.107866</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.13412</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.018884</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.932621</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.932621</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.400097</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.482792</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.60154</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

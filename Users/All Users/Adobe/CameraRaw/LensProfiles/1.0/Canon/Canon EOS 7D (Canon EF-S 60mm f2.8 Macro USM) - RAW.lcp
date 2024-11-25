@@ -1,0 +1,1766 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.1-c055 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.21</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.20132</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.20132</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000079</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000068</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>0.000001</stCamera:RadialDistortParam1>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000078</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000067</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.9995</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.0000001</stCamera:RadialDistortParam1>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000078</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000067</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>0.000001</stCamera:RadialDistortParam1>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000078</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000067</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.0</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000001</stCamera:RadialDistortParam1>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.20132</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.20132</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000079</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000068</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>0.00001</stCamera:RadialDistortParam1>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000078</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000067</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.9998</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.0000001</stCamera:RadialDistortParam1>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000078</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000067</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>0.00001</stCamera:RadialDistortParam1>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000078</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000067</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.0002</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000001</stCamera:RadialDistortParam1>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.52</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.20132</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.20132</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000079</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000068</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.153468</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.09041</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-44.151591</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000078</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000067</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.00015</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.00218</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.004669</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.847956</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000078</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000067</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000078</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000067</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000051</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.004035</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.082619</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.57128</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.4</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.894562</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.894562</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000069</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000046</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.119382</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.272251</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1.995034</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.89415</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.89415</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000061</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000042</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000338</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000697</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.018742</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.643087</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.89415</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.89415</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000061</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000042</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.118815</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>1.241008</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>2.392184</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.89415</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.89415</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000062</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000042</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999896</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001786</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.088592</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.607354</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.76</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.762958</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.762958</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.00017</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000184</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.088125</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.512421</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>41.139366</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000166</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000183</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.0004</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000106</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.061349</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.629988</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000165</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000183</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.088051</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.518825</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>41.167105</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000166</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000182</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999854</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000748</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.076032</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.58114</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.21</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.120863</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-312.921553</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>4860.322426</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.21</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.982361</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-41.56263</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-401.520029</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.21</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.61471</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.071435</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>15.860713</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-705.381906</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.21</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.509829</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-65.641046</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1754.995045</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.21</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.606264</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-62.323674</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1721.817495</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.21</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.581974</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-63.87425</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1716.868735</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.21</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.514399</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-68.036946</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1753.813161</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.21</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.662264</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-71.252001</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1919.551993</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>1.197081</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-410.088346</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>5990.123538</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.552918</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-150.739072</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>843.615855</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.61471</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.769705</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>57.714848</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3125.272823</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.924468</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>37.401466</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1241.747284</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.222573</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-61.884571</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1705.113593</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.137802</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-67.602993</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1790.931623</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.297149</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-64.361784</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1801.782341</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.956594</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-89.125459</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>2172.494918</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.547529</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-385.557365</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>5931.329327</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.892834</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-435.241459</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>5534.801488</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.61471</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.738753</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-269.442601</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>2252.039758</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.967595</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>79.04613</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3862.5015</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.98443</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-80.74417</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>2175.538349</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.761274</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-93.502587</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>2380.08724</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.406167</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-110.576226</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>2586.717788</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.153059</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.076774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-43.993839</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.201245</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.201245</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.066164</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-129.274811</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>2811.926427</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.99</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.126005</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.398047</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1.58449</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-15.493073</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>118.455307</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-427.106467</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.99</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.126005</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.398047</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1.58449</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.361744</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-410.514646</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>5913.902003</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.99</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.61471</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.126005</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.398047</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1.58449</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>1.029305</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-359.997847</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>4003.788154</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.99</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.126005</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.398047</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1.58449</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.057424</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-106.217358</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-11.806757</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.99</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.126005</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.398047</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1.58449</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.629775</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-63.656581</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1324.550209</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.99</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.126005</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.398047</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1.58449</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.424606</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-78.158834</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1642.485689</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.99</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.126005</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.398047</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1.58449</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.237375</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-87.272764</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1759.266029</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.99</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.126005</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.398047</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1.58449</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.969302</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.969302</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.044147</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-100.272799</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1943.193373</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.088051</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.518825</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>41.167105</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-25.761231</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>504.756788</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-4513.377159</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.088051</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.518825</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>41.167105</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-13.48955</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>6.587665</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>963.514013</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.61471</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.088051</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.518825</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>41.167105</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.946692</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-295.183852</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>4060.21168</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.088051</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.518825</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>41.167105</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>1.180392</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-379.719963</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>4177.294136</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.088051</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.518825</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>41.167105</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.643481</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>43.054301</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1175.526884</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.088051</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.518825</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>41.167105</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.788443</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-45.523071</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>955.958246</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.088051</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.518825</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>41.167105</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.618714</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-51.971659</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1023.087401</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 7D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 7D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>236</stCamera:LensID>
+      <stCamera:Lens>EF-S60mm f/2.8 Macro USM</stCamera:Lens>
+      <stCamera:LensInfo>60/1 60/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 7D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 60mm f/2.8 Macro USM</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 60mm f/2.8 Macro USM)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.565304</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>5202</stCamera:ImageWidth>
+      <stCamera:ImageLength>3465</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499856</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.088051</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.518825</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>41.167105</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.76238</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.76238</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.249646</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-68.52067</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1200.072168</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

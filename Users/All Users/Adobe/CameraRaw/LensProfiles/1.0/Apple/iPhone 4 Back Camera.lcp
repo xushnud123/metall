@@ -1,0 +1,78 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.1-c055 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Apple</stCamera:Make>
+      <stCamera:Model>iPhone</stCamera:Model>
+      <stCamera:CameraRawProfile>False</stCamera:CameraRawProfile>
+      <stCamera:CameraPrettyName>Apple iPhone 4</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Apple iPhone 4, Back Camera</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Apple iPhone 4, Back Camera)</stCamera:ProfileName>
+      <stCamera:ImageWidth>2592</stCamera:ImageWidth>
+      <stCamera:ImageLength>1936</stCamera:ImageLength>
+      <stCamera:FocalLength>3.85</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.291457</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.526069</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.963349</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.963349</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.495117</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.504897</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.001555</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.003265</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>0.225343</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-1.050546</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1.358476</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.963256</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.963256</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.495109</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.504853</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.00156</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.003276</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000138</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.002058</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.009228</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.011136</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.963256</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.963256</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.495109</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.504853</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.001559</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.003275</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>0.22537</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-1.051896</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>1.361597</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.963256</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.963256</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.495109</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.504853</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.001559</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.003274</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999918</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001297</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.002783</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.001481</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.963256</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.963256</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.000001</stCamera:VignetteModelParam1>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

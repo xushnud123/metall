@@ -1,0 +1,3311 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.606353"
+       stCamera:FocalLengthY="1.606353"
+       stCamera:ResidualMeanError="0.000191"
+       stCamera:ResidualStandardDeviation="0.00012"
+       stCamera:RadialDistortParam1="-0.101134"
+       stCamera:RadialDistortParam2="0.074799"
+       stCamera:RadialDistortParam3="-0.20323"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3.34"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.17502"
+       stCamera:FocalLengthY="2.17502"
+       stCamera:ResidualMeanError="0.000155"
+       stCamera:ResidualStandardDeviation="0.000089"
+       stCamera:RadialDistortParam1="-0.210742"
+       stCamera:RadialDistortParam2="0.23758"
+       stCamera:RadialDistortParam3="-0.275412"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="7.75"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.092862"
+       stCamera:FocalLengthY="2.092862"
+       stCamera:ResidualMeanError="0.000077"
+       stCamera:ResidualStandardDeviation="0.000046"
+       stCamera:RadialDistortParam1="-0.289384"
+       stCamera:RadialDistortParam2="0.51746"
+       stCamera:RadialDistortParam3="-0.309999"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="5.668928"
+       stCamera:FocalLengthY="5.668928"
+       stCamera:ResidualMeanError="0.000288"
+       stCamera:ResidualStandardDeviation="0.000313"
+       stCamera:RadialDistortParam1="1.091028"
+       stCamera:RadialDistortParam2="-122.78021"
+       stCamera:RadialDistortParam3="7981.138112"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="3.34"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="4.404829"
+       stCamera:FocalLengthY="4.404829"
+       stCamera:ResidualMeanError="0.000147"
+       stCamera:ResidualStandardDeviation="0.000188"
+       stCamera:RadialDistortParam1="0.010273"
+       stCamera:RadialDistortParam2="-17.759617"
+       stCamera:RadialDistortParam3="735.573988"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="7.75"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.516562"
+       stCamera:FocalLengthY="2.516562"
+       stCamera:ResidualMeanError="0.000104"
+       stCamera:ResidualStandardDeviation="0.000073"
+       stCamera:RadialDistortParam1="-0.150623"
+       stCamera:RadialDistortParam2="1.678674"
+       stCamera:RadialDistortParam3="-8.552003"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="1.29"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="13.863239"
+       stCamera:FocalLengthY="13.863239"
+       stCamera:ResidualMeanError="0.000194"
+       stCamera:ResidualStandardDeviation="0.000097"
+       stCamera:RadialDistortParam1="9.99875"
+       stCamera:RadialDistortParam2="56.987441"
+       stCamera:RadialDistortParam3="7512.010897"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="3.34"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="9.685188"
+       stCamera:FocalLengthY="9.685188"
+       stCamera:ResidualMeanError="0.000103"
+       stCamera:ResidualStandardDeviation="0.000063"
+       stCamera:RadialDistortParam1="2.734624"
+       stCamera:RadialDistortParam2="137.092945"
+       stCamera:RadialDistortParam3="5259.397321"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="7.75"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="3.337404"
+       stCamera:FocalLengthY="3.337404"
+       stCamera:ResidualMeanError="0.000117"
+       stCamera:ResidualStandardDeviation="0.000069"
+       stCamera:RadialDistortParam1="0.320739"
+       stCamera:RadialDistortParam2="1.409275"
+       stCamera:RadialDistortParam3="27.681338"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.49"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="14.903456"
+       stCamera:FocalLengthY="14.903456"
+       stCamera:ResidualMeanError="0.000238"
+       stCamera:ResidualStandardDeviation="0.000132"
+       stCamera:RadialDistortParam1="11.037566"
+       stCamera:RadialDistortParam2="435.649607"
+       stCamera:RadialDistortParam3="1217.037309"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="4.37"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="10.879162"
+       stCamera:FocalLengthY="10.879162"
+       stCamera:ResidualMeanError="0.000115"
+       stCamera:ResidualStandardDeviation="0.000071"
+       stCamera:RadialDistortParam1="5.451605"
+       stCamera:RadialDistortParam2="270.236912"
+       stCamera:RadialDistortParam3="306.162484"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="7.75"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="8.689742"
+       stCamera:FocalLengthY="8.689742"
+       stCamera:ResidualMeanError="0.000107"
+       stCamera:ResidualStandardDeviation="0.000067"
+       stCamera:RadialDistortParam1="4.260428"
+       stCamera:RadialDistortParam2="53.716431"
+       stCamera:RadialDistortParam3="-200.015851"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.94"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="26.172961"
+       stCamera:FocalLengthY="26.172961"
+       stCamera:ResidualMeanError="0.00023"
+       stCamera:ResidualStandardDeviation="0.000113"
+       stCamera:RadialDistortParam1="38.468101"
+       stCamera:RadialDistortParam2="292.010766"
+       stCamera:RadialDistortParam3="-791.302869"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="5.79"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="11.533383"
+       stCamera:FocalLengthY="11.533383"
+       stCamera:ResidualMeanError="0.000124"
+       stCamera:ResidualStandardDeviation="0.000077"
+       stCamera:RadialDistortParam1="6.624604"
+       stCamera:RadialDistortParam2="280.626964"
+       stCamera:RadialDistortParam3="-174.238274"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="7.75"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="10.257792"
+       stCamera:FocalLengthY="10.257792"
+       stCamera:ResidualMeanError="0.000107"
+       stCamera:ResidualStandardDeviation="0.000076"
+       stCamera:RadialDistortParam1="5.304461"
+       stCamera:RadialDistortParam2="154.433317"
+       stCamera:RadialDistortParam3="318.015406"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.606353"
+        stCamera:FocalLengthY="1.606353"
+        stCamera:RadialDistortParam1="-0.101134"
+        stCamera:RadialDistortParam2="0.074799"
+        stCamera:RadialDistortParam3="-0.20323">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.606353"
+        stCamera:FocalLengthY="1.606353"
+        stCamera:VignetteModelParam1="-6.117601"
+        stCamera:VignetteModelParam2="27.03184"
+        stCamera:VignetteModelParam3="-90.98973"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.606353"
+        stCamera:FocalLengthY="1.606353"
+        stCamera:RadialDistortParam1="-0.101134"
+        stCamera:RadialDistortParam2="0.074799"
+        stCamera:RadialDistortParam3="-0.20323">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.606353"
+        stCamera:FocalLengthY="1.606353"
+        stCamera:VignetteModelParam1="0.652761"
+        stCamera:VignetteModelParam2="-40.934332"
+        stCamera:VignetteModelParam3="120.356083"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.606353"
+        stCamera:FocalLengthY="1.606353"
+        stCamera:RadialDistortParam1="-0.101134"
+        stCamera:RadialDistortParam2="0.074799"
+        stCamera:RadialDistortParam3="-0.20323">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.606353"
+        stCamera:FocalLengthY="1.606353"
+        stCamera:VignetteModelParam1="-1.144237"
+        stCamera:VignetteModelParam2="21.122436"
+        stCamera:VignetteModelParam3="-201.58446"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.606353"
+        stCamera:FocalLengthY="1.606353"
+        stCamera:RadialDistortParam1="-0.101134"
+        stCamera:RadialDistortParam2="0.074799"
+        stCamera:RadialDistortParam3="-0.20323">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.606353"
+        stCamera:FocalLengthY="1.606353"
+        stCamera:VignetteModelParam1="-0.716805"
+        stCamera:VignetteModelParam2="4.034818"
+        stCamera:VignetteModelParam3="-41.734179"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.606353"
+        stCamera:FocalLengthY="1.606353"
+        stCamera:RadialDistortParam1="-0.101134"
+        stCamera:RadialDistortParam2="0.074799"
+        stCamera:RadialDistortParam3="-0.20323">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.606353"
+        stCamera:FocalLengthY="1.606353"
+        stCamera:VignetteModelParam1="-0.299168"
+        stCamera:VignetteModelParam2="-10.034752"
+        stCamera:VignetteModelParam3="57.596307"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.668928"
+        stCamera:FocalLengthY="5.668928"
+        stCamera:RadialDistortParam1="1.091028"
+        stCamera:RadialDistortParam2="-122.78021"
+        stCamera:RadialDistortParam3="7981.138112">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.668928"
+        stCamera:FocalLengthY="5.668928"
+        stCamera:VignetteModelParam1="-88.409223"
+        stCamera:VignetteModelParam2="7307.869643"
+        stCamera:VignetteModelParam3="-329512.128119"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.668928"
+        stCamera:FocalLengthY="5.668928"
+        stCamera:RadialDistortParam1="1.091028"
+        stCamera:RadialDistortParam2="-122.78021"
+        stCamera:RadialDistortParam3="7981.138112">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.668928"
+        stCamera:FocalLengthY="5.668928"
+        stCamera:VignetteModelParam1="3.021242"
+        stCamera:VignetteModelParam2="-5547.938035"
+        stCamera:VignetteModelParam3="207820.040925"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.668928"
+        stCamera:FocalLengthY="5.668928"
+        stCamera:RadialDistortParam1="1.091028"
+        stCamera:RadialDistortParam2="-122.78021"
+        stCamera:RadialDistortParam3="7981.138112">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.668928"
+        stCamera:FocalLengthY="5.668928"
+        stCamera:VignetteModelParam1="-12.466798"
+        stCamera:VignetteModelParam2="3015.567391"
+        stCamera:VignetteModelParam3="-370804.212922"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.668928"
+        stCamera:FocalLengthY="5.668928"
+        stCamera:RadialDistortParam1="1.091028"
+        stCamera:RadialDistortParam2="-122.78021"
+        stCamera:RadialDistortParam3="7981.138112">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.668928"
+        stCamera:FocalLengthY="5.668928"
+        stCamera:VignetteModelParam1="-9.377194"
+        stCamera:VignetteModelParam2="549.90992"
+        stCamera:VignetteModelParam3="-61055.299"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.668928"
+        stCamera:FocalLengthY="5.668928"
+        stCamera:RadialDistortParam1="1.091028"
+        stCamera:RadialDistortParam2="-122.78021"
+        stCamera:RadialDistortParam3="7981.138112">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.668928"
+        stCamera:FocalLengthY="5.668928"
+        stCamera:VignetteModelParam1="-3.782306"
+        stCamera:VignetteModelParam2="-1538.794279"
+        stCamera:VignetteModelParam3="113977.77564"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.863239"
+        stCamera:FocalLengthY="13.863239"
+        stCamera:RadialDistortParam1="9.99875"
+        stCamera:RadialDistortParam2="56.987441"
+        stCamera:RadialDistortParam3="7512.010897">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.863239"
+        stCamera:FocalLengthY="13.863239"
+        stCamera:VignetteModelParam1="-522.884156"
+        stCamera:VignetteModelParam2="310833.98048"
+        stCamera:VignetteModelParam3="-95840289.325414"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.863239"
+        stCamera:FocalLengthY="13.863239"
+        stCamera:RadialDistortParam1="9.99875"
+        stCamera:RadialDistortParam2="56.987441"
+        stCamera:RadialDistortParam3="7512.010897">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.863239"
+        stCamera:FocalLengthY="13.863239"
+        stCamera:VignetteModelParam1="-29.743291"
+        stCamera:VignetteModelParam2="3194.441555"
+        stCamera:VignetteModelParam3="-38710796.942877"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.863239"
+        stCamera:FocalLengthY="13.863239"
+        stCamera:RadialDistortParam1="9.99875"
+        stCamera:RadialDistortParam2="56.987441"
+        stCamera:RadialDistortParam3="7512.010897">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.863239"
+        stCamera:FocalLengthY="13.863239"
+        stCamera:VignetteModelParam1="-61.79509"
+        stCamera:VignetteModelParam2="50520.792898"
+        stCamera:VignetteModelParam3="-31860908.026973"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.863239"
+        stCamera:FocalLengthY="13.863239"
+        stCamera:RadialDistortParam1="9.99875"
+        stCamera:RadialDistortParam2="56.987441"
+        stCamera:RadialDistortParam3="7512.010897">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.863239"
+        stCamera:FocalLengthY="13.863239"
+        stCamera:VignetteModelParam1="-32.846639"
+        stCamera:VignetteModelParam2="-38733.632951"
+        stCamera:VignetteModelParam3="18405710.989856"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="9.715962">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.863239"
+        stCamera:FocalLengthY="13.863239"
+        stCamera:RadialDistortParam1="9.99875"
+        stCamera:RadialDistortParam2="56.987441"
+        stCamera:RadialDistortParam3="7512.010897">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.863239"
+        stCamera:FocalLengthY="13.863239"
+        stCamera:VignetteModelParam1="-28.854443"
+        stCamera:VignetteModelParam2="-45641.546696"
+        stCamera:VignetteModelParam3="20991702.952526"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:RadialDistortParam1="11.037566"
+        stCamera:RadialDistortParam2="435.649607"
+        stCamera:RadialDistortParam3="1217.037309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:VignetteModelParam1="-411.995982"
+        stCamera:VignetteModelParam2="101936.061202"
+        stCamera:VignetteModelParam3="-35089596.04417"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:RadialDistortParam1="11.037566"
+        stCamera:RadialDistortParam2="435.649607"
+        stCamera:RadialDistortParam3="1217.037309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:VignetteModelParam1="-42.268365"
+        stCamera:VignetteModelParam2="18737.617692"
+        stCamera:VignetteModelParam3="-63737128.423679"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:RadialDistortParam1="11.037566"
+        stCamera:RadialDistortParam2="435.649607"
+        stCamera:RadialDistortParam3="1217.037309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:VignetteModelParam1="-47.924805"
+        stCamera:VignetteModelParam2="164.131122"
+        stCamera:VignetteModelParam3="-6433669.470392"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:RadialDistortParam1="11.037566"
+        stCamera:RadialDistortParam2="435.649607"
+        stCamera:RadialDistortParam3="1217.037309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:VignetteModelParam1="-29.171158"
+        stCamera:VignetteModelParam2="-54652.606757"
+        stCamera:VignetteModelParam3="27242688.200788"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="9.715962">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:RadialDistortParam1="11.037566"
+        stCamera:RadialDistortParam2="435.649607"
+        stCamera:RadialDistortParam3="1217.037309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:VignetteModelParam1="-42.076585"
+        stCamera:VignetteModelParam2="-43775.060372"
+        stCamera:VignetteModelParam3="25179954.99217"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="5.310704">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:RadialDistortParam1="38.468101"
+        stCamera:RadialDistortParam2="292.010766"
+        stCamera:RadialDistortParam3="-791.302869">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:VignetteModelParam1="-1380.819959"
+        stCamera:VignetteModelParam2="538412.888007"
+        stCamera:VignetteModelParam3="333075846.225854"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:RadialDistortParam1="38.468101"
+        stCamera:RadialDistortParam2="292.010766"
+        stCamera:RadialDistortParam3="-791.302869">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:VignetteModelParam1="123.720144"
+        stCamera:VignetteModelParam2="-3113262.344043"
+        stCamera:VignetteModelParam3="3153096128.52842"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:RadialDistortParam1="38.468101"
+        stCamera:RadialDistortParam2="292.010766"
+        stCamera:RadialDistortParam3="-791.302869">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:VignetteModelParam1="-104.098415"
+        stCamera:VignetteModelParam2="-309224.798309"
+        stCamera:VignetteModelParam3="493927475.851284"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:RadialDistortParam1="38.468101"
+        stCamera:RadialDistortParam2="292.010766"
+        stCamera:RadialDistortParam3="-791.302869">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:VignetteModelParam1="-85.667345"
+        stCamera:VignetteModelParam2="-434938.370823"
+        stCamera:VignetteModelParam3="702495515.407593"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="0.96"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:RadialDistortParam1="38.468101"
+        stCamera:RadialDistortParam2="292.010766"
+        stCamera:RadialDistortParam3="-791.302869">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:VignetteModelParam1="-106.088847"
+        stCamera:VignetteModelParam2="-353827.093024"
+        stCamera:VignetteModelParam3="610621437.10421"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.85323"
+        stCamera:FocalLengthY="1.85323"
+        stCamera:RadialDistortParam1="-0.147735"
+        stCamera:RadialDistortParam2="0.127307"
+        stCamera:RadialDistortParam3="-0.21237">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.85323"
+        stCamera:FocalLengthY="1.85323"
+        stCamera:VignetteModelParam1="-7.501012"
+        stCamera:VignetteModelParam2="36.161771"
+        stCamera:VignetteModelParam3="-151.654456"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.85323"
+        stCamera:FocalLengthY="1.85323"
+        stCamera:RadialDistortParam1="-0.147735"
+        stCamera:RadialDistortParam2="0.127307"
+        stCamera:RadialDistortParam3="-0.21237">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.85323"
+        stCamera:FocalLengthY="1.85323"
+        stCamera:VignetteModelParam1="0.817702"
+        stCamera:VignetteModelParam2="-68.757103"
+        stCamera:VignetteModelParam3="267.270287"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.85323"
+        stCamera:FocalLengthY="1.85323"
+        stCamera:RadialDistortParam1="-0.147735"
+        stCamera:RadialDistortParam2="0.127307"
+        stCamera:RadialDistortParam3="-0.21237">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.85323"
+        stCamera:FocalLengthY="1.85323"
+        stCamera:VignetteModelParam1="-1.482444"
+        stCamera:VignetteModelParam2="36.461835"
+        stCamera:VignetteModelParam3="-448.919961"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.85323"
+        stCamera:FocalLengthY="1.85323"
+        stCamera:RadialDistortParam1="-0.147735"
+        stCamera:RadialDistortParam2="0.127307"
+        stCamera:RadialDistortParam3="-0.21237">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.85323"
+        stCamera:FocalLengthY="1.85323"
+        stCamera:VignetteModelParam1="-0.943588"
+        stCamera:VignetteModelParam2="2.413158"
+        stCamera:VignetteModelParam3="-33.529778"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.85323"
+        stCamera:FocalLengthY="1.85323"
+        stCamera:RadialDistortParam1="-0.147735"
+        stCamera:RadialDistortParam2="0.127307"
+        stCamera:RadialDistortParam3="-0.21237">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.85323"
+        stCamera:FocalLengthY="1.85323"
+        stCamera:VignetteModelParam1="-0.696382"
+        stCamera:VignetteModelParam2="-11.639269"
+        stCamera:VignetteModelParam3="106.655836"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.12014"
+        stCamera:FocalLengthY="5.12014"
+        stCamera:RadialDistortParam1="0.354581"
+        stCamera:RadialDistortParam2="-51.587057"
+        stCamera:RadialDistortParam3="2793.680135">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.12014"
+        stCamera:FocalLengthY="5.12014"
+        stCamera:VignetteModelParam1="-67.690457"
+        stCamera:VignetteModelParam2="4189.719464"
+        stCamera:VignetteModelParam3="-148859.29731"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.12014"
+        stCamera:FocalLengthY="5.12014"
+        stCamera:RadialDistortParam1="0.354581"
+        stCamera:RadialDistortParam2="-51.587057"
+        stCamera:RadialDistortParam3="2793.680135">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.12014"
+        stCamera:FocalLengthY="5.12014"
+        stCamera:VignetteModelParam1="3.551287"
+        stCamera:VignetteModelParam2="-3731.093006"
+        stCamera:VignetteModelParam3="117367.327382"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.12014"
+        stCamera:FocalLengthY="5.12014"
+        stCamera:RadialDistortParam1="0.354581"
+        stCamera:RadialDistortParam2="-51.587057"
+        stCamera:RadialDistortParam3="2793.680135">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.12014"
+        stCamera:FocalLengthY="5.12014"
+        stCamera:VignetteModelParam1="-10.913882"
+        stCamera:VignetteModelParam2="2086.160856"
+        stCamera:VignetteModelParam3="-192996.714076"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.12014"
+        stCamera:FocalLengthY="5.12014"
+        stCamera:RadialDistortParam1="0.354581"
+        stCamera:RadialDistortParam2="-51.587057"
+        stCamera:RadialDistortParam3="2793.680135">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.12014"
+        stCamera:FocalLengthY="5.12014"
+        stCamera:VignetteModelParam1="-6.231923"
+        stCamera:VignetteModelParam2="-59.525413"
+        stCamera:VignetteModelParam3="450.425179"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.12014"
+        stCamera:FocalLengthY="5.12014"
+        stCamera:RadialDistortParam1="0.354581"
+        stCamera:RadialDistortParam2="-51.587057"
+        stCamera:RadialDistortParam3="2793.680135">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.12014"
+        stCamera:FocalLengthY="5.12014"
+        stCamera:VignetteModelParam1="-1.993293"
+        stCamera:VignetteModelParam2="-1042.764211"
+        stCamera:VignetteModelParam3="59680.682037"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.373515"
+        stCamera:FocalLengthY="13.373515"
+        stCamera:RadialDistortParam1="8.112943"
+        stCamera:RadialDistortParam2="180.179191"
+        stCamera:RadialDistortParam3="14911.521196">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.373515"
+        stCamera:FocalLengthY="13.373515"
+        stCamera:VignetteModelParam1="-480.819804"
+        stCamera:VignetteModelParam2="267162.242823"
+        stCamera:VignetteModelParam3="-77624487.421227"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.373515"
+        stCamera:FocalLengthY="13.373515"
+        stCamera:RadialDistortParam1="8.112943"
+        stCamera:RadialDistortParam2="180.179191"
+        stCamera:RadialDistortParam3="14911.521196">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.373515"
+        stCamera:FocalLengthY="13.373515"
+        stCamera:VignetteModelParam1="-193.145408"
+        stCamera:VignetteModelParam2="33996.952615"
+        stCamera:VignetteModelParam3="-24349250.087936"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.373515"
+        stCamera:FocalLengthY="13.373515"
+        stCamera:RadialDistortParam1="8.112943"
+        stCamera:RadialDistortParam2="180.179191"
+        stCamera:RadialDistortParam3="14911.521196">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.373515"
+        stCamera:FocalLengthY="13.373515"
+        stCamera:VignetteModelParam1="-44.673742"
+        stCamera:VignetteModelParam2="48538.821045"
+        stCamera:VignetteModelParam3="-44070019.605106"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.373515"
+        stCamera:FocalLengthY="13.373515"
+        stCamera:RadialDistortParam1="8.112943"
+        stCamera:RadialDistortParam2="180.179191"
+        stCamera:RadialDistortParam3="14911.521196">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.373515"
+        stCamera:FocalLengthY="13.373515"
+        stCamera:VignetteModelParam1="-34.627769"
+        stCamera:VignetteModelParam2="-1097.177754"
+        stCamera:VignetteModelParam3="-2397282.407194"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.373515"
+        stCamera:FocalLengthY="13.373515"
+        stCamera:RadialDistortParam1="8.112943"
+        stCamera:RadialDistortParam2="180.179191"
+        stCamera:RadialDistortParam3="14911.521196">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.373515"
+        stCamera:FocalLengthY="13.373515"
+        stCamera:VignetteModelParam1="-22.172557"
+        stCamera:VignetteModelParam2="-34802.749055"
+        stCamera:VignetteModelParam3="14245429.425129"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="9.287712">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.373515"
+        stCamera:FocalLengthY="13.373515"
+        stCamera:RadialDistortParam1="8.112943"
+        stCamera:RadialDistortParam2="180.179191"
+        stCamera:RadialDistortParam3="14911.521196">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.373515"
+        stCamera:FocalLengthY="13.373515"
+        stCamera:VignetteModelParam1="-22.587135"
+        stCamera:VignetteModelParam2="-36935.498694"
+        stCamera:VignetteModelParam3="15813967.814238"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:RadialDistortParam1="11.037566"
+        stCamera:RadialDistortParam2="435.649607"
+        stCamera:RadialDistortParam3="1217.037309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:VignetteModelParam1="-447.529365"
+        stCamera:VignetteModelParam2="112981.400734"
+        stCamera:VignetteModelParam3="-29455105.376444"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:RadialDistortParam1="11.037566"
+        stCamera:RadialDistortParam2="435.649607"
+        stCamera:RadialDistortParam3="1217.037309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:VignetteModelParam1="-45.551471"
+        stCamera:VignetteModelParam2="50788.691324"
+        stCamera:VignetteModelParam3="-80221732.052377"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:RadialDistortParam1="11.037566"
+        stCamera:RadialDistortParam2="435.649607"
+        stCamera:RadialDistortParam3="1217.037309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:VignetteModelParam1="-32.669667"
+        stCamera:VignetteModelParam2="-31023.42397"
+        stCamera:VignetteModelParam3="15070933.299545"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:RadialDistortParam1="11.037566"
+        stCamera:RadialDistortParam2="435.649607"
+        stCamera:RadialDistortParam3="1217.037309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:VignetteModelParam1="-32.381159"
+        stCamera:VignetteModelParam2="-46751.877846"
+        stCamera:VignetteModelParam3="26527354.765371"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="9.715962">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:RadialDistortParam1="11.037566"
+        stCamera:RadialDistortParam2="435.649607"
+        stCamera:RadialDistortParam3="1217.037309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="14.903456"
+        stCamera:FocalLengthY="14.903456"
+        stCamera:VignetteModelParam1="-31.204116"
+        stCamera:VignetteModelParam2="-47343.181406"
+        stCamera:VignetteModelParam3="25730149.21404"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="5.310704">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:RadialDistortParam1="38.468101"
+        stCamera:RadialDistortParam2="292.010766"
+        stCamera:RadialDistortParam3="-791.302869">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:VignetteModelParam1="-1968.890155"
+        stCamera:VignetteModelParam2="2728307.839274"
+        stCamera:VignetteModelParam3="-1858160993.674444"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:RadialDistortParam1="38.468101"
+        stCamera:RadialDistortParam2="292.010766"
+        stCamera:RadialDistortParam3="-791.302869">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:VignetteModelParam1="244.879551"
+        stCamera:VignetteModelParam2="-3865432.637146"
+        stCamera:VignetteModelParam3="4140385686.161167"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="187"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="23.91906"
+        stCamera:FocalLengthY="23.91906"
+        stCamera:RadialDistortParam1="31.889936"
+        stCamera:RadialDistortParam2="376.661933"
+        stCamera:RadialDistortParam3="907.748081">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="23.91906"
+        stCamera:FocalLengthY="23.91906"
+        stCamera:VignetteModelParam1="-88.956095"
+        stCamera:VignetteModelParam2="-103135.546934"
+        stCamera:VignetteModelParam3="111688062.558924"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:RadialDistortParam1="38.468101"
+        stCamera:RadialDistortParam2="292.010766"
+        stCamera:RadialDistortParam3="-791.302869">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:VignetteModelParam1="-66.604861"
+        stCamera:VignetteModelParam2="-411727.413357"
+        stCamera:VignetteModelParam3="690939694.506746"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.39"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:RadialDistortParam1="38.468101"
+        stCamera:RadialDistortParam2="292.010766"
+        stCamera:RadialDistortParam3="-791.302869">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="26.172961"
+        stCamera:FocalLengthY="26.172961"
+        stCamera:VignetteModelParam1="-73.081548"
+        stCamera:VignetteModelParam2="-377997.774552"
+        stCamera:VignetteModelParam3="631772090.319998"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.092862"
+        stCamera:FocalLengthY="2.092862"
+        stCamera:RadialDistortParam1="-0.289384"
+        stCamera:RadialDistortParam2="0.51746"
+        stCamera:RadialDistortParam3="-0.309999">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.092862"
+        stCamera:FocalLengthY="2.092862"
+        stCamera:VignetteModelParam1="-8.674663"
+        stCamera:VignetteModelParam2="37.964357"
+        stCamera:VignetteModelParam3="-177.637332"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.092862"
+        stCamera:FocalLengthY="2.092862"
+        stCamera:RadialDistortParam1="-0.289384"
+        stCamera:RadialDistortParam2="0.51746"
+        stCamera:RadialDistortParam3="-0.309999">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.092862"
+        stCamera:FocalLengthY="2.092862"
+        stCamera:VignetteModelParam1="1.057095"
+        stCamera:VignetteModelParam2="-106.091777"
+        stCamera:VignetteModelParam3="508.032564"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.092862"
+        stCamera:FocalLengthY="2.092862"
+        stCamera:RadialDistortParam1="-0.289384"
+        stCamera:RadialDistortParam2="0.51746"
+        stCamera:RadialDistortParam3="-0.309999">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.092862"
+        stCamera:FocalLengthY="2.092862"
+        stCamera:VignetteModelParam1="-1.892159"
+        stCamera:VignetteModelParam2="58.856904"
+        stCamera:VignetteModelParam3="-881.806611"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.092862"
+        stCamera:FocalLengthY="2.092862"
+        stCamera:RadialDistortParam1="-0.289384"
+        stCamera:RadialDistortParam2="0.51746"
+        stCamera:RadialDistortParam3="-0.309999">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.092862"
+        stCamera:FocalLengthY="2.092862"
+        stCamera:VignetteModelParam1="-0.836042"
+        stCamera:VignetteModelParam2="-9.346947"
+        stCamera:VignetteModelParam3="78.097948"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.092862"
+        stCamera:FocalLengthY="2.092862"
+        stCamera:RadialDistortParam1="-0.289384"
+        stCamera:RadialDistortParam2="0.51746"
+        stCamera:RadialDistortParam3="-0.309999">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.092862"
+        stCamera:FocalLengthY="2.092862"
+        stCamera:VignetteModelParam1="-1.205051"
+        stCamera:VignetteModelParam2="-9.656636"
+        stCamera:VignetteModelParam3="157.370655"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.516562"
+        stCamera:FocalLengthY="2.516562"
+        stCamera:RadialDistortParam1="-0.150623"
+        stCamera:RadialDistortParam2="1.678674"
+        stCamera:RadialDistortParam3="-8.552003">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.516562"
+        stCamera:FocalLengthY="2.516562"
+        stCamera:VignetteModelParam1="-15.122243"
+        stCamera:VignetteModelParam2="205.317957"
+        stCamera:VignetteModelParam3="-1729.76"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.516562"
+        stCamera:FocalLengthY="2.516562"
+        stCamera:RadialDistortParam1="-0.150623"
+        stCamera:RadialDistortParam2="1.678674"
+        stCamera:RadialDistortParam3="-8.552003">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.516562"
+        stCamera:FocalLengthY="2.516562"
+        stCamera:VignetteModelParam1="1.090241"
+        stCamera:VignetteModelParam2="-214.761832"
+        stCamera:VignetteModelParam3="1670.046232"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.516562"
+        stCamera:FocalLengthY="2.516562"
+        stCamera:RadialDistortParam1="-0.150623"
+        stCamera:RadialDistortParam2="1.678674"
+        stCamera:RadialDistortParam3="-8.552003">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.516562"
+        stCamera:FocalLengthY="2.516562"
+        stCamera:VignetteModelParam1="-2.4743"
+        stCamera:VignetteModelParam2="111.380127"
+        stCamera:VignetteModelParam3="-2406.927273"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.516562"
+        stCamera:FocalLengthY="2.516562"
+        stCamera:RadialDistortParam1="-0.150623"
+        stCamera:RadialDistortParam2="1.678674"
+        stCamera:RadialDistortParam3="-8.552003">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.516562"
+        stCamera:FocalLengthY="2.516562"
+        stCamera:VignetteModelParam1="-1.010309"
+        stCamera:VignetteModelParam2="-29.263129"
+        stCamera:VignetteModelParam3="441.005679"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.516562"
+        stCamera:FocalLengthY="2.516562"
+        stCamera:RadialDistortParam1="-0.150623"
+        stCamera:RadialDistortParam2="1.678674"
+        stCamera:RadialDistortParam3="-8.552003">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.516562"
+        stCamera:FocalLengthY="2.516562"
+        stCamera:VignetteModelParam1="-0.737233"
+        stCamera:VignetteModelParam2="-49.253138"
+        stCamera:VignetteModelParam3="758.962344"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.337404"
+        stCamera:FocalLengthY="3.337404"
+        stCamera:RadialDistortParam1="0.320739"
+        stCamera:RadialDistortParam2="1.409275"
+        stCamera:RadialDistortParam3="27.681338">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.337404"
+        stCamera:FocalLengthY="3.337404"
+        stCamera:VignetteModelParam1="-28.27248"
+        stCamera:VignetteModelParam2="929.590843"
+        stCamera:VignetteModelParam3="-17003.926215"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.337404"
+        stCamera:FocalLengthY="3.337404"
+        stCamera:RadialDistortParam1="0.320739"
+        stCamera:RadialDistortParam2="1.409275"
+        stCamera:RadialDistortParam3="27.681338">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.337404"
+        stCamera:FocalLengthY="3.337404"
+        stCamera:VignetteModelParam1="-7.924749"
+        stCamera:VignetteModelParam2="-132.543246"
+        stCamera:VignetteModelParam3="-1335.029222"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.337404"
+        stCamera:FocalLengthY="3.337404"
+        stCamera:RadialDistortParam1="0.320739"
+        stCamera:RadialDistortParam2="1.409275"
+        stCamera:RadialDistortParam3="27.681338">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.337404"
+        stCamera:FocalLengthY="3.337404"
+        stCamera:VignetteModelParam1="-2.964563"
+        stCamera:VignetteModelParam2="221.340262"
+        stCamera:VignetteModelParam3="-10301.15889"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.337404"
+        stCamera:FocalLengthY="3.337404"
+        stCamera:RadialDistortParam1="0.320739"
+        stCamera:RadialDistortParam2="1.409275"
+        stCamera:RadialDistortParam3="27.681338">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.337404"
+        stCamera:FocalLengthY="3.337404"
+        stCamera:VignetteModelParam1="-1.287412"
+        stCamera:VignetteModelParam2="-95.358353"
+        stCamera:VignetteModelParam3="2473.129814"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.337404"
+        stCamera:FocalLengthY="3.337404"
+        stCamera:RadialDistortParam1="0.320739"
+        stCamera:RadialDistortParam2="1.409275"
+        stCamera:RadialDistortParam3="27.681338">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.337404"
+        stCamera:FocalLengthY="3.337404"
+        stCamera:VignetteModelParam1="-1.264278"
+        stCamera:VignetteModelParam2="-125.843318"
+        stCamera:VignetteModelParam3="3589.146676"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="9.287712">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.337404"
+        stCamera:FocalLengthY="3.337404"
+        stCamera:RadialDistortParam1="0.320739"
+        stCamera:RadialDistortParam2="1.409275"
+        stCamera:RadialDistortParam3="27.681338">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.337404"
+        stCamera:FocalLengthY="3.337404"
+        stCamera:VignetteModelParam1="-1.125964"
+        stCamera:VignetteModelParam2="-143.648747"
+        stCamera:VignetteModelParam3="4096.557081"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.689742"
+        stCamera:FocalLengthY="8.689742"
+        stCamera:RadialDistortParam1="4.260428"
+        stCamera:RadialDistortParam2="53.716431"
+        stCamera:RadialDistortParam3="-200.015851">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.689742"
+        stCamera:FocalLengthY="8.689742"
+        stCamera:VignetteModelParam1="-161.07024"
+        stCamera:VignetteModelParam2="10911.531469"
+        stCamera:VignetteModelParam3="-455440.296218"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.689742"
+        stCamera:FocalLengthY="8.689742"
+        stCamera:RadialDistortParam1="4.260428"
+        stCamera:RadialDistortParam2="53.716431"
+        stCamera:RadialDistortParam3="-200.015851">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.689742"
+        stCamera:FocalLengthY="8.689742"
+        stCamera:VignetteModelParam1="-10.646319"
+        stCamera:VignetteModelParam2="5827.89196"
+        stCamera:VignetteModelParam3="-3333605.554081"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.689742"
+        stCamera:FocalLengthY="8.689742"
+        stCamera:RadialDistortParam1="4.260428"
+        stCamera:RadialDistortParam2="53.716431"
+        stCamera:RadialDistortParam3="-200.015851">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.689742"
+        stCamera:FocalLengthY="8.689742"
+        stCamera:VignetteModelParam1="-6.135564"
+        stCamera:VignetteModelParam2="-5575.726465"
+        stCamera:VignetteModelParam3="1075364.59514"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.689742"
+        stCamera:FocalLengthY="8.689742"
+        stCamera:RadialDistortParam1="4.260428"
+        stCamera:RadialDistortParam2="53.716431"
+        stCamera:RadialDistortParam3="-200.015851">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.689742"
+        stCamera:FocalLengthY="8.689742"
+        stCamera:VignetteModelParam1="-4.487469"
+        stCamera:VignetteModelParam2="-6006.016041"
+        stCamera:VignetteModelParam3="1078835.687262"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="9.715962">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.689742"
+        stCamera:FocalLengthY="8.689742"
+        stCamera:RadialDistortParam1="4.260428"
+        stCamera:RadialDistortParam2="53.716431"
+        stCamera:RadialDistortParam3="-200.015851">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.689742"
+        stCamera:FocalLengthY="8.689742"
+        stCamera:VignetteModelParam1="-4.013524"
+        stCamera:VignetteModelParam2="-5770.852282"
+        stCamera:VignetteModelParam3="1002488.950823"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="5.310704">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.257792"
+        stCamera:FocalLengthY="10.257792"
+        stCamera:RadialDistortParam1="5.304461"
+        stCamera:RadialDistortParam2="154.433317"
+        stCamera:RadialDistortParam3="318.015406">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.257792"
+        stCamera:FocalLengthY="10.257792"
+        stCamera:VignetteModelParam1="-433.028247"
+        stCamera:VignetteModelParam2="142715.873261"
+        stCamera:VignetteModelParam3="-19136749.079441"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.257792"
+        stCamera:FocalLengthY="10.257792"
+        stCamera:RadialDistortParam1="5.304461"
+        stCamera:RadialDistortParam2="154.433317"
+        stCamera:RadialDistortParam3="318.015406">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.257792"
+        stCamera:FocalLengthY="10.257792"
+        stCamera:VignetteModelParam1="8.279886"
+        stCamera:VignetteModelParam2="-77176.185996"
+        stCamera:VignetteModelParam3="12591215.716803"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.257792"
+        stCamera:FocalLengthY="10.257792"
+        stCamera:RadialDistortParam1="5.304461"
+        stCamera:RadialDistortParam2="154.433317"
+        stCamera:RadialDistortParam3="318.015406">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.257792"
+        stCamera:FocalLengthY="10.257792"
+        stCamera:VignetteModelParam1="-18.771959"
+        stCamera:VignetteModelParam2="10843.516578"
+        stCamera:VignetteModelParam3="-4695232.067003"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.257792"
+        stCamera:FocalLengthY="10.257792"
+        stCamera:RadialDistortParam1="5.304461"
+        stCamera:RadialDistortParam2="154.433317"
+        stCamera:RadialDistortParam3="318.015406">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.257792"
+        stCamera:FocalLengthY="10.257792"
+        stCamera:VignetteModelParam1="-7.610653"
+        stCamera:VignetteModelParam2="-7639.359107"
+        stCamera:VignetteModelParam3="2150333.305822"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS M10"
+       stCamera:UniqueCameraModel="Canon EOS M10"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4149"
+       stCamera:Lens="EF-M55-200mm f/4.5-6.3 IS STM"
+       stCamera:LensInfo="55/1 200/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS M10"
+       stCamera:LensPrettyName="Canon EF-M 55-200mm f/4.5-6.3 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF-M 55-200mm f/4.5-6.3 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5208"
+       stCamera:ImageLength="3476"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="16"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.257792"
+        stCamera:FocalLengthY="10.257792"
+        stCamera:RadialDistortParam1="5.304461"
+        stCamera:RadialDistortParam2="154.433317"
+        stCamera:RadialDistortParam3="318.015406">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.257792"
+        stCamera:FocalLengthY="10.257792"
+        stCamera:VignetteModelParam1="-9.818574"
+        stCamera:VignetteModelParam2="-6716.938831"
+        stCamera:VignetteModelParam3="2063723.96392"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

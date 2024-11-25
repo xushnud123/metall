@@ -1,0 +1,46 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Apple"
+       stCamera:Model="iPhone"
+       stCamera:CameraRawProfile="False"
+       stCamera:Lens="iPhone X back dual camera 4mm f/1.8"
+       stCamera:CameraPrettyName="iPhone"
+       stCamera:LensPrettyName="Apple iPhone X back dual camera 4mm f/1.8"
+       stCamera:ProfileName="Adobe (Apple iPhone X back dual camera 4mm f/1.8)"
+       stCamera:SensorFormatFactor="7.2"
+       stCamera:ImageWidth="4032"
+       stCamera:ImageLength="3024"
+       stCamera:FocalLength="3.99"
+       stCamera:FocusDistance="1.555609"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>iPhone X back camera 4mm f/1.8</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.82936"
+       stCamera:FocalLengthY="0.82936"
+       stCamera:ImageXCenter="0.495703"
+       stCamera:ImageYCenter="0.478944"
+       stCamera:ResidualMeanError="0.000724"
+       stCamera:ResidualStandardDeviation="0.00144"
+       stCamera:RadialDistortParam1="0.080277"
+       stCamera:RadialDistortParam2="-0.236205"
+       stCamera:RadialDistortParam3="0.275473"/>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,915 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.092429"
+       stCamera:FocalLengthY="1.092429"
+       stCamera:ImageXCenter="0.49562"
+       stCamera:ImageYCenter="0.495331"
+       stCamera:ResidualMeanError="0.000285"
+       stCamera:ResidualStandardDeviation="0.000383"
+       stCamera:RadialDistortParam1="-0.116608"
+       stCamera:RadialDistortParam2="-0.096007"
+       stCamera:RadialDistortParam3="0.471865"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.27"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.070568"
+       stCamera:FocalLengthY="1.070568"
+       stCamera:ImageXCenter="0.499128"
+       stCamera:ImageYCenter="0.517245"
+       stCamera:ResidualMeanError="0.000158"
+       stCamera:ResidualStandardDeviation="0.000188"
+       stCamera:RadialDistortParam1="-0.134467"
+       stCamera:RadialDistortParam2="0.16924"
+       stCamera:RadialDistortParam3="-0.150309"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="3.9"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.077559"
+       stCamera:FocalLengthY="1.077559"
+       stCamera:ImageXCenter="0.497725"
+       stCamera:ImageYCenter="0.512311"
+       stCamera:ResidualMeanError="0.000104"
+       stCamera:ResidualStandardDeviation="0.000092"
+       stCamera:RadialDistortParam1="-0.122415"
+       stCamera:RadialDistortParam2="0.074515"
+       stCamera:RadialDistortParam3="0.063731"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.23"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:ImageXCenter="0.49562"
+        stCamera:ImageYCenter="0.495331"
+        stCamera:RadialDistortParam1="-0.116608"
+        stCamera:RadialDistortParam2="-0.096007"
+        stCamera:RadialDistortParam3="0.471865">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:VignetteModelParam1="-3.14708"
+        stCamera:VignetteModelParam2="6.043469"
+        stCamera:VignetteModelParam3="-6.920227"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.23"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:ImageXCenter="0.49562"
+        stCamera:ImageYCenter="0.495331"
+        stCamera:RadialDistortParam1="-0.116608"
+        stCamera:RadialDistortParam2="-0.096007"
+        stCamera:RadialDistortParam3="0.471865">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:VignetteModelParam1="-0.653717"
+        stCamera:VignetteModelParam2="0.042938"
+        stCamera:VignetteModelParam3="-4.805447"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.23"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:ImageXCenter="0.49562"
+        stCamera:ImageYCenter="0.495331"
+        stCamera:RadialDistortParam1="-0.116608"
+        stCamera:RadialDistortParam2="-0.096007"
+        stCamera:RadialDistortParam3="0.471865">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:VignetteModelParam1="-0.765259"
+        stCamera:VignetteModelParam2="0.88334"
+        stCamera:VignetteModelParam3="-1.612407"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.23"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:ImageXCenter="0.49562"
+        stCamera:ImageYCenter="0.495331"
+        stCamera:RadialDistortParam1="-0.116608"
+        stCamera:RadialDistortParam2="-0.096007"
+        stCamera:RadialDistortParam3="0.471865">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:VignetteModelParam1="-0.773979"
+        stCamera:VignetteModelParam2="0.827062"
+        stCamera:VignetteModelParam3="-1.24801"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.23"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:ImageXCenter="0.49562"
+        stCamera:ImageYCenter="0.495331"
+        stCamera:RadialDistortParam1="-0.116608"
+        stCamera:RadialDistortParam2="-0.096007"
+        stCamera:RadialDistortParam3="0.471865">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:VignetteModelParam1="-0.741174"
+        stCamera:VignetteModelParam2="0.610396"
+        stCamera:VignetteModelParam3="-0.815695"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.23"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:ImageXCenter="0.49562"
+        stCamera:ImageYCenter="0.495331"
+        stCamera:RadialDistortParam1="-0.116608"
+        stCamera:RadialDistortParam2="-0.096007"
+        stCamera:RadialDistortParam3="0.471865">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:VignetteModelParam1="-0.749811"
+        stCamera:VignetteModelParam2="0.721765"
+        stCamera:VignetteModelParam3="-1.068418"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.32"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:ImageXCenter="0.49562"
+        stCamera:ImageYCenter="0.495331"
+        stCamera:RadialDistortParam1="-0.116608"
+        stCamera:RadialDistortParam2="-0.096007"
+        stCamera:RadialDistortParam3="0.471865">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:VignetteModelParam1="-3.481574"
+        stCamera:VignetteModelParam2="7.856149"
+        stCamera:VignetteModelParam3="-9.923555"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.32"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:ImageXCenter="0.49562"
+        stCamera:ImageYCenter="0.495331"
+        stCamera:RadialDistortParam1="-0.116608"
+        stCamera:RadialDistortParam2="-0.096007"
+        stCamera:RadialDistortParam3="0.471865">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:VignetteModelParam1="-0.637108"
+        stCamera:VignetteModelParam2="-0.96352"
+        stCamera:VignetteModelParam3="-2.523292"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.32"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:ImageXCenter="0.49562"
+        stCamera:ImageYCenter="0.495331"
+        stCamera:RadialDistortParam1="-0.116608"
+        stCamera:RadialDistortParam2="-0.096007"
+        stCamera:RadialDistortParam3="0.471865">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:VignetteModelParam1="-0.750357"
+        stCamera:VignetteModelParam2="0.785256"
+        stCamera:VignetteModelParam3="-1.775321"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.32"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:ImageXCenter="0.49562"
+        stCamera:ImageYCenter="0.495331"
+        stCamera:RadialDistortParam1="-0.116608"
+        stCamera:RadialDistortParam2="-0.096007"
+        stCamera:RadialDistortParam3="0.471865">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:VignetteModelParam1="-0.767658"
+        stCamera:VignetteModelParam2="0.724042"
+        stCamera:VignetteModelParam3="-1.31735"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.32"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:ImageXCenter="0.49562"
+        stCamera:ImageYCenter="0.495331"
+        stCamera:RadialDistortParam1="-0.116608"
+        stCamera:RadialDistortParam2="-0.096007"
+        stCamera:RadialDistortParam3="0.471865">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:VignetteModelParam1="-0.726298"
+        stCamera:VignetteModelParam2="0.468385"
+        stCamera:VignetteModelParam3="-0.882339"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.32"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:ImageXCenter="0.49562"
+        stCamera:ImageYCenter="0.495331"
+        stCamera:RadialDistortParam1="-0.116608"
+        stCamera:RadialDistortParam2="-0.096007"
+        stCamera:RadialDistortParam3="0.471865">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.092429"
+        stCamera:FocalLengthY="1.092429"
+        stCamera:VignetteModelParam1="-0.766085"
+        stCamera:VignetteModelParam2="0.791541"
+        stCamera:VignetteModelParam3="-1.500884"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.27"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.070568"
+        stCamera:FocalLengthY="1.070568"
+        stCamera:ImageXCenter="0.499128"
+        stCamera:ImageYCenter="0.517245"
+        stCamera:RadialDistortParam1="-0.134467"
+        stCamera:RadialDistortParam2="0.16924"
+        stCamera:RadialDistortParam3="-0.150309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.070568"
+        stCamera:FocalLengthY="1.070568"
+        stCamera:VignetteModelParam1="-3.7055"
+        stCamera:VignetteModelParam2="9.095227"
+        stCamera:VignetteModelParam3="-11.731036"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.27"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.070568"
+        stCamera:FocalLengthY="1.070568"
+        stCamera:ImageXCenter="0.499128"
+        stCamera:ImageYCenter="0.517245"
+        stCamera:RadialDistortParam1="-0.134467"
+        stCamera:RadialDistortParam2="0.16924"
+        stCamera:RadialDistortParam3="-0.150309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.070568"
+        stCamera:FocalLengthY="1.070568"
+        stCamera:VignetteModelParam1="-0.570783"
+        stCamera:VignetteModelParam2="-2.135313"
+        stCamera:VignetteModelParam3="0.454785"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.27"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.070568"
+        stCamera:FocalLengthY="1.070568"
+        stCamera:ImageXCenter="0.499128"
+        stCamera:ImageYCenter="0.517245"
+        stCamera:RadialDistortParam1="-0.134467"
+        stCamera:RadialDistortParam2="0.16924"
+        stCamera:RadialDistortParam3="-0.150309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.070568"
+        stCamera:FocalLengthY="1.070568"
+        stCamera:VignetteModelParam1="-0.943595"
+        stCamera:VignetteModelParam2="2.290354"
+        stCamera:VignetteModelParam3="-5.345706"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.27"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.070568"
+        stCamera:FocalLengthY="1.070568"
+        stCamera:ImageXCenter="0.499128"
+        stCamera:ImageYCenter="0.517245"
+        stCamera:RadialDistortParam1="-0.134467"
+        stCamera:RadialDistortParam2="0.16924"
+        stCamera:RadialDistortParam3="-0.150309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.070568"
+        stCamera:FocalLengthY="1.070568"
+        stCamera:VignetteModelParam1="-0.940802"
+        stCamera:VignetteModelParam2="1.793885"
+        stCamera:VignetteModelParam3="-3.262399"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.27"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.070568"
+        stCamera:FocalLengthY="1.070568"
+        stCamera:ImageXCenter="0.499128"
+        stCamera:ImageYCenter="0.517245"
+        stCamera:RadialDistortParam1="-0.134467"
+        stCamera:RadialDistortParam2="0.16924"
+        stCamera:RadialDistortParam3="-0.150309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.070568"
+        stCamera:FocalLengthY="1.070568"
+        stCamera:VignetteModelParam1="-0.951348"
+        stCamera:VignetteModelParam2="1.916229"
+        stCamera:VignetteModelParam3="-3.583966"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 50D"
+       stCamera:UniqueCameraModel="Canon EOS 50D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4154"
+       stCamera:Lens="EF-S24mm f/2.8 STM"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 50D"
+       stCamera:LensPrettyName="Canon EF-S 24mm f/2.8 STM"
+       stCamera:ProfileName="Adobe (Canon EF-S 24mm f/2.8 STM)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4770"
+       stCamera:ImageLength="3177"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.27"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24mm F2.8 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.070568"
+        stCamera:FocalLengthY="1.070568"
+        stCamera:ImageXCenter="0.499128"
+        stCamera:ImageYCenter="0.517245"
+        stCamera:RadialDistortParam1="-0.134467"
+        stCamera:RadialDistortParam2="0.16924"
+        stCamera:RadialDistortParam3="-0.150309">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.070568"
+        stCamera:FocalLengthY="1.070568"
+        stCamera:VignetteModelParam1="-0.977067"
+        stCamera:VignetteModelParam2="2.179514"
+        stCamera:VignetteModelParam3="-4.21761"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

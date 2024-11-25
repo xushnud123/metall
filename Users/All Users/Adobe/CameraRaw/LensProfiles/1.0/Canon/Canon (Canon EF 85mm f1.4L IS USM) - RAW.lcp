@@ -1,0 +1,1767 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c128 79.159124, 2016/03/18-14:01:55        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.83"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.390884"
+       stCamera:FocalLengthY="2.390884"
+       stCamera:ResidualMeanError="0.000288"
+       stCamera:ResidualStandardDeviation="0.000317"
+       stCamera:RadialDistortParam1="0.367382"
+       stCamera:RadialDistortParam2="-3.693794"
+       stCamera:RadialDistortParam3="58.720189"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2.76"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.120504"
+       stCamera:FocalLengthY="2.120504"
+       stCamera:ResidualMeanError="0.000197"
+       stCamera:ResidualStandardDeviation="0.000287"
+       stCamera:RadialDistortParam1="0.038345"
+       stCamera:RadialDistortParam2="1.783332"
+       stCamera:RadialDistortParam3="-15.82016"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="9.37"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.281407"
+       stCamera:FocalLengthY="2.281407"
+       stCamera:ResidualMeanError="0.000106"
+       stCamera:ResidualStandardDeviation="0.000135"
+       stCamera:RadialDistortParam1="0.101086"
+       stCamera:RadialDistortParam2="-0.874022"
+       stCamera:RadialDistortParam3="8.896575"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.81"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:RadialDistortParam1="0.367382"
+        stCamera:RadialDistortParam2="-3.693794"
+        stCamera:RadialDistortParam3="58.720189">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:VignetteModelParam1="-13.031457"
+        stCamera:VignetteModelParam2="121.371061"
+        stCamera:VignetteModelParam3="-843.387613"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.81"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:RadialDistortParam1="0.367382"
+        stCamera:RadialDistortParam2="-3.693794"
+        stCamera:RadialDistortParam3="58.720189">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:VignetteModelParam1="-4.419275"
+        stCamera:VignetteModelParam2="-71.995199"
+        stCamera:VignetteModelParam3="417.587771"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.81"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:RadialDistortParam1="0.367382"
+        stCamera:RadialDistortParam2="-3.693794"
+        stCamera:RadialDistortParam3="58.720189">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:VignetteModelParam1="-2.700566"
+        stCamera:VignetteModelParam2="44.64428"
+        stCamera:VignetteModelParam3="-827.025607"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.81"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:RadialDistortParam1="0.367382"
+        stCamera:RadialDistortParam2="-3.693794"
+        stCamera:RadialDistortParam3="58.720189">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:VignetteModelParam1="-2.223759"
+        stCamera:VignetteModelParam2="10.914085"
+        stCamera:VignetteModelParam3="-6.976473"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.81"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:RadialDistortParam1="0.367382"
+        stCamera:RadialDistortParam2="-3.693794"
+        stCamera:RadialDistortParam3="58.720189">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:VignetteModelParam1="-1.326533"
+        stCamera:VignetteModelParam2="-23.138021"
+        stCamera:VignetteModelParam3="399.568196"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.81"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:RadialDistortParam1="0.367382"
+        stCamera:RadialDistortParam2="-3.693794"
+        stCamera:RadialDistortParam3="58.720189">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:VignetteModelParam1="-1.883462"
+        stCamera:VignetteModelParam2="-0.820822"
+        stCamera:VignetteModelParam3="128.048393"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.81"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:RadialDistortParam1="0.367382"
+        stCamera:RadialDistortParam2="-3.693794"
+        stCamera:RadialDistortParam3="58.720189">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:VignetteModelParam1="-2.064405"
+        stCamera:VignetteModelParam2="3.031021"
+        stCamera:VignetteModelParam3="118.361294"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.81"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:RadialDistortParam1="0.367382"
+        stCamera:RadialDistortParam2="-3.693794"
+        stCamera:RadialDistortParam3="58.720189">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:VignetteModelParam1="-2.041839"
+        stCamera:VignetteModelParam2="1.612567"
+        stCamera:VignetteModelParam3="136.052879"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.81"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:RadialDistortParam1="0.367382"
+        stCamera:RadialDistortParam2="-3.693794"
+        stCamera:RadialDistortParam3="58.720189">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.390884"
+        stCamera:FocalLengthY="2.390884"
+        stCamera:VignetteModelParam1="-2.020645"
+        stCamera:VignetteModelParam2="-0.037853"
+        stCamera:VignetteModelParam3="149.81958"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.55"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:RadialDistortParam1="0.096719"
+        stCamera:RadialDistortParam2="1.13754"
+        stCamera:RadialDistortParam3="-8.817786">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:VignetteModelParam1="-14.812702"
+        stCamera:VignetteModelParam2="177.417214"
+        stCamera:VignetteModelParam3="-1070.285753"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.55"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:RadialDistortParam1="0.096719"
+        stCamera:RadialDistortParam2="1.13754"
+        stCamera:RadialDistortParam3="-8.817786">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:VignetteModelParam1="-2.955275"
+        stCamera:VignetteModelParam2="-54.868499"
+        stCamera:VignetteModelParam3="161.21855"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.55"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:RadialDistortParam1="0.096719"
+        stCamera:RadialDistortParam2="1.13754"
+        stCamera:RadialDistortParam3="-8.817786">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:VignetteModelParam1="-0.921113"
+        stCamera:VignetteModelParam2="-3.847759"
+        stCamera:VignetteModelParam3="-83.047505"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.55"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:RadialDistortParam1="0.096719"
+        stCamera:RadialDistortParam2="1.13754"
+        stCamera:RadialDistortParam3="-8.817786">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:VignetteModelParam1="-2.221735"
+        stCamera:VignetteModelParam2="16.308834"
+        stCamera:VignetteModelParam3="-76.685886"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.55"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:RadialDistortParam1="0.096719"
+        stCamera:RadialDistortParam2="1.13754"
+        stCamera:RadialDistortParam3="-8.817786">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:VignetteModelParam1="-1.362772"
+        stCamera:VignetteModelParam2="-11.046462"
+        stCamera:VignetteModelParam3="196.949776"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.55"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:RadialDistortParam1="0.096719"
+        stCamera:RadialDistortParam2="1.13754"
+        stCamera:RadialDistortParam3="-8.817786">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:VignetteModelParam1="-1.78953"
+        stCamera:VignetteModelParam2="2.879774"
+        stCamera:VignetteModelParam3="58.464017"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.55"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:RadialDistortParam1="0.096719"
+        stCamera:RadialDistortParam2="1.13754"
+        stCamera:RadialDistortParam3="-8.817786">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:VignetteModelParam1="-1.832587"
+        stCamera:VignetteModelParam2="2.117122"
+        stCamera:VignetteModelParam3="85.97648"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.55"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:RadialDistortParam1="0.096719"
+        stCamera:RadialDistortParam2="1.13754"
+        stCamera:RadialDistortParam3="-8.817786">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:VignetteModelParam1="-1.8893"
+        stCamera:VignetteModelParam2="3.150761"
+        stCamera:VignetteModelParam3="78.182458"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.55"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:RadialDistortParam1="0.096719"
+        stCamera:RadialDistortParam2="1.13754"
+        stCamera:RadialDistortParam3="-8.817786">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.211275"
+        stCamera:FocalLengthY="2.211275"
+        stCamera:VignetteModelParam1="-1.954034"
+        stCamera:VignetteModelParam2="3.664001"
+        stCamera:VignetteModelParam3="78.530077"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.14"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:RadialDistortParam1="0.060807"
+        stCamera:RadialDistortParam2="0.783169"
+        stCamera:RadialDistortParam3="-7.152929">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:VignetteModelParam1="-18.350085"
+        stCamera:VignetteModelParam2="273.643948"
+        stCamera:VignetteModelParam3="-1704.872682"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.14"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:RadialDistortParam1="0.060807"
+        stCamera:RadialDistortParam2="0.783169"
+        stCamera:RadialDistortParam3="-7.152929">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:VignetteModelParam1="-1.21024"
+        stCamera:VignetteModelParam2="-85.897501"
+        stCamera:VignetteModelParam3="437.272205"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.14"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:RadialDistortParam1="0.060807"
+        stCamera:RadialDistortParam2="0.783169"
+        stCamera:RadialDistortParam3="-7.152929">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:VignetteModelParam1="-3.136942"
+        stCamera:VignetteModelParam2="63.336307"
+        stCamera:VignetteModelParam3="-682.430212"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.14"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:RadialDistortParam1="0.060807"
+        stCamera:RadialDistortParam2="0.783169"
+        stCamera:RadialDistortParam3="-7.152929">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:VignetteModelParam1="-2.169917"
+        stCamera:VignetteModelParam2="17.693206"
+        stCamera:VignetteModelParam3="-102.169727"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.14"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:RadialDistortParam1="0.060807"
+        stCamera:RadialDistortParam2="0.783169"
+        stCamera:RadialDistortParam3="-7.152929">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:VignetteModelParam1="-1.268686"
+        stCamera:VignetteModelParam2="-9.585256"
+        stCamera:VignetteModelParam3="156.956122"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.14"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:RadialDistortParam1="0.060807"
+        stCamera:RadialDistortParam2="0.783169"
+        stCamera:RadialDistortParam3="-7.152929">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:VignetteModelParam1="-1.559133"
+        stCamera:VignetteModelParam2="-0.042808"
+        stCamera:VignetteModelParam3="62.622845"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.14"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:RadialDistortParam1="0.060807"
+        stCamera:RadialDistortParam2="0.783169"
+        stCamera:RadialDistortParam3="-7.152929">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:VignetteModelParam1="-1.594412"
+        stCamera:VignetteModelParam2="-1.131338"
+        stCamera:VignetteModelParam3="91.222418"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.14"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:RadialDistortParam1="0.060807"
+        stCamera:RadialDistortParam2="0.783169"
+        stCamera:RadialDistortParam3="-7.152929">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:VignetteModelParam1="-1.663476"
+        stCamera:VignetteModelParam2="0.084128"
+        stCamera:VignetteModelParam3="83.604326"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.14"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:RadialDistortParam1="0.060807"
+        stCamera:RadialDistortParam2="0.783169"
+        stCamera:RadialDistortParam3="-7.152929">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.148107"
+        stCamera:FocalLengthY="2.148107"
+        stCamera:VignetteModelParam1="-1.671452"
+        stCamera:VignetteModelParam2="-1.378085"
+        stCamera:VignetteModelParam3="104.7055"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="13.7"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-23.452853"
+        stCamera:VignetteModelParam2="432.296712"
+        stCamera:VignetteModelParam3="-3134.294938"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="13.7"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-2.262358"
+        stCamera:VignetteModelParam2="-78.018035"
+        stCamera:VignetteModelParam3="327.113658"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="13.7"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-3.087329"
+        stCamera:VignetteModelParam2="63.71828"
+        stCamera:VignetteModelParam3="-785.030331"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="13.7"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-1.284637"
+        stCamera:VignetteModelParam2="-19.342637"
+        stCamera:VignetteModelParam3="310.692745"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="13.7"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-1.399358"
+        stCamera:VignetteModelParam2="-13.496444"
+        stCamera:VignetteModelParam3="236.832811"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="13.7"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-1.758508"
+        stCamera:VignetteModelParam2="-1.279847"
+        stCamera:VignetteModelParam3="109.434241"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="13.7"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-1.838467"
+        stCamera:VignetteModelParam2="-1.220902"
+        stCamera:VignetteModelParam3="133.887617"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="13.7"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-1.79596"
+        stCamera:VignetteModelParam2="-3.530844"
+        stCamera:VignetteModelParam3="158.304968"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="13.7"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-1.677999"
+        stCamera:VignetteModelParam2="-8.382642"
+        stCamera:VignetteModelParam3="203.946394"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-25.587192"
+        stCamera:VignetteModelParam2="499.294624"
+        stCamera:VignetteModelParam3="-3751.660965"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-3.447174"
+        stCamera:VignetteModelParam2="-38.226601"
+        stCamera:VignetteModelParam3="-87.832715"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-3.145322"
+        stCamera:VignetteModelParam2="71.09966"
+        stCamera:VignetteModelParam3="-923.432941"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-1.592335"
+        stCamera:VignetteModelParam2="-8.059962"
+        stCamera:VignetteModelParam3="180.776988"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-1.630966"
+        stCamera:VignetteModelParam2="-4.790364"
+        stCamera:VignetteModelParam3="134.300135"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-1.722128"
+        stCamera:VignetteModelParam2="-1.856442"
+        stCamera:VignetteModelParam3="106.298123"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-1.818136"
+        stCamera:VignetteModelParam2="-1.816827"
+        stCamera:VignetteModelParam3="137.641004"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-1.804673"
+        stCamera:VignetteModelParam2="-3.889452"
+        stCamera:VignetteModelParam3="168.047664"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 6D"
+       stCamera:UniqueCameraModel="Canon EOS 6D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="753"
+       stCamera:Lens="EF85mm f/1.4L IS USM"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 6D"
+       stCamera:LensPrettyName="Canon EF 85mm f/1.4L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 85mm f/1.4L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:RadialDistortParam1="0.101086"
+        stCamera:RadialDistortParam2="-0.874022"
+        stCamera:RadialDistortParam3="8.896575">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.281407"
+        stCamera:FocalLengthY="2.281407"
+        stCamera:VignetteModelParam1="-1.934127"
+        stCamera:VignetteModelParam2="-1.616982"
+        stCamera:VignetteModelParam3="153.371279"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

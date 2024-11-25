@@ -1,0 +1,3862 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="14.262144"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="5.34466"
+       stCamera:FocalLengthY="5.34466"
+       stCamera:ResidualMeanError="0.000089"
+       stCamera:ResidualStandardDeviation="0.000093"
+       stCamera:RadialDistortParam1="-0.364155"
+       stCamera:RadialDistortParam2="19.89663"
+       stCamera:RadialDistortParam3="-885.770343"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="17.398436"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="6.431386"
+       stCamera:FocalLengthY="6.431386"
+       stCamera:ResidualMeanError="0.000075"
+       stCamera:ResidualStandardDeviation="0.000071"
+       stCamera:RadialDistortParam1="-0.213574"
+       stCamera:RadialDistortParam2="30.849046"
+       stCamera:RadialDistortParam3="-2123.548729"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="22.257679"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="8.223933"
+       stCamera:FocalLengthY="8.223933"
+       stCamera:ResidualMeanError="0.000049"
+       stCamera:ResidualStandardDeviation="0.000032"
+       stCamera:RadialDistortParam1="0.316987"
+       stCamera:RadialDistortParam2="8.464872"
+       stCamera:RadialDistortParam3="-0.439441"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="25.914364"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="9.570204"
+       stCamera:FocalLengthY="9.570204"
+       stCamera:ResidualMeanError="0.000048"
+       stCamera:ResidualStandardDeviation="0.00003"
+       stCamera:RadialDistortParam1="0.722873"
+       stCamera:RadialDistortParam2="0.584069"
+       stCamera:RadialDistortParam3="-0.444314"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="28.375923"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="10.885199"
+       stCamera:FocalLengthY="10.885199"
+       stCamera:ResidualMeanError="0.000051"
+       stCamera:ResidualStandardDeviation="0.000033"
+       stCamera:RadialDistortParam1="1.22735"
+       stCamera:RadialDistortParam2="-6.068427"
+       stCamera:RadialDistortParam3="-0.400244"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-72.275064"
+        stCamera:VignetteModelParam2="7271.948627"
+        stCamera:VignetteModelParam3="-345347.109965"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-4.474662"
+        stCamera:VignetteModelParam2="507.417716"
+        stCamera:VignetteModelParam3="-81507.315321"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-3.515269"
+        stCamera:VignetteModelParam2="-384.507851"
+        stCamera:VignetteModelParam3="43604.017246"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-3.87741"
+        stCamera:VignetteModelParam2="-365.368486"
+        stCamera:VignetteModelParam3="44851.348463"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-4.78313"
+        stCamera:VignetteModelParam2="-248.425251"
+        stCamera:VignetteModelParam3="40654.009927"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-78.636818"
+        stCamera:VignetteModelParam2="8132.876357"
+        stCamera:VignetteModelParam3="-383480.336783"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-2.035242"
+        stCamera:VignetteModelParam2="-270.302244"
+        stCamera:VignetteModelParam3="-46056.068058"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-3.054034"
+        stCamera:VignetteModelParam2="-405.91417"
+        stCamera:VignetteModelParam3="42317.219146"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-3.967554"
+        stCamera:VignetteModelParam2="-335.457491"
+        stCamera:VignetteModelParam3="43155.827417"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-3.755292"
+        stCamera:VignetteModelParam2="-377.592442"
+        stCamera:VignetteModelParam3="44508.101553"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="8.82"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-81.472173"
+        stCamera:VignetteModelParam2="8542.648028"
+        stCamera:VignetteModelParam3="-403802.482203"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="8.82"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-1.399718"
+        stCamera:VignetteModelParam2="-497.945848"
+        stCamera:VignetteModelParam3="-39240.481995"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="8.82"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-3.14378"
+        stCamera:VignetteModelParam2="-369.536201"
+        stCamera:VignetteModelParam3="39194.865072"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="8.82"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-3.605781"
+        stCamera:VignetteModelParam2="-384.36048"
+        stCamera:VignetteModelParam3="44519.079303"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="8.82"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-3.363136"
+        stCamera:VignetteModelParam2="-420.668202"
+        stCamera:VignetteModelParam3="45561.293698"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-83.883413"
+        stCamera:VignetteModelParam2="8911.488929"
+        stCamera:VignetteModelParam3="-423882.505031"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-0.63334"
+        stCamera:VignetteModelParam2="-705.400281"
+        stCamera:VignetteModelParam3="-36947.439746"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-3.515086"
+        stCamera:VignetteModelParam2="-205.195254"
+        stCamera:VignetteModelParam3="25808.54952"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-3.216693"
+        stCamera:VignetteModelParam2="-410.919232"
+        stCamera:VignetteModelParam3="44388.009968"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:RadialDistortParam1="-0.364155"
+        stCamera:RadialDistortParam2="19.89663"
+        stCamera:RadialDistortParam3="-885.770343">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.34466"
+        stCamera:FocalLengthY="5.34466"
+        stCamera:VignetteModelParam1="-3.34182"
+        stCamera:VignetteModelParam2="-413.728273"
+        stCamera:VignetteModelParam3="44952.979854"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-76.98724"
+        stCamera:VignetteModelParam2="10581.011349"
+        stCamera:VignetteModelParam3="-804992.497342"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-11.540848"
+        stCamera:VignetteModelParam2="3199.295856"
+        stCamera:VignetteModelParam3="-351996.114854"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-5.045956"
+        stCamera:VignetteModelParam2="-754.790834"
+        stCamera:VignetteModelParam3="125264.955532"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-6.0051"
+        stCamera:VignetteModelParam2="-630.565632"
+        stCamera:VignetteModelParam3="124940.136393"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-6.702685"
+        stCamera:VignetteModelParam2="-611.163588"
+        stCamera:VignetteModelParam3="130410.318805"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-89.26464"
+        stCamera:VignetteModelParam2="13108.951039"
+        stCamera:VignetteModelParam3="-996884.432073"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-13.428637"
+        stCamera:VignetteModelParam2="4944.064771"
+        stCamera:VignetteModelParam3="-620911.883797"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-4.619696"
+        stCamera:VignetteModelParam2="-818.065675"
+        stCamera:VignetteModelParam3="125431.907815"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-5.471404"
+        stCamera:VignetteModelParam2="-708.478812"
+        stCamera:VignetteModelParam3="124925.052985"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-5.1"
+        stCamera:VignetteModelParam2="-858.079466"
+        stCamera:VignetteModelParam3="136285.469102"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="10.3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-96.537614"
+        stCamera:VignetteModelParam2="14480.05094"
+        stCamera:VignetteModelParam3="-1096295.914464"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="10.3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-11.262566"
+        stCamera:VignetteModelParam2="4308.336358"
+        stCamera:VignetteModelParam3="-628556.86988"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="10.3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-4.061179"
+        stCamera:VignetteModelParam2="-900.356264"
+        stCamera:VignetteModelParam3="127252.07239"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="10.3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-4.877674"
+        stCamera:VignetteModelParam2="-807.542057"
+        stCamera:VignetteModelParam3="128726.369846"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="10.3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-5.164465"
+        stCamera:VignetteModelParam2="-824.993645"
+        stCamera:VignetteModelParam3="133405.690676"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-101.497031"
+        stCamera:VignetteModelParam2="15157.078565"
+        stCamera:VignetteModelParam3="-1135719.841085"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-7.192695"
+        stCamera:VignetteModelParam2="2540.770847"
+        stCamera:VignetteModelParam3="-510878.47918"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-4.327465"
+        stCamera:VignetteModelParam2="-678.136944"
+        stCamera:VignetteModelParam3="98548.660536"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-4.284042"
+        stCamera:VignetteModelParam2="-900.729052"
+        stCamera:VignetteModelParam3="131939.009854"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:RadialDistortParam1="-0.213574"
+        stCamera:RadialDistortParam2="30.849046"
+        stCamera:RadialDistortParam3="-2123.548729">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.431386"
+        stCamera:FocalLengthY="6.431386"
+        stCamera:VignetteModelParam1="-5.113124"
+        stCamera:VignetteModelParam2="-824.805419"
+        stCamera:VignetteModelParam3="133010.628839"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-106.748878"
+        stCamera:VignetteModelParam2="28944.576402"
+        stCamera:VignetteModelParam3="-4554169.882391"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-28.307242"
+        stCamera:VignetteModelParam2="17589.029715"
+        stCamera:VignetteModelParam3="-3354819.631863"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-8.246381"
+        stCamera:VignetteModelParam2="-1952.374689"
+        stCamera:VignetteModelParam3="525747.507775"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-10.046958"
+        stCamera:VignetteModelParam2="-1578.217065"
+        stCamera:VignetteModelParam3="527407.14253"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-10.28853"
+        stCamera:VignetteModelParam2="-1748.1782"
+        stCamera:VignetteModelParam3="560886.043289"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-117.268795"
+        stCamera:VignetteModelParam2="26295.789101"
+        stCamera:VignetteModelParam3="-4047226.88754"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-21.575244"
+        stCamera:VignetteModelParam2="15415.842357"
+        stCamera:VignetteModelParam3="-3698902.71095"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-9.859266"
+        stCamera:VignetteModelParam2="550.058853"
+        stCamera:VignetteModelParam3="-4273.303474"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-8.123543"
+        stCamera:VignetteModelParam2="-2044.197598"
+        stCamera:VignetteModelParam3="544052.511616"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-9.078086"
+        stCamera:VignetteModelParam2="-1901.804863"
+        stCamera:VignetteModelParam3="546616.109012"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="8.82"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-123.678096"
+        stCamera:VignetteModelParam2="22953.704539"
+        stCamera:VignetteModelParam3="-3363469.49699"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="8.82"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-5.760806"
+        stCamera:VignetteModelParam2="3303.577248"
+        stCamera:VignetteModelParam3="-2169055.747807"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="8.82"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-15.878755"
+        stCamera:VignetteModelParam2="6400.407176"
+        stCamera:VignetteModelParam3="-1162595.186362"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="8.82"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-7.426762"
+        stCamera:VignetteModelParam2="-2299.58096"
+        stCamera:VignetteModelParam3="566297.661438"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="8.82"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-9.101685"
+        stCamera:VignetteModelParam2="-1966.374185"
+        stCamera:VignetteModelParam3="556568.991179"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-134.171073"
+        stCamera:VignetteModelParam2="21601.824594"
+        stCamera:VignetteModelParam3="-2908334.977778"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="9.875144"
+        stCamera:VignetteModelParam2="-10588.629334"
+        stCamera:VignetteModelParam3="-254891.450556"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-21.007781"
+        stCamera:VignetteModelParam2="11931.847967"
+        stCamera:VignetteModelParam3="-2362966.837701"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-6.859834"
+        stCamera:VignetteModelParam2="-2358.006454"
+        stCamera:VignetteModelParam3="549969.617866"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:RadialDistortParam1="0.316987"
+        stCamera:RadialDistortParam2="8.464872"
+        stCamera:RadialDistortParam3="-0.439441">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.223933"
+        stCamera:FocalLengthY="8.223933"
+        stCamera:VignetteModelParam1="-9.771625"
+        stCamera:VignetteModelParam2="-1829.04783"
+        stCamera:VignetteModelParam3="548014.557814"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-117.225704"
+        stCamera:VignetteModelParam2="34808.744258"
+        stCamera:VignetteModelParam3="-8991259.727571"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-38.994466"
+        stCamera:VignetteModelParam2="36629.877871"
+        stCamera:VignetteModelParam3="-10459947.102028"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-12.719466"
+        stCamera:VignetteModelParam2="-695.800301"
+        stCamera:VignetteModelParam3="498813.135845"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-12.854952"
+        stCamera:VignetteModelParam2="-2944.981794"
+        stCamera:VignetteModelParam3="1260779.715029"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-13.847769"
+        stCamera:VignetteModelParam2="-3178.014229"
+        stCamera:VignetteModelParam3="1370679.914562"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-120.964307"
+        stCamera:VignetteModelParam2="7918.830061"
+        stCamera:VignetteModelParam3="-2888499.596357"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="4.78583"
+        stCamera:VignetteModelParam2="-8693.096657"
+        stCamera:VignetteModelParam3="-2653167.912084"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-27.640888"
+        stCamera:VignetteModelParam2="19266.050499"
+        stCamera:VignetteModelParam3="-4910049.389469"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-10.440542"
+        stCamera:VignetteModelParam2="-3802.117897"
+        stCamera:VignetteModelParam3="1332815.435067"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-12.710193"
+        stCamera:VignetteModelParam2="-3137.187481"
+        stCamera:VignetteModelParam3="1288731.961854"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="10.3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-162.817672"
+        stCamera:VignetteModelParam2="17973.625683"
+        stCamera:VignetteModelParam3="-3422091.338864"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="10.3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="27.578508"
+        stCamera:VignetteModelParam2="-40666.575714"
+        stCamera:VignetteModelParam3="3528750.038614"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="10.3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-29.52925"
+        stCamera:VignetteModelParam2="24697.696086"
+        stCamera:VignetteModelParam3="-7203538.640502"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="10.3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-11.75439"
+        stCamera:VignetteModelParam2="-1860.790029"
+        stCamera:VignetteModelParam3="787962.501785"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="10.3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-13.190554"
+        stCamera:VignetteModelParam2="-2874.603638"
+        stCamera:VignetteModelParam3="1243786.89155"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-238.806022"
+        stCamera:VignetteModelParam2="51287.919337"
+        stCamera:VignetteModelParam3="-7551515.622612"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="29.703095"
+        stCamera:VignetteModelParam2="-58068.131789"
+        stCamera:VignetteModelParam3="7129499.195018"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-15.129926"
+        stCamera:VignetteModelParam2="11622.600777"
+        stCamera:VignetteModelParam3="-5532880.249199"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-19.59249"
+        stCamera:VignetteModelParam2="7934.59122"
+        stCamera:VignetteModelParam3="-1769893.7675"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="350"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:RadialDistortParam1="0.722873"
+        stCamera:RadialDistortParam2="0.584069"
+        stCamera:RadialDistortParam3="-0.444314">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="9.570204"
+        stCamera:FocalLengthY="9.570204"
+        stCamera:VignetteModelParam1="-12.135524"
+        stCamera:VignetteModelParam2="-3457.303053"
+        stCamera:VignetteModelParam3="1316283.868241"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-130.973122"
+        stCamera:VignetteModelParam2="27739.524089"
+        stCamera:VignetteModelParam3="-12301690.120129"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-39.640744"
+        stCamera:VignetteModelParam2="48206.824911"
+        stCamera:VignetteModelParam3="-20577504.484439"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-24.045055"
+        stCamera:VignetteModelParam2="9968.106036"
+        stCamera:VignetteModelParam3="-2532262.834138"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-16.246878"
+        stCamera:VignetteModelParam2="-4937.487738"
+        stCamera:VignetteModelParam3="2686050.913141"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="1.89"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-15.799694"
+        stCamera:VignetteModelParam2="-5981.873435"
+        stCamera:VignetteModelParam3="2966241.477857"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-166.838753"
+        stCamera:VignetteModelParam2="2023.573982"
+        stCamera:VignetteModelParam3="-2539866.455328"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="30.243166"
+        stCamera:VignetteModelParam2="-55031.866715"
+        stCamera:VignetteModelParam3="4282112.163919"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-39.308392"
+        stCamera:VignetteModelParam2="41262.836717"
+        stCamera:VignetteModelParam3="-14868059.467329"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-15.148261"
+        stCamera:VignetteModelParam2="-4870.140393"
+        stCamera:VignetteModelParam3="2418240.677961"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="4.06"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-17.775135"
+        stCamera:VignetteModelParam2="-4968.619214"
+        stCamera:VignetteModelParam3="2775027.091564"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="10.3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-308.49402"
+        stCamera:VignetteModelParam2="84171.534635"
+        stCamera:VignetteModelParam3="-15893488.433387"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="10.3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="37.899061"
+        stCamera:VignetteModelParam2="-98105.131486"
+        stCamera:VignetteModelParam3="15781762.354499"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="10.3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-17.099795"
+        stCamera:VignetteModelParam2="16341.624835"
+        stCamera:VignetteModelParam3="-11154020.142239"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="10.3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-24.635303"
+        stCamera:VignetteModelParam2="12785.549153"
+        stCamera:VignetteModelParam3="-3720481.940128"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="10.3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-16.808655"
+        stCamera:VignetteModelParam2="-4961.086999"
+        stCamera:VignetteModelParam3="2712935.874743"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-462.674662"
+        stCamera:VignetteModelParam2="188283.964289"
+        stCamera:VignetteModelParam3="-34324660.556223"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-17.689398"
+        stCamera:VignetteModelParam2="-82402.444962"
+        stCamera:VignetteModelParam3="14438044.113585"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="23.078525"
+        stCamera:VignetteModelParam2="-41268.412853"
+        stCamera:VignetteModelParam3="2206802.114301"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-38.979517"
+        stCamera:VignetteModelParam2="39867.015696"
+        stCamera:VignetteModelParam3="-13851191.317625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 5D Mark III"
+       stCamera:UniqueCameraModel="Canon EOS 5D Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="496"
+       stCamera:Lens="EF200-400mm f/4L IS USM"
+       stCamera:LensInfo="200/1 400/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 5D Mark III"
+       stCamera:LensPrettyName="Canon EF 200-400mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 200-400mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.993314"
+       stCamera:ImageWidth="5796"
+       stCamera:ImageLength="3870"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:RadialDistortParam1="1.22735"
+        stCamera:RadialDistortParam2="-6.068427"
+        stCamera:RadialDistortParam3="-0.400244">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.885199"
+        stCamera:FocalLengthY="10.885199"
+        stCamera:VignetteModelParam1="-14.947737"
+        stCamera:VignetteModelParam2="-6214.590016"
+        stCamera:VignetteModelParam3="2889227.477754"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
