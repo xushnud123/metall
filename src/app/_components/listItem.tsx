@@ -131,14 +131,7 @@ ListItemProps) => {
       entityId2: !entityId2 || entityId2 === "0",
     };
 
-    if (
-      !entityId ||
-      !entityId2 ||
-      entityId === "67ce4bc9-4809-11ef-0a80-037f0039a58b" ||
-      entityId2 === "191f0169-4866-11ef-0a80-177e0001df70" ||
-      entityId === "0" ||
-      entityId2 === "0"
-    ) {
+    if (!entityId || !entityId2 || entityId === "0" || entityId2 === "0") {
       setOpenToast(false);
       window.clearTimeout(timerRef.current);
       timerRef.current = window.setTimeout(() => {
