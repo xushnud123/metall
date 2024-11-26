@@ -56,7 +56,13 @@ const ListItem = ({
 }: // selectedProducts,
 // setSelectedProducts,
 ListItemProps) => {
-  const [selectedProducts, setSelectedProducts] = useState<any>([]);
+  const [selectedProducts, setSelectedProducts] = useState<any>(
+    order.products
+      .filter((item) => item.quantity === item.shipped)
+      .map((item) => item.id)
+  );
+
+  console.log(selectedProducts);
   const [open, setOpen] = useState(false);
   const [openToast, setOpenToast] = useState(false);
   const [currentOrderId, setCurrentOrderId] = useState("");
@@ -87,15 +93,6 @@ ListItemProps) => {
       (item: any) => item.id === "cc481563-4807-11ef-0a80-0bea00359633"
     )[0]?.value?.name || ""
   );
-
-  // console.log(
-  //   order.attributes.filter(
-  //     (item: any) => item.id === "bf6c8db4-4807-11ef-0a80-037f00392b45"
-  //   )[0]?.value?.name,
-  //   order.attributes.filter(
-  //     (item: any) => item.id === "cc481563-4807-11ef-0a80-0bea00359633"
-  //   )[0]?.value?.name
-  // );
 
   const checkNumber = order.attributes.filter(
     (item: Attributes) => item.id === CHECK_NUMBER_ID
@@ -455,12 +452,11 @@ ListItemProps) => {
                   <Checkbox
                     className='block mx-auto'
                     // @ts-ignore
-                    defaultValue={product.quantity === product.shipped}
-                    checked={
-                      product.quantity === product.shipped ||
-                      selectedProducts[product.id]
+                    defaultValue={
+                      product.quantity === product.shipped &&
+                      selectedProducts.includes(product.id)
                     }
-                    // checked={selectedProducts?.[order.id]?.includes(product.id)}
+                    checked={selectedProducts.includes(product.id)}
                     onClick={() => toggleId(product.id)}
                   />
                 </TableCell>
