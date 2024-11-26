@@ -53,8 +53,8 @@ export const TableDemo: React.FC<TableProps> = ({
             key={order.id}
             order={order}
             data={data}
-            selectedProducts={selectedProducts}
-            setSelectedProducts={setSelectedProducts}
+            // selectedProducts={selectedProducts}
+            // setSelectedProducts={setSelectedProducts}
           />
         );
       })}
