@@ -11,5 +11,7 @@ export const useGetOrdersWithDemand = () => {
 
       return data.data as any;
     },
+    refetchInterval: false,
+    refetchOnWindowFocus: false,
   });
 };

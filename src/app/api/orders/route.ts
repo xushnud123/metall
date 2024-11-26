@@ -50,6 +50,7 @@ export async function GET() {
         meta: get(position, "assortment.meta"),
         assortment: get(position, "assortment"),
         discount: get(position, "discount"),
+        shipped: get(position, "shipped"),
       })),
     }));
 

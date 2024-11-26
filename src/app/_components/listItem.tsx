@@ -1,5 +1,7 @@
 import React, { Dispatch, SetStateAction, useEffect, useState } from "react";
 import { format } from "date-fns";
+import * as Toast from "@radix-ui/react-toast";
+import { Cross1Icon, QuestionMarkCircledIcon } from "@radix-ui/react-icons";
 
 import { Button } from "@/components/ui/button";
 import { Checkbox } from "@/components/ui/checkbox";
@@ -33,6 +35,7 @@ import {
 import { useGetCustomEntity } from "@/hooks/use-get-custom-entity";
 import { useGetCustomEntity2 } from "@/hooks/use-get-custom-entity-2";
 import { CHECK_NUMBER_ID, COMMENT_PRO_ID } from "@/lib/env";
+import { useGetOrders } from "@/hooks/use-get-orders";
 
 interface ListItemProps {
   order: Order;
@@ -54,7 +57,15 @@ const ListItem = ({
   setSelectedProducts,
 }: ListItemProps) => {
   const [open, setOpen] = useState(false);
+  const [openToast, setOpenToast] = useState(false);
   const [currentOrderId, setCurrentOrderId] = useState("");
+  const eventDateRef = React.useRef(new Date());
+  const timerRef = React.useRef(0);
+  const { refetch } = useGetOrders();
+
+  React.useEffect(() => {
+    return () => clearTimeout(timerRef.current);
+  }, []);
 
   const [errors, setErrors] = useState({
     entityId: false,
@@ -85,28 +96,56 @@ const ListItem = ({
         (entity: any) => entity?.name === order?.attributes?.[1]?.value?.name
       )[0]?.id;
 
-    setEntityId(selectedEntity);
-    setEntityId2(selectedEntity2);
+    // setEntityId(selectedEntity);
+    // setEntityId2(selectedEntity2);
   }, [customEntityData, order, customEntityData2]);
   const [comments, setComments] = useState<Comments>({});
+
+  function oneWeekAway() {
+    const now = new Date();
+    const inOneWeek = now.setDate(now.getDate() + 7);
+    return new Date(inOneWeek);
+  }
 
   const handleOpenModal = (orderId: string) => {
     const newErrors = {
       entityId: !entityId || entityId === "0",
       entityId2: !entityId2 || entityId2 === "0",
     };
-    setErrors(newErrors);
 
-    if (!entityId || !entityId2 || entityId === "0" || entityId2 === "0") {
-      setTimeout(() => {
-        setErrors({ entityId: false, entityId2: false });
-      }, 3000);
-      return;
-    }
+    console.log(
+      "1 ===",
+      entityId,
 
-    if (entityId && entityId2) {
+      "2 ===",
+      entityId2
+    );
+
+    if (
+      !entityId ||
+      !entityId2 ||
+      entityId === "67ce4bc9-4809-11ef-0a80-037f0039a58b" ||
+      entityId2 === "191f0169-4866-11ef-0a80-177e0001df70" ||
+      entityId === "0" ||
+      entityId2 === "0"
+    ) {
+      setOpenToast(false);
+      window.clearTimeout(timerRef.current);
+      timerRef.current = window.setTimeout(() => {
+        eventDateRef.current = oneWeekAway();
+        setOpenToast(true);
+      }, 100);
+
+      setErrors(newErrors);
+    } else if (entityId && entityId2) {
+      console.log("object");
       setCurrentOrderId(orderId);
       setOpen(true);
+      refetch();
+      setErrors({
+        entityId: false,
+        entityId2: false,
+      });
     }
   };
 
@@ -180,9 +219,9 @@ const ListItem = ({
       putPayload.attributes = attributes;
     }
 
-    console.log("putPayload: ", JSON.stringify(putPayload, null, 2));
+    // console.log("putPayload: ", JSON.stringify(putPayload, null, 2));
 
-    console.log("putPayload: ", JSON.stringify(putPayload, null, 2));
+    // console.log("putPayload: ", JSON.stringify(putPayload, null, 2));
 
     const payload = {
       orderId: currentOrder.id,
@@ -230,7 +269,7 @@ const ListItem = ({
       console.log("error: ", err);
     }
 
-    console.log("payload: ", payload);
+    // console.log("payload: ", payload);
   };
 
   const handleSelect = (orderId: string, productId: string) => {
@@ -256,38 +295,45 @@ const ListItem = ({
 
   const formattedDate = format(date, "dd.MM.yyyy");
 
+  function prettyDate(date: any) {
+    return new Intl.DateTimeFormat("en-US", {
+      dateStyle: "full",
+      timeStyle: "short",
+    }).format(date);
+  }
+
   return (
-    <div className="my-5 rounded-md border border-primary p-y">
+    <div className='my-5 rounded-md border border-primary p-y overflow-hidden'>
       <Dialog open={open} setOpen={setOpen} onConfirm={onConfirm} />
 
-      <div className="flex flex-col w-full mb-5">
+      <div className='flex flex-col w-full mb-5'>
         {checkNumber && (
-          <h2 className="px-5 py-2 text-center text-2xl bg-primary text-white">
+          <h2 className='px-5 py-2 text-center text-2xl bg-primary text-white'>
             {checkNumber}
           </h2>
         )}
-        <div className="p-5">
-          <div className="flex items-center justify-between mb-1">
-            <h4 className="text-xs capitalize">{order.agent_name}</h4>
-            <p className="text-xs ml-auto">{order.phone}</p>
+        <div className='p-5'>
+          <div className='flex items-center justify-between mb-1'>
+            <h4 className='text-xs capitalize'>{order.agent_name}</h4>
+            <p className='text-xs ml-auto'>{order.phone}</p>
           </div>
-          <div className="flex items-center justify-between">
-            <p className="text-xs">{order.code}</p>
-            <p className="text-xs">{formattedDate}</p>
+          <div className='flex items-center justify-between'>
+            <p className='text-xs'>{order.code}</p>
+            <p className='text-xs'>{formattedDate}</p>
           </div>
         </div>
-        <div className="w-full px-5 flex gap-5">
+        <div className='w-full px-5 flex gap-5'>
           <select
             onChange={(e) => setEntityId(e.target.value)}
             className={`bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 ${
               errors.entityId ? "!border-1 !border-red-600" : ""
             }`}
           >
-            <option selected value="0">
+            <option selected value='0'>
               {isLoading ? "Loading..." : `Кто отгрузил`}
             </option>
             {customEntityData?.rows?.map((entity: any) => (
-              <option className="text-sm" key={entity.id} value={entity.id}>
+              <option className='text-sm' key={entity.id} value={entity.id}>
                 {entity.name}
               </option>
             ))}
@@ -319,11 +365,11 @@ const ListItem = ({
               errors.entityId ? "!border-1 !border-red-600" : ""
             }`}
           >
-            <option selected value="0">
+            <option selected value='0'>
               {isLoading ? "Loading..." : `Бригада`}
             </option>
             {customEntityData2?.rows?.map((entity: any) => (
-              <option className="text-xl" key={entity.id} value={entity.id}>
+              <option className='text-xl' key={entity.id} value={entity.id}>
                 {entity.name}
               </option>
             ))}
@@ -352,10 +398,10 @@ const ListItem = ({
       </div>
 
       <div>
-        <Table className="rounded-xl border-zinc-100">
+        <Table className='rounded-xl border-zinc-100'>
           <TableHeader>
-            <TableRow className="border-t  font-bold">
-              <TableHead className="w-1/2">Tovar Nomi</TableHead>
+            <TableRow className='border-t  font-bold'>
+              <TableHead className='w-1/2'>Tovar Nomi</TableHead>
               <TableHead>Soni</TableHead>
               <TableHead>Yuklandi</TableHead>
             </TableRow>
@@ -363,13 +409,15 @@ const ListItem = ({
           <TableBody>
             {order.products.map((product) => (
               <TableRow key={product.id}>
-                <TableCell className="font-medium">{product.name}</TableCell>
+                <TableCell className='font-medium'>{product.name}</TableCell>
                 <TableCell>
                   <span>{product.quantity}</span>
                 </TableCell>
                 <TableCell>
                   <Checkbox
-                    className="block mx-auto"
+                    className='block mx-auto'
+                    // @ts-ignore
+                    defaultValue={product.quantity === product.shipped}
                     checked={selectedProducts?.[order.id]?.includes(product.id)}
                     onClick={() => handleSelect(order.id, product.id)}
                   />
@@ -380,7 +428,7 @@ const ListItem = ({
           <TableFooter>
             {commentPro && (
               <TableRow>
-                <TableCell className="text-xs pt-5" colSpan={3}>
+                <TableCell className='text-xs pt-5' colSpan={3}>
                   {commentPro.split("\n").map((item: string) => (
                     <p key={item}>{item}</p>
                   ))}
@@ -397,8 +445,8 @@ const ListItem = ({
                       ? order.description
                       : ""
                   }
-                  className="w-full p-2 resize-none bg-secondary rounded"
-                  placeholder="Comment"
+                  className='w-full p-2 resize-none bg-secondary rounded'
+                  placeholder='Comment'
                   onChange={(e) => {
                     if (!order.description) {
                       setComments({
@@ -416,10 +464,10 @@ const ListItem = ({
               </TableCell>
             </TableRow>
             <TableRow>
-              <TableCell colSpan={3} className="text-right">
+              <TableCell colSpan={3} className='text-right'>
                 <Button
-                  size="sm"
-                  className="w-full"
+                  size='sm'
+                  className='w-full'
                   style={{ background: "#FF4B68", color: "white" }}
                   onClick={() => handleOpenModal(order.id)}
                 >
@@ -430,6 +478,31 @@ const ListItem = ({
           </TableFooter>
         </Table>
       </div>
+
+      <Toast.Provider swipeDirection='up'>
+        <Toast.Root
+          className='bg-white border border-gray-300 rounded-md shadow-lg p-4 flex items-center space-x-4'
+          open={openToast}
+          onOpenChange={setOpenToast}
+        >
+          <Toast.Title className='text-3xl min-w-6'>
+            <QuestionMarkCircledIcon width={24} height={24} color='#FF4B68' />
+          </Toast.Title>
+          <Toast.Description className='text-sm text-gray-600'>
+            {
+              // eslint-disable-next-line react/no-unescaped-entities
+              `"Кто отгрузил" ва "Бригада" ни танлаш мажбурий`
+            }
+          </Toast.Description>
+          <Toast.Close
+            className='ml-auto text-gray-400 hover:text-gray-800'
+            aria-label='Close'
+          >
+            <Cross1Icon />
+          </Toast.Close>
+        </Toast.Root>
+        <Toast.Viewport className='fixed top-4 left-1/2 transform -translate-x-1/2 flex flex-col space-y-2 w-96 max-w-full z-50' />
+      </Toast.Provider>
     </div>
   );
 };
