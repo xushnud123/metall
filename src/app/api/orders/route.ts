@@ -126,13 +126,15 @@ export const POST = async (req: NextRequest, res: NextResponse) => {
 export const PUT = async (req: NextRequest) => {
   const reqst = await req.json();
 
-  console.log("reqst: ", reqst);
+  console.log("frontReq = ", reqst);
 
   try {
     const { data } = await http.put(
       `/remap/1.2/entity/customerorder/${reqst?.id}`,
       reqst
     );
+
+    console.log("backReq = ", data);
 
     return NextResponse.json({
       data: data,

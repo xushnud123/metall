@@ -40,10 +40,10 @@ import { useGetOrders } from "@/hooks/use-get-orders";
 interface ListItemProps {
   order: Order;
   data: Order[];
-  setSelectedProducts: (val: { [key: string]: string[] }) => void;
-  selectedProducts: {
-    [key: string]: string[];
-  };
+  // setSelectedProducts: (val: { [key: string]: string[] }) => void;
+  // selectedProducts: {
+  //   [key: string]: string[];
+  // };
 }
 
 type Comments = {
@@ -53,9 +53,10 @@ type Comments = {
 const ListItem = ({
   order,
   data,
-  selectedProducts,
-  setSelectedProducts,
-}: ListItemProps) => {
+}: // selectedProducts,
+// setSelectedProducts,
+ListItemProps) => {
+  const [selectedProducts, setSelectedProducts] = useState<any>([]);
   const [open, setOpen] = useState(false);
   const [openToast, setOpenToast] = useState(false);
   const [currentOrderId, setCurrentOrderId] = useState("");
@@ -76,8 +77,25 @@ const ListItem = ({
   const { data: customEntityData2, isLoading: isLoading2 } =
     useGetCustomEntity2();
 
-  const [entityId, setEntityId] = useState("");
-  const [entityId2, setEntityId2] = useState("");
+  const [entityId, setEntityId] = useState(
+    order.attributes.filter(
+      (item: any) => item.id === "bf6c8db4-4807-11ef-0a80-037f00392b45"
+    )[0]?.value?.name || ""
+  );
+  const [entityId2, setEntityId2] = useState(
+    order.attributes.filter(
+      (item: any) => item.id === "cc481563-4807-11ef-0a80-0bea00359633"
+    )[0]?.value?.name || ""
+  );
+
+  // console.log(
+  //   order.attributes.filter(
+  //     (item: any) => item.id === "bf6c8db4-4807-11ef-0a80-037f00392b45"
+  //   )[0]?.value?.name,
+  //   order.attributes.filter(
+  //     (item: any) => item.id === "cc481563-4807-11ef-0a80-0bea00359633"
+  //   )[0]?.value?.name
+  // );
 
   const checkNumber = order.attributes.filter(
     (item: Attributes) => item.id === CHECK_NUMBER_ID
@@ -113,14 +131,6 @@ const ListItem = ({
       entityId2: !entityId2 || entityId2 === "0",
     };
 
-    console.log(
-      "1 ===",
-      entityId,
-
-      "2 ===",
-      entityId2
-    );
-
     if (
       !entityId ||
       !entityId2 ||
@@ -138,7 +148,6 @@ const ListItem = ({
 
       setErrors(newErrors);
     } else if (entityId && entityId2) {
-      console.log("object");
       setCurrentOrderId(orderId);
       setOpen(true);
       refetch();
@@ -223,6 +232,37 @@ const ListItem = ({
 
     // console.log("putPayload: ", JSON.stringify(putPayload, null, 2));
 
+    const positions = [
+      ...order.products
+        .filter((item) => item.quantity === item.shipped)
+        .filter((item) => item != null)
+        .map((product) => {
+          return {
+            quantity: product.quantity,
+            price: product.price,
+            discount: product.discount,
+            vat: product.vat,
+            assortment: {
+              meta: product.assortment.meta,
+            },
+          };
+        }),
+      ,
+      ...order.products
+        .filter((item) => selectedProducts.includes(item.id))
+        .map((product) => {
+          return {
+            quantity: product.quantity,
+            price: product.price,
+            discount: product.discount,
+            vat: product.vat,
+            assortment: {
+              meta: product.assortment.meta,
+            },
+          };
+        }),
+    ].filter((item) => item !== null);
+
     const payload = {
       orderId: currentOrder.id,
       organization: { meta: currentOrder.organization_meta },
@@ -237,23 +277,10 @@ const ListItem = ({
           uuidHref: currentOrder.meta.uuidHref,
         },
       },
-      positions: currentOrder.products
-        .filter((product) =>
-          selectedProducts?.[currentOrder?.id]?.includes(product?.id)
-        )
-        .map((product) => {
-          return {
-            quantity: product.quantity,
-            price: product.price,
-            discount: product.discount,
-            vat: product.vat,
-            assortment: {
-              meta: product.assortment.meta,
-            },
-          };
-        }),
+      positions,
     };
 
+    console.log("payload ===", putPayload);
     try {
       const data = Promise.all([
         await axios.post("/api/orders", {
@@ -277,7 +304,7 @@ const ListItem = ({
       setSelectedProducts({
         ...selectedProducts,
         [orderId]: selectedProducts[orderId].filter(
-          (product) => product !== productId
+          (product: any) => product !== productId
         ),
       });
     } else {
@@ -301,6 +328,12 @@ const ListItem = ({
       timeStyle: "short",
     }).format(date);
   }
+
+  const toggleId = (id: string) => {
+    setSelectedProducts((prev: string[]) =>
+      prev.includes(id) ? prev.filter((item) => item !== id) : [...prev, id]
+    );
+  };
 
   return (
     <div className='my-5 rounded-md border border-primary p-y overflow-hidden'>
@@ -328,12 +361,18 @@ const ListItem = ({
             className={`bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 ${
               errors.entityId ? "!border-1 !border-red-600" : ""
             }`}
+            defaultValue={entityId}
           >
-            <option selected value='0'>
+            <option selected={!entityId} value='0'>
               {isLoading ? "Loading..." : `Кто отгрузил`}
             </option>
             {customEntityData?.rows?.map((entity: any) => (
-              <option className='text-sm' key={entity.id} value={entity.id}>
+              <option
+                className='text-sm'
+                selected={entity.name === entityId}
+                key={entity.id}
+                value={entity.id}
+              >
                 {entity.name}
               </option>
             ))}
@@ -364,12 +403,18 @@ const ListItem = ({
             className={`bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 ${
               errors.entityId ? "!border-1 !border-red-600" : ""
             }`}
+            defaultValue={entityId2}
           >
-            <option selected value='0'>
+            <option selected={!entityId2} value='0'>
               {isLoading ? "Loading..." : `Бригада`}
             </option>
             {customEntityData2?.rows?.map((entity: any) => (
-              <option className='text-xl' key={entity.id} value={entity.id}>
+              <option
+                className='text-xl'
+                selected={entity.name === entityId2}
+                key={entity.id}
+                value={entity.id}
+              >
                 {entity.name}
               </option>
             ))}
@@ -418,8 +463,12 @@ const ListItem = ({
                     className='block mx-auto'
                     // @ts-ignore
                     defaultValue={product.quantity === product.shipped}
-                    checked={selectedProducts?.[order.id]?.includes(product.id)}
-                    onClick={() => handleSelect(order.id, product.id)}
+                    checked={
+                      product.quantity === product.shipped ||
+                      selectedProducts[product.id]
+                    }
+                    // checked={selectedProducts?.[order.id]?.includes(product.id)}
+                    onClick={() => toggleId(product.id)}
                   />
                 </TableCell>
               </TableRow>
