@@ -11,5 +11,7 @@ export const useGetCustomEntity2 = () => {
 
       return data as any;
     },
+    refetchInterval: false,
+    refetchOnWindowFocus: false,
   });
 };

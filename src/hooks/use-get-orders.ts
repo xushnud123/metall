@@ -5,11 +5,11 @@ import axios from "axios";
 
 export const useGetOrders = () => {
   return useQuery({
-    refetchInterval: 5_000,
+    refetchInterval: false,
+    refetchOnWindowFocus: false,
     queryKey: ["orders"],
     queryFn: async () => {
       const { data } = await axios.get("/api/orders");
-
       return data.data as Order[];
     },
   });

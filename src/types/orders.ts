@@ -17,6 +17,7 @@ type Product = {
   assortment: any;
   price: number;
   discount: number;
+  shipped: number;
 };
 
 type Attributes = {
