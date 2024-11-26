@@ -62,7 +62,6 @@ ListItemProps) => {
       .map((item) => item.id)
   );
 
-  console.log(selectedProducts);
   const [open, setOpen] = useState(false);
   const [openToast, setOpenToast] = useState(false);
   const [currentOrderId, setCurrentOrderId] = useState("");
@@ -224,21 +223,6 @@ ListItemProps) => {
 
     const positions = [
       ...order.products
-        .filter((item) => item.quantity === item.shipped)
-        .filter((item) => item != null)
-        .map((product) => {
-          return {
-            quantity: product.quantity,
-            price: product.price,
-            discount: product.discount,
-            vat: product.vat,
-            assortment: {
-              meta: product.assortment.meta,
-            },
-          };
-        }),
-      ,
-      ...order.products
         .filter((item) => selectedProducts.includes(item.id))
         .map((product) => {
           return {
@@ -252,6 +236,8 @@ ListItemProps) => {
           };
         }),
     ].filter((item) => item !== null);
+
+    console.log(positions);
 
     const payload = {
       orderId: currentOrder.id,
