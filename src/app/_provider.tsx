@@ -1,6 +1,6 @@
 "use client";
 
-import { FC, ReactNode } from "react";
+import { FC, ReactNode, Suspense } from "react";
 import NextAdapterApp from "next-query-params/app";
 import { QueryParamProvider } from "use-query-params";
 import { ThemeProvider } from "@/components/theme-provider";
@@ -16,17 +16,19 @@ const Provider: FC<ProviderProps> = ({ children }) => {
   return (
     <div className='block'>
       <QueryClientProvider client={queryClient}>
-        <QueryParamProvider adapter={NextAdapterApp}>
-          <ReactQueryDevtools initialIsOpen={false} />
-          <ThemeProvider
-            attribute='class'
-            defaultTheme='system'
-            enableSystem
-            disableTransitionOnChange
-          >
-            {children}
-          </ThemeProvider>
-        </QueryParamProvider>
+        <Suspense>
+          <QueryParamProvider adapter={NextAdapterApp}>
+            <ReactQueryDevtools initialIsOpen={false} />
+            <ThemeProvider
+              attribute='class'
+              defaultTheme='system'
+              enableSystem
+              disableTransitionOnChange
+            >
+              {children}
+            </ThemeProvider>
+          </QueryParamProvider>
+        </Suspense>
       </QueryClientProvider>
     </div>
   );
