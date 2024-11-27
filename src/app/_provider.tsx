@@ -1,4 +1,5 @@
 "use client";
+
 import { FC, ReactNode } from "react";
 import NextAdapterApp from "next-query-params/app";
 import { QueryParamProvider } from "use-query-params";
