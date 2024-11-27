@@ -38,6 +38,7 @@ export async function GET() {
       description: get(order, "description"),
       phone: get(order, "agent.phone"),
       rate: get(order, "rate"),
+      name: get(order, "name"),
       // customer_order: get(order, 'cus')
       products: get(order, "positions.rows", []).map((position) => ({
         id: get(position, "id"),

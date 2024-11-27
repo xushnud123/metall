@@ -1,7 +1,14 @@
 import React, { Dispatch, SetStateAction, useEffect, useState } from "react";
 import { format } from "date-fns";
 import * as Toast from "@radix-ui/react-toast";
-import { Cross1Icon, QuestionMarkCircledIcon } from "@radix-ui/react-icons";
+import * as Select from "@radix-ui/react-select";
+import {
+  CheckIcon,
+  ChevronDownIcon,
+  ChevronUpIcon,
+  Cross1Icon,
+  QuestionMarkCircledIcon,
+} from "@radix-ui/react-icons";
 
 import { Button } from "@/components/ui/button";
 import { Checkbox } from "@/components/ui/checkbox";
@@ -16,13 +23,6 @@ import {
   AlertDialogTitle,
 } from "@/components/ui/alert-dialog";
 import { AlertDialogCancel } from "@radix-ui/react-alert-dialog";
-// import {
-//   Select,
-//   SelectContent,
-//   SelectItem,
-//   SelectTrigger,
-//   SelectValue,
-// } from "@/components/ui/select";
 import {
   Table,
   TableBody,
@@ -36,26 +36,18 @@ import { useGetCustomEntity } from "@/hooks/use-get-custom-entity";
 import { useGetCustomEntity2 } from "@/hooks/use-get-custom-entity-2";
 import { CHECK_NUMBER_ID, COMMENT_PRO_ID } from "@/lib/env";
 import { useGetOrders } from "@/hooks/use-get-orders";
+import { cn } from "@/lib/utils";
 
 interface ListItemProps {
   order: Order;
   data: Order[];
-  // setSelectedProducts: (val: { [key: string]: string[] }) => void;
-  // selectedProducts: {
-  //   [key: string]: string[];
-  // };
 }
 
 type Comments = {
   [key: string]: string;
 };
 
-const ListItem = ({
-  order,
-  data,
-}: // selectedProducts,
-// setSelectedProducts,
-ListItemProps) => {
+const ListItem = ({ order, data }: ListItemProps) => {
   const [selectedProducts, setSelectedProducts] = useState<any>(
     order.products
       .filter((item) => item.quantity === item.shipped)
@@ -78,20 +70,12 @@ ListItemProps) => {
     entityId2: false,
   });
 
-  const { data: customEntityData, isLoading } = useGetCustomEntity();
-  const { data: customEntityData2, isLoading: isLoading2 } =
-    useGetCustomEntity2();
+  const { data: customEntityData } = useGetCustomEntity();
+  const { data: customEntityData2 } = useGetCustomEntity2();
+  const [comments, setComments] = useState<Comments>({});
 
-  const [entityId, setEntityId] = useState(
-    order.attributes.filter(
-      (item: any) => item.id === "bf6c8db4-4807-11ef-0a80-037f00392b45"
-    )[0]?.value?.name || ""
-  );
-  const [entityId2, setEntityId2] = useState(
-    order.attributes.filter(
-      (item: any) => item.id === "cc481563-4807-11ef-0a80-0bea00359633"
-    )[0]?.value?.name || ""
-  );
+  const [entityId, setEntityId] = useState("");
+  const [entityId2, setEntityId2] = useState("");
 
   const checkNumber = order.attributes.filter(
     (item: Attributes) => item.id === CHECK_NUMBER_ID
@@ -101,19 +85,20 @@ ListItemProps) => {
   )[0]?.value;
 
   useEffect(() => {
-    const selectedEntity = customEntityData?.rows?.filter(
-      (entity: any) => entity?.name === order?.attributes?.[0]?.value?.name
-    )[0]?.id;
-    const selectedEntity2 = customEntityData2?.rows
-      ?.sort((a: { name: number }, b: { name: number }) => a.name - b.name)
-      .filter(
-        (entity: any) => entity?.name === order?.attributes?.[1]?.value?.name
-      )[0]?.id;
+    const name = order.attributes.filter(
+      (item: any) => item.id === "bf6c8db4-4807-11ef-0a80-037f00392b45"
+    )[0]?.value?.name;
+    const name2 = order.attributes.filter(
+      (item: any) => item.id === "cc481563-4807-11ef-0a80-0bea00359633"
+    )[0]?.value?.name;
 
-    // setEntityId(selectedEntity);
-    // setEntityId2(selectedEntity2);
+    setEntityId(
+      customEntityData?.rows?.filter((item: any) => item.name === name)[0]?.id
+    );
+    setEntityId2(
+      customEntityData2?.rows?.filter((item: any) => item.name === name2)[0]?.id
+    );
   }, [customEntityData, order, customEntityData2]);
-  const [comments, setComments] = useState<Comments>({});
 
   function oneWeekAway() {
     const now = new Date();
@@ -217,10 +202,6 @@ ListItemProps) => {
       putPayload.attributes = attributes;
     }
 
-    // console.log("putPayload: ", JSON.stringify(putPayload, null, 2));
-
-    // console.log("putPayload: ", JSON.stringify(putPayload, null, 2));
-
     const positions = [
       ...order.products
         .filter((item) => selectedProducts.includes(item.id))
@@ -236,8 +217,6 @@ ListItemProps) => {
           };
         }),
     ].filter((item) => item !== null);
-
-    console.log(positions);
 
     const payload = {
       orderId: currentOrder.id,
@@ -271,39 +250,11 @@ ListItemProps) => {
     } catch (err: any) {
       console.log("error: ", err);
     }
-
-    // console.log("payload: ", payload);
-  };
-
-  const handleSelect = (orderId: string, productId: string) => {
-    if (selectedProducts[orderId]?.includes(productId)) {
-      setSelectedProducts({
-        ...selectedProducts,
-        [orderId]: selectedProducts[orderId].filter(
-          (product: any) => product !== productId
-        ),
-      });
-    } else {
-      const newSelectedProducts = {
-        ...selectedProducts,
-        [orderId]: selectedProducts[orderId]
-          ? [...selectedProducts[orderId], productId]
-          : [productId],
-      };
-      setSelectedProducts(newSelectedProducts);
-    }
   };
 
   const date = new Date(order.moment);
 
   const formattedDate = format(date, "dd.MM.yyyy");
-
-  function prettyDate(date: any) {
-    return new Intl.DateTimeFormat("en-US", {
-      dateStyle: "full",
-      timeStyle: "short",
-    }).format(date);
-  }
 
   const toggleId = (id: string) => {
     setSelectedProducts((prev: string[]) =>
@@ -324,7 +275,7 @@ ListItemProps) => {
         <div className='p-5'>
           <div className='flex items-center justify-between mb-1'>
             <h4 className='text-xs capitalize'>{order.agent_name}</h4>
-            <p className='text-xs ml-auto'>{order.phone}</p>
+            {/* <p className='text-xs ml-auto'>{order.phone}</p> */}
           </div>
           <div className='flex items-center justify-between'>
             <p className='text-xs'>{order.code}</p>
@@ -332,89 +283,147 @@ ListItemProps) => {
           </div>
         </div>
         <div className='w-full px-5 flex gap-5'>
-          <select
-            onChange={(e) => setEntityId(e.target.value)}
-            className={`bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 ${
-              errors.entityId ? "!border-1 !border-red-600" : ""
-            }`}
-            defaultValue={entityId}
+          <Select.Root
+            value={entityId}
+            onValueChange={(value) => setEntityId(value)}
           >
-            <option selected={!entityId} value='0'>
-              {isLoading ? "Loading..." : `Кто отгрузил`}
-            </option>
-            {customEntityData?.rows?.map((entity: any) => (
-              <option
-                className='text-sm'
-                selected={entity.name === entityId}
-                key={entity.id}
-                value={entity.id}
-              >
-                {entity.name}
-              </option>
-            ))}
-          </select>
-
-          {/* <Select value={entityId} onValueChange={(e) => setEntityId(e)}>
-            <SelectTrigger
-              className={`w-full ${
-                errors.entityId ? "border-2 border-red-600" : ""
-              }`}
+            <Select.Trigger
+              className={cn(
+                "inline-flex rounded-lg items-center justify-between gap-[5px] dark:bg-white/15  bg-white px-2 text-[13px] leading-none text-violet11 shadow-[0_2px_10px] shadow-black/10 outline-none hover:bg-mauve3 focus:shadow-[0_0_0_2px] focus:shadow-black data-[placeholder]:text-violet9 w-full border border-black/30 h-11",
+                errors.entityId && "!border-red-400"
+              )}
+              aria-label='Food'
             >
-              <SelectValue
-                placeholder={isLoading ? "Loading..." : `Кто отгрузил`}
-              />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="0">Кто отгрузил</SelectItem>
-              {customEntityData?.rows?.map((entity: any) => (
-                <SelectItem key={entity.id} value={entity.id}>
-                  {entity.name}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select> */}
+              <Select.Value placeholder='Select a name…' />
+              <Select.Icon className='text-violet11'>
+                <ChevronDownIcon width={20} height={20} />
+              </Select.Icon>
+            </Select.Trigger>
+            <Select.Portal>
+              <Select.Content
+                onPointerDownOutside={(event) => {
+                  const target = event.target as HTMLElement;
+                  // Prevent closing if the user is interacting with the scroll bar
+                  if (target.closest("[data-radix-scroll-area]")) {
+                    event.preventDefault();
+                  }
+                }}
+                onEscapeKeyDown={(event) => {
+                  // Optional: Handle Escape key if needed
+                  console.log("Escape key pressed");
+                }}
+                className='overflow-hidden dark:bg-[#1A1A1A] rounded-md bg-white shadow-[0px_10px_38px_-10px_rgba(22,_23,_24,_0.35),0px_10px_20px_-15px_rgba(22,_23,_24,_0.2)] relative z-50'
+              >
+                <Select.ScrollUpButton className='flex h-[25px] cursor-default items-center justify-center dark:bg-[#1A1A1A] bg-white text-violet11'>
+                  <ChevronUpIcon width={20} height={20} />
+                </Select.ScrollUpButton>
+                <Select.Viewport className='p-[5px]'>
+                  <Select.Group>
+                    <Select.Item
+                      key={0}
+                      value='0'
+                      className='flex items-center px-3 py-2 rounded cursor-pointer  dark:hover:bg-white/30 hover:bg-gray-100 focus-visible:outline-none'
+                    >
+                      <Select.ItemText>
+                        <div className='text-sm'>Кто отгрузил</div>
+                      </Select.ItemText>
+                      <Select.ItemIndicator className='ml-auto'>
+                        <CheckIcon width={20} height={20} />
+                      </Select.ItemIndicator>
+                    </Select.Item>
+                    {customEntityData?.rows?.map((option: any) => (
+                      <Select.Item
+                        key={option.id}
+                        value={option.id}
+                        className='flex items-center px-3 py-2 rounded cursor-pointer  dark:hover:bg-white/30 hover:bg-gray-100 focus-visible:outline-none'
+                      >
+                        <Select.ItemText>
+                          <div className='text-sm'>{option.name}</div>
+                        </Select.ItemText>
+                        <Select.ItemIndicator className='ml-auto'>
+                          <CheckIcon width={20} height={20} />
+                        </Select.ItemIndicator>
+                      </Select.Item>
+                    ))}
+                  </Select.Group>
+                </Select.Viewport>
+                <Select.ScrollDownButton className='flex h-[25px] cursor-default items-center justify-center bg-white dark:bg-[#1A1A1A]  text-violet11'>
+                  <ChevronDownIcon width={20} height={20} />
+                </Select.ScrollDownButton>
+              </Select.Content>
+            </Select.Portal>
+          </Select.Root>
 
-          <select
-            onChange={(e) => setEntityId2(e.target.value)}
-            className={`bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 ${
-              errors.entityId ? "!border-1 !border-red-600" : ""
-            }`}
-            defaultValue={entityId2}
+          <Select.Root
+            value={entityId2}
+            onValueChange={(value) => setEntityId2(value)}
           >
-            <option selected={!entityId2} value='0' key={0}>
-              {isLoading ? "Loading..." : `Бригада`}
-            </option>
-            {customEntityData2?.rows?.map((entity: any) => (
-              <option
-                className='text-xl'
-                selected={entity.name === entityId2}
-                key={entity.id}
-                value={entity.id}
-              >
-                {entity.name}
-              </option>
-            ))}
-          </select>
-
-          {/* <Select value={entityId2} onValueChange={(e) => setEntityId2(e)}>
-            <SelectTrigger
-              className={`w-full ${
-                errors.entityId2 ? "border-2 border-red-600" : ""
-              }`}
+            <Select.Trigger
+              className={cn(
+                "inline-flex rounded-lg items-center justify-between gap-[5px] bg-white px-[15px] text-[13px] leading-none text-violet11 shadow-[0_2px_10px] shadow-black/10 outline-none hover:bg-mauve3 focus:shadow-[0_0_0_2px] focus:shadow-black data-[placeholder]:text-violet9 w-full border border-black/30 h-11 dark:bg-white/15",
+                errors.entityId2 && "!border-red-400"
+              )}
+              aria-label='Food'
             >
-              <SelectValue
-                placeholder={isLoading2 ? "Loading..." : `Бригада`}
-              />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="0">Бригада</SelectItem>
-              {customEntityData2?.rows?.map((entity: any) => (
-                <SelectItem key={entity.id} value={entity.id}>
-                  {entity.name}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select> */}
+              <Select.Value placeholder='Select a sklad...' />
+              <Select.Icon className='text-violet11'>
+                <ChevronDownIcon width={20} height={20} />
+              </Select.Icon>
+            </Select.Trigger>
+            <Select.Portal>
+              <Select.Content
+                onPointerDownOutside={(event) => {
+                  const target = event.target as HTMLElement;
+                  // Prevent closing if the user is interacting with the scroll bar
+                  if (target.closest("[data-radix-scroll-area]")) {
+                    event.preventDefault();
+                  }
+                }}
+                onEscapeKeyDown={(event) => {
+                  // Optional: Handle Escape key if needed
+                  console.log("Escape key pressed");
+                }}
+                className='overflow-hidden rounded-md bg-white dark:bg-[#1A1A1A] shadow-[0px_10px_38px_-10px_rgba(22,_23,_24,_0.35),0px_10px_20px_-15px_rgba(22,_23,_24,_0.2)] relative z-50'
+              >
+                <Select.ScrollUpButton className='flex h-[25px] cursor-default items-center justify-center bg-white dark:bg-[#1A1A1A] text-violet11'>
+                  <ChevronUpIcon width={20} height={20} />
+                </Select.ScrollUpButton>
+                <Select.Viewport className='p-[5px]'>
+                  <Select.Group>
+                    <Select.Item
+                      key='0'
+                      value='0'
+                      className='flex items-center px-3 py-2 rounded cursor-pointer dark:hover:bg-white/30 hover:bg-gray-100 focus-visible:outline-none '
+                    >
+                      <Select.ItemText>
+                        <div className='text-sm'>Бригада</div>
+                      </Select.ItemText>
+                      <Select.ItemIndicator className='ml-auto'>
+                        <CheckIcon width={20} height={20} />
+                      </Select.ItemIndicator>
+                    </Select.Item>
+                    {customEntityData2?.rows?.map((option: any) => (
+                      <Select.Item
+                        key={option.id}
+                        value={option.id}
+                        className='flex items-center px-3 py-2 rounded cursor-pointer dark:hover:bg-white/30 hover:bg-gray-100 focus-visible:outline-none'
+                      >
+                        <Select.ItemText>
+                          <div className='text-sm'>{option.name}</div>
+                        </Select.ItemText>
+                        <Select.ItemIndicator className='ml-auto'>
+                          <CheckIcon width={20} height={20} />
+                        </Select.ItemIndicator>
+                      </Select.Item>
+                    ))}
+                  </Select.Group>
+                </Select.Viewport>
+                <Select.ScrollDownButton className='flex h-[25px] cursor-default items-center justify-center bg-white dark:bg-[#1A1A1A]  text-violet11'>
+                  <ChevronDownIcon />
+                </Select.ScrollDownButton>
+              </Select.Content>
+            </Select.Portal>
+          </Select.Root>
         </div>
       </div>
 
